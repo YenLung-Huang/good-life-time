@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 good-life-time crawler
-Fetches friendly-time / discounted product data from:
-  1. FamilyMart (全家)  - public API
-  2. 7-11 (7-11)       - to be researched
-  3. PXMart (全聯)      - to be researched
+Fetches:
+  1. FamilyMart stores + products
+  2. 7-11 stores
+  3. PXMart stores (placeholder)
 """
 
 import requests
@@ -17,7 +17,6 @@ TZ = timezone(timedelta(hours=+8))
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept": "application/json",
-    "Referer": "https://foodsafety.family.com.tw/",
 }
 
 OUTPUT = {
@@ -25,10 +24,9 @@ OUTPUT = {
     "stores": []
 }
 
-# ─── FamilyMart ────────────────────────────────────────────────────────────────
+# ─── FamilyMart Products ──────────────────────────────────────────────────────
 
-def fetch_family():
-    """全家友善時光 (含 CLB / 非會員)"""
+def fetch_family_products():
     url = "https://foodsafety.family.com.tw/Web_FFD_2022/ws/QueryFsProductListByFilter"
     payload = {"MEMBER": "N", "KEYWORD": "", "INCLUDE_CLB": "N"}
     resp = requests.post(url, json=payload, headers=HEADERS, timeout=30)
@@ -37,7 +35,7 @@ def fetch_family():
 
     if data.get("RESULT_CODE") != "00":
         print(f"[全家] API error: {data.get('RESULT_DESC', 'unknown')}", file=sys.stderr)
-        return None
+        return []
 
     products = []
     for cat in data.get("LIST", []):
@@ -48,7 +46,7 @@ def fetch_family():
             products.append({
                 "id": f"family-{item.get('CMNO', '')}",
                 "name": item.get("PRODNAME", ""),
-                "original_price": 0,   # 全家 API 未提供原價
+                "original_price": 0,
                 "friendly_price": 0,
                 "discount_percent": 0,
                 "image_url": img_url,
@@ -59,57 +57,28 @@ def fetch_family():
                 "note": item.get("NOTE", "")
             })
 
-    print(f"[全家]Fetched {len(products)} products across {len(data.get('LIST',[]))} categories")
+    print(f"[全家] {len(products)} products")
     return products
 
-# ─── 7-11 ─────────────────────────────────────────────────────────────────────
+# ─── FamilyMart Stores ─────────────────────────────────────────────────────────
 
-def fetch_seven():
-    """
-    7-11 友善時光 (i珍食)
-    使用 openpoint.com.tw API endpoint。
-    NOTE: 實際產品需要門市級 API，這裡示範用靜態 JSON fallback
-          直到找到穩定的即時來源。
-    """
-    # 目前先嘗試抓取公開的 7-11 商品列表 JSON
-    # 如果失敗則返回之前 FriendlyCat 備份資料
-    try:
-        url = "https://www.7-11.com.tw/freshfoods/Read_Food_xml_hot.aspx"
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        if resp.status_code == 200 and len(resp.text) > 10:
-            print(f"[7-11] Got response: {len(resp.text)} bytes (non-empty)")
-        else:
-            print(f"[7-11] API returned empty ({resp.status_code})")
-    except Exception as e:
-        print(f"[7-11] Fetch error: {e}", file=sys.stderr)
+def fetch_family_stores():
+    url = "https://raw.githubusercontent.com/Alan-Cheng/Friendly-Cat/main/docs/assets/family_mart_stores.json"
+    resp = requests.get(url, headers={**HEADERS, "Accept": "application/json"}, timeout=30)
+    resp.raise_for_status()
+    stores = resp.json()
+    print(f"[全家] {len(stores)} stores")
+    return stores
 
-    # 回傳空，等待研究完成
-    return []
+# ─── 7-11 Stores ──────────────────────────────────────────────────────────────
 
-# ─── PXMart ───────────────────────────────────────────────────────────────────
-
-def fetch_pxmart():
-    """
-    全聯 友善時光 (牧場/鮮物)
-    全聯沒有公開 API，這裡嘗試從網站挖潛在端點。
-    """
-    # 嘗試可能的 API endpoint
-    candidates = [
-        "https://www.pxmart.com.tw/api/friendly-products",
-        "https://www.pxmart.com.tw/api/product/friendly",
-        "https://www.pxmart.com.tw/fresh/api/friendly",
-    ]
-    for url in candidates:
-        try:
-            resp = requests.get(url, headers=HEADERS, timeout=10)
-            if resp.status_code == 200 and "json" in resp.headers.get("Content-Type",""):
-                print(f"[全聯] Found API at {url}")
-                return resp.json()
-        except:
-            pass
-
-    print("[全聯] No public API found — placeholder data will be used")
-    return []
+def fetch_seven_stores():
+    url = "https://alan-cheng.github.io/Friendly-Cat/assets/seven_eleven_stores.json"
+    resp = requests.get(url, headers={**HEADERS, "Accept": "application/json"}, timeout=30)
+    resp.raise_for_status()
+    stores = resp.json()
+    print(f"[7-11] {len(stores)} stores")
+    return stores
 
 # ─── Main ─────────────────────────────────────────────────────────────────────
 
@@ -117,47 +86,67 @@ def build_output():
     OUTPUT["updated_at"] = datetime.now(TZ).isoformat()
 
     # FamilyMart
-    family_products = fetch_family()
-    if family_products:
-        OUTPUT["stores"].append({
-            "id": "family",
-            "name": "全家",
-            "name_en": "FamilyMart",
-            "color": "#3B82F6",
-            "products": family_products
-        })
+    family_products = fetch_family_products()
+    family_stores = fetch_family_stores()
     time.sleep(1)
 
     # 7-11
-    seven_products = fetch_seven()
-    if seven_products:
-        OUTPUT["stores"].append({
-            "id": "seven",
-            "name": "7-11",
-            "name_en": "Seven-Eleven",
-            "color": "#F97316",
-            "products": seven_products
-        })
-    time.sleep(1)
+    seven_stores = fetch_seven_stores()
 
-    # PXMart
-    pxmart_products = fetch_pxmart()
-    if pxmart_products:
-        OUTPUT["stores"].append({
-            "id": "pxmart",
-            "name": "全聯",
-            "name_en": "PX Mart",
-            "color": "#22C55E",
-            "products": pxmart_products
-        })
+    # Output store list for selector
+    store_data = {
+        "updated_at": OUTPUT["updated_at"],
+        "stores": [
+            {
+                "id": "family",
+                "name": "全家",
+                "name_en": "FamilyMart",
+                "color": "#3B82F6",
+                "stores": [
+                    { "id": s["pkeynew"], "name": s["Name"], "tel": s["Tel"],
+                      "addr": s["addr"], "lat": s["px_wgs84"], "lng": s["py_wgs84"] }
+                    for s in family_stores
+                ]
+            },
+            {
+                "id": "seven",
+                "name": "7-11",
+                "name_en": "Seven-Eleven",
+                "color": "#F97316",
+                "stores": [
+                    { "id": s["serial"], "name": s["name"], "tel": s["phone"],
+                      "addr": s["addr"], "lat": s["lat"], "lng": s["lng"] }
+                    for s in seven_stores
+                ]
+            }
+        ]
+    }
+
+    with open("data/stores.json", "w", encoding="utf-8") as f:
+        json.dump(store_data, f, ensure_ascii=False, indent=2)
+    print(f"[OK] stores.json saved ({len(family_stores)+len(seven_stores)} total stores)")
+
+    # Output products
+    OUTPUT["stores"].append({
+        "id": "family",
+        "name": "全家",
+        "name_en": "FamilyMart",
+        "color": "#3B82F6",
+        "products": family_products
+    })
+    OUTPUT["stores"].append({
+        "id": "seven",
+        "name": "7-11",
+        "name_en": "Seven-Eleven",
+        "color": "#F97316",
+        "products": []
+    })
+
+    with open("data/data.json", "w", encoding="utf-8") as f:
+        json.dump(OUTPUT, f, ensure_ascii=False, indent=2)
 
     total = sum(len(s["products"]) for s in OUTPUT["stores"])
-    print(f"\n[OK] Total products fetched: {total}")
-    print(f"Updated at: {OUTPUT['updated_at']}")
+    print(f"[OK] data.json saved ({total} products)")
 
 if __name__ == "__main__":
     build_output()
-    out_path = "data/data.json"
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(OUTPUT, f, ensure_ascii=False, indent=2)
-    print(f"Saved to {out_path}")
