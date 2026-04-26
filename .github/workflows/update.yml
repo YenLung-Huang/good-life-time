@@ -1,0 +1,40 @@
+name: Update Data Every 15 Minutes
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:          # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml pillow
+
+      - name: Run crawler
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/crawler.py
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --exit-code data/data.json; then
+            echo "No changes, skipping commit"
+          else
+            git config user.name "GitHub Actions Bot"
+            git config user.email "actions@github.com"
+            git add data/data.json
+            git commit -m "chore: update product data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

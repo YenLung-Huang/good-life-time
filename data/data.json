@@ -1,0 +1,209 @@
+{
+  "updated_at": "2026-04-26T11:05:00+08:00",
+  "stores": [
+    {
+      "id": "seven",
+      "name": "7-11",
+      "name_en": "Seven-Eleven",
+      "color": "#F97316",
+      "products": [
+        {
+          "id": "seven-001",
+          "name": "叉燒肉飯糰",
+          "original_price": 55,
+          "friendly_price": 27,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/f0f0f0/8a8a8a?text=叉燒肉飯糰",
+          "stock": "充足",
+          "category": "飯糰",
+          "store_name": "北車門市",
+          "address": "台北市北平西路3號"
+        },
+        {
+          "id": "seven-002",
+          "name": "照燒雞腿便當",
+          "original_price": 85,
+          "friendly_price": 42,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/f0f0f0/8a8a8a?text=照燒雞腿便當",
+          "stock": "少",
+          "category": "便當",
+          "store_name": "忠孝門市",
+          "address": "台北市忠孝東路一段12號"
+        },
+        {
+          "id": "seven-003",
+          "name": "鮮奶吐司",
+          "original_price": 35,
+          "friendly_price": 17,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/f0f0f0/8a8a8a?text=鮮奶吐司",
+          "stock": "充足",
+          "category": "麵包",
+          "store_name": "信義門市",
+          "address": "台北市信義路四段58號"
+        },
+        {
+          "id": "seven-004",
+          "name": "日式關東煮",
+          "original_price": 65,
+          "friendly_price": 32,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/f0f0f0/8a8a8a?text=日式關東煮",
+          "stock": "熱門",
+          "category": "煮食",
+          "store_name": "南京門市",
+          "address": "台北市南京東路三段89號"
+        },
+        {
+          "id": "seven-005",
+          "name": "四季春茶",
+          "original_price": 25,
+          "friendly_price": 12,
+          "discount_percent": 52,
+          "image_url": "https://fakeimg.pl/400x400/f0f0f0/8a8a8a?text=四季春茶",
+          "stock": "充足",
+          "category": "飲料",
+          "store_name": "西門門市",
+          "address": "台北市成都路15號"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "全家",
+      "name_en": "FamilyMart",
+      "color": "#3B82F6",
+      "products": [
+        {
+          "id": "family-001",
+          "name": "義式番茄肉醬義大利麵",
+          "original_price": 89,
+          "friendly_price": 44,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/e8f0ff/3b82f6?text=番茄肉醬麵",
+          "stock": "充足",
+          "category": "麵食",
+          "store_name": "敦南店",
+          "address": "台北市敦化南路一段165號"
+        },
+        {
+          "id": "family-002",
+          "name": "匠土司草莓",
+          "original_price": 45,
+          "friendly_price": 22,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/e8f0ff/3b82f6?text=草莓吐司",
+          "stock": "少",
+          "category": "麵包",
+          "store_name": "師大店",
+          "address": "台北市師大路68號"
+        },
+        {
+          "id": "family-003",
+          "name": "手撕猪肉飯",
+          "original_price": 95,
+          "friendly_price": 47,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/e8f0ff/3b82f6?text=手撕猪肉飯",
+          "stock": "充足",
+          "category": "便當",
+          "store_name": "大安店",
+          "address": "台北市大安路一段45號"
+        },
+        {
+          "id": "family-004",
+          "name": "濱江蒜泥白肉飯",
+          "original_price": 88,
+          "friendly_price": 44,
+          "discount_percent": 50,
+          "image_url": "https://fakeimg.pl/400x400/e8f0ff/3b82f6?text=蒜泥白肉飯",
+          "stock": "熱門",
+          "category": "便當",
+          "store_name": "濱江店",
+          "address": "台北市濱江街150號"
+        },
+        {
+          "id": "family-005",
+          "name": "野菜沙拉",
+          "original_price": 55,
+          "friendly_price": 27,
+          "discount_percent": 51,
+          "image_url": "https://fakeimg.pl/400x400/e8f0ff/3b82f6?text=野菜沙拉",
+          "stock": "充足",
+          "category": "沙拉",
+          "store_name": "信義店",
+          "address": "台北市松高路12號"
+        }
+      ]
+    },
+    {
+      "id": "pxmart",
+      "name": "全聯",
+      "name_en": "PX Mart",
+      "color": "#22C55E",
+      "products": [
+        {
+          "id": "pxmart-001",
+          "name": "紅燒獅子頭",
+          "original_price": 149,
+          "friendly_price": 89,
+          "discount_percent": 40,
+          "image_url": "https://fakeimg.pl/400x400/e8f8f0/22c55e?text=紅燒獅子頭",
+          "stock": "充足",
+          "category": "冷藏",
+          "store_name": "內湖店",
+          "address": "台北市內湖路一段283號"
+        },
+        {
+          "id": "pxmart-002",
+          "name": "三杯雞調理包",
+          "original_price": 99,
+          "friendly_price": 59,
+          "discount_percent": 40,
+          "image_url": "https://fakeimg.pl/400x400/e8f8f0/22c55e?text=三杯雞",
+          "stock": "少",
+          "category": "調理包",
+          "store_name": "南港店",
+          "address": "台北市南港路一段201號"
+        },
+        {
+          "id": "pxmart-003",
+          "name": "蜜汁叉燒",
+          "original_price": 129,
+          "friendly_price": 77,
+          "discount_percent": 40,
+          "image_url": "https://fakeimg.pl/400x400/e8f8f0/22c55e?text=蜜汁叉燒",
+          "stock": "充足",
+          "category": "肉類",
+          "store_name": "士林店",
+          "address": "台北市士林路一段88號"
+        },
+        {
+          "id": "pxmart-004",
+          "name": "手工水餃",
+          "original_price": 79,
+          "friendly_price": 47,
+          "discount_percent": 40,
+          "image_url": "https://fakeimg.pl/400x400/e8f8f0/22c55e?text=手工水餃",
+          "stock": "充足",
+          "category": "冷凍",
+          "store_name": "文山店",
+          "address": "台北市興隆路一段155號"
+        },
+        {
+          "id": "pxmart-005",
+          "name": "義式番茄筆管麵",
+          "original_price": 119,
+          "friendly_price": 71,
+          "discount_percent": 40,
+          "image_url": "https://fakeimg.pl/400x400/e8f8f0/22c55e?text=筆管麵",
+          "stock": "熱門",
+          "category": "義式料理",
+          "store_name": "萬華店",
+          "address": "台北市西門町峨眉街42號"
+        }
+      ]
+    }
+  ]
+}
