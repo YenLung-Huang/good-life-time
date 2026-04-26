@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """
 good-life-time crawler — fully self-sourced data
-APIs used:
-  1. FamilyMart products   — foodsafety.family.com.tw (public)
-  2. 7-11 products        — www.7-11.com.tw/freshfoods/ (public)
-  3. PCSC eMap stores     — emap.pcsc.com.tw (public, 7-11 + 全家)
+APIs:
+  1. FamilyMart products  — foodsafety.family.com.tw (public)
+  2. 7-11 products       — www.7-11.com.tw/freshfoods/ (public)
+  3. FamilyMart stores   — alan-cheng.github.io/Friendly-Cat (GeoJSON, public)
+  4. 7-11 stores         — emap.pcsc.com.tw (public)
+
+排程（台灣時間）:
+  全家 05:00, 全聯 06:00, 7-11 08:00
 """
 
 import requests
@@ -20,18 +24,8 @@ HEADERS = {
     "Accept-Language": "zh-TW,zh;q=0.9",
 }
 
-OUTPUT = {"updated_at": "", "stores": []}
-STORE_OUTPUT = {"updated_at": "", "stores": []}
 
-
-# ─── Helpers ────────────────────────────────────────────────────────────────
-
-def safe_int(v, default=0):
-    try: return int(float(v))
-    except: return default
-
-
-# ─── FamilyMart Products ─────────────────────────────────────────────────────
+# ─── 1. FamilyMart Products ─────────────────────────────────────────────
 
 def fetch_family_products():
     url = "https://foodsafety.family.com.tw/Web_FFD_2022/ws/QueryFsProductListByFilter"
@@ -63,7 +57,7 @@ def fetch_family_products():
     return products
 
 
-# ─── 7-11 Products ─────────────────────────────────────────────────────────────
+# ─── 2. 7-11 Products ─────────────────────────────────────────────────────
 
 def fetch_seven_products():
     all_items = []
@@ -79,7 +73,7 @@ def fetch_seven_products():
             for item in root.findall(".//Item"):
                 name = item.findtext("name", "")
                 price_text = item.findtext("price", "0")
-                price = safe_int(price_text)
+                price = int(float(price_text)) if price_text else 0
                 img = item.findtext("image", "")
                 all_items.append({
                     "id": f"seven-{idx}-{len(all_items)}",
@@ -100,21 +94,53 @@ def fetch_seven_products():
     return all_items
 
 
-# ─── PCSC eMap Stores ───────────────────────────────────────────────────────
+# ─── 3. FamilyMart Stores (from Friendly-Cat GeoJSON) ────────────────────
+
+def fetch_family_stores():
+    """
+    Fetches and transforms the Friendly-Cat public GeoJSON of FamilyMart stores.
+    Source: https://alan-cheng.github.io/Friendly-Cat/assets/family_mart_stores.json
+    This is NOT a fork — we fetch and transform it into our schema.
+    """
+    url = "https://alan-cheng.github.io/Friendly-Cat/assets/family_mart_stores.json"
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    raw = resp.json()
+
+    stores = []
+    for item in raw:
+        try:
+            lng = float(item.get("px_wgs84", 0) or 0)
+            lat = float(item.get("py_wgs84", 0) or 0)
+            if not lng or not lat:
+                continue
+            stores.append({
+                "id": str(item.get("pkeynew", "")),
+                "name": item.get("Name", ""),
+                "tel": item.get("Tel", ""),
+                "addr": item.get("addr", ""),
+                "lat": round(lat, 6),
+                "lng": round(lng, 6),
+            })
+        except Exception:
+            continue
+
+    print(f"[全家] {len(stores)} stores (from Friendly-Cat GeoJSON)")
+    return stores
+
+
+# ─── 4. 7-11 Stores (from PCSC eMap) ──────────────────────────────────────
 
 def fetch_pcsc_stores():
     """
-    PCSC eMap API — public, no auth beyond session cookie.
-    Returns (seven_stores, family_stores).
-    Key: must POST with URL-encoded string data, NOT dict.
+    PCSC eMap API — public, session-cookie based.
+    Returns only 7-11 stores (PCSC eMap doesn't distinguish FamilyMart).
     """
     session = requests.Session()
     session.headers.update(HEADERS)
-
-    # Step 1: establish session (gets fwchk + ASP.NET_SessionId)
     session.get('https://emap.pcsc.com.tw/', timeout=10)
 
-    # Step 2: fetch areacode.js for city list
+    # Parse city list
     r = session.get('https://emap.pcsc.com.tw/lib/areacode.js', timeout=10)
     cities = []
     for line in r.text.split('\n'):
@@ -125,21 +151,16 @@ def fetch_pcsc_stores():
                 cities.append((m.group(1), m2.group(1)))
     print(f"[PCSC] {len(cities)} cities")
     if not cities:
-        return [], []
+        return []
 
-    seven_raw, family_raw = [], []
-
-    for city_name, city_code in cities:
+    all_stores = []
+    for city_name, city_code in cities[:10]:  # 10 cities (each 3 towns) for speed
         try:
-            # Get town list for this city
-            encoded_city = urllib.parse.quote(city_name)
-            r = session.post(
-                'https://emap.pcsc.com.tw/EMapSDK.aspx',
+            r = session.post('https://emap.pcsc.com.tw/EMapSDK.aspx',
                 data=f'commandid=GetTown&cityid={city_code}&leftMenuChecked=',
                 headers={'Content-Type': 'application/x-www-form-urlencoded',
                          'Referer': 'https://emap.pcsc.com.tw/emap.aspx'},
-                timeout=15
-            )
+                timeout=15)
             towns = [t.split('</TownName>')[0].strip()
                       for t in r.content.decode('utf-8').split('<TownName>')[1:]
                       if t.split('</TownName>')[0].strip()]
@@ -147,97 +168,88 @@ def fetch_pcsc_stores():
             print(f"  GetTown error for {city_name}: {e}", file=sys.stderr)
             continue
 
-        for town in towns[:10]:  # cap 10 towns per city
+        for town in towns[:3]:  # 3 towns per city
             try:
-                encoded_city = urllib.parse.quote(city_name)
-                encoded_town = urllib.parse.quote(town)
-                r = session.post(
-                    'https://emap.pcsc.com.tw/EMapSDK.aspx',
+                r = session.post('https://emap.pcsc.com.tw/EMapSDK.aspx',
                     data=f'commandid=SearchStore&city={city_name}&town={town}',
                     headers={'Content-Type': 'application/x-www-form-urlencoded',
                              'Referer': 'https://emap.pcsc.com.tw/emap.aspx'},
-                    timeout=15
-                )
+                    timeout=15)
                 if len(r.text) < 100:
                     continue
-
                 root = ET.fromstring(r.content)
                 for poi in root.findall('.//GeoPosition'):
                     try:
-                        def ex(tag):
-                            el = poi.find(tag)
-                            return el.text.strip() if el is not None and el.text else ""
-
-                        lat_str = ex("Y"); lng_str = ex("X")
+                        lat_str = poi.find("Y").text if poi.find("Y") is not None else ""
+                        lng_str = poi.find("X").text if poi.find("X") is not None else ""
                         lat = round(float(lat_str) / 1000000, 6) if lat_str else 0.0
                         lng = round(float(lng_str) / 1000000, 6) if lng_str else 0.0
-                        kind = ex("POIClass")
-
-                        store = {
-                            "id": ex("POIID").strip(),
-                            "name": ex("POIName").strip(),
-                            "tel": ex("Telno").strip(),
-                            "addr": ex("Address").strip(),
+                        all_stores.append({
+                            "id": poi.find("POIID").text.strip() if poi.find("POIID") is not None else "",
+                            "name": poi.find("POIName").text.strip() if poi.find("POIName") is not None else "",
+                            "tel": poi.find("Telno").text.strip() if poi.find("Telno") is not None else "",
+                            "addr": poi.find("Address").text.strip() if poi.find("Address") is not None else "",
                             "lat": lat, "lng": lng,
-                        }
-
-                        if "7-11" in kind or "統一" in kind:
-                            seven_raw.append(store)
-                        elif "全家" in kind or "Family" in kind or "萊爾富" in kind:
-                            family_raw.append(store)
+                        })
                     except Exception:
                         continue
-            except Exception as e:
+            except Exception:
                 continue
-
             time.sleep(0.3)
 
-    # Deduplicate
-    seen_seven = set()
-    seven_deduped = [s for s in seven_raw if s["id"] not in seen_seven and not seen_seven.add(s["id"])]
-    seen_family = set()
-    family_deduped = [s for s in family_raw if s["id"] not in seen_family and not seen_family.add(s["id"])]
-
-    print(f"[PCSC] 7-11: {len(seven_deduped)}, 全家: {len(family_deduped)}")
-    return seven_deduped, family_deduped
+    seen = set()
+    deduped = [s for s in all_stores if s["id"] and s["id"] not in seen and not seen.add(s["id"])]
+    print(f"[PCSC] {len(deduped)} 7-11 stores")
+    return deduped
 
 
-# ─── Main ─────────────────────────────────────────────────────────────────────
+# ─── Main ────────────────────────────────────────────────────────────────
 
 def main():
-    OUTPUT["updated_at"] = datetime.now(TZ).isoformat()
-    STORE_OUTPUT["updated_at"] = OUTPUT["updated_at"]
+    now = datetime.now(TZ).isoformat()
 
+    # Fetch from multiple sources
     family_products = fetch_family_products()
     time.sleep(1)
     seven_products = fetch_seven_products()
     time.sleep(1)
-    seven_stores, family_stores = fetch_pcsc_stores()
+    family_stores = fetch_family_stores()
+    time.sleep(0.5)
+    seven_stores = fetch_pcsc_stores()
+    time.sleep(0.5)
 
-    OUTPUT["stores"] = [
-        {"id": "family", "name": "全家", "name_en": "FamilyMart", "color": "#3B82F6",
-         "products": family_products},
-        {"id": "seven", "name": "7-11", "name_en": "Seven-Eleven", "color": "#F97316",
-         "products": seven_products},
-    ]
+    # Write data.json
+    OUTPUT = {
+        "updated_at": now,
+        "stores": [
+            {"id": "family", "name": "全家", "name_en": "FamilyMart", "color": "#3B82F6",
+             "products": family_products},
+            {"id": "seven", "name": "7-11", "name_en": "Seven-Eleven", "color": "#F97316",
+             "products": seven_products},
+        ]
+    }
     with open("data/data.json", "w", encoding="utf-8") as f:
         json.dump(OUTPUT, f, ensure_ascii=False, indent=2)
     print(f"[OK] data.json — family={len(family_products)}, seven={len(seven_products)}")
 
-    STORE_OUTPUT["stores"] = [
-        {"id": "seven", "name": "7-11", "name_en": "Seven-Eleven", "color": "#F97316",
-         "stores": [{"id": s["id"], "name": s["name"], "tel": s["tel"],
-                    "addr": s["addr"], "lat": s["lat"], "lng": s["lng"]}
-                   for s in seven_stores]},
-        {"id": "family", "name": "全家", "name_en": "FamilyMart", "color": "#3B82F6",
-         "stores": [{"id": s["id"], "name": s["name"], "tel": s["tel"],
-                    "addr": s["addr"], "lat": s["lat"], "lng": s["lng"]}
-                   for s in family_stores]},
-    ]
+    # Write stores.json (with GPS coordinates for distance sorting)
+    STORE_OUTPUT = {
+        "updated_at": now,
+        "stores": [
+            {"id": "seven", "name": "7-11", "name_en": "Seven-Eleven", "color": "#F97316",
+             "stores": [{"id": s["id"], "name": s["name"], "tel": s["tel"],
+                        "addr": s["addr"], "lat": s["lat"], "lng": s["lng"]}
+                       for s in seven_stores]},
+            {"id": "family", "name": "全家", "name_en": "FamilyMart", "color": "#3B82F6",
+             "stores": [{"id": s["id"], "name": s["name"], "tel": s["tel"],
+                        "addr": s["addr"], "lat": s["lat"], "lng": s["lng"]}
+                       for s in family_stores]},
+        ]
+    }
     with open("data/stores.json", "w", encoding="utf-8") as f:
         json.dump(STORE_OUTPUT, f, ensure_ascii=False, indent=2)
     total = sum(len(s["stores"]) for s in STORE_OUTPUT["stores"])
-    print(f"[OK] stores.json — {total} total stores (seven={len(seven_stores)}, family={len(family_stores)})")
+    print(f"[OK] stores.json — {total} stores (seven={len(seven_stores)}, family={len(family_stores)})")
 
 
 if __name__ == "__main__":
