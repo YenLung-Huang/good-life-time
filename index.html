@@ -276,8 +276,7 @@
     <!-- Products grid -->
     <div class="grid grid-cols-2 gap-3">
       <template x-for="(product, idx) in displayProducts" :key="product.id">
-        <div class="card bg-card rounded-2xl overflow-hidden shadow-sm cursor-pointer"
-          @click="openModal(product)">
+        <div class="card bg-card rounded-2xl overflow-hidden shadow-sm">
           <div class="aspect-square bg-gray-100 relative">
             <img :src="product.image_url" :alt="product.name"
               class="w-full h-full object-cover"
@@ -287,15 +286,24 @@
               :class="product.store_id === 'seven' ? 'bg-accent' : 'bg-family-blue'"
               x-text="'-' + product.discount_percent + '%'">
             </span>
+            <span x-show="product.qty !== undefined"
+              class="absolute top-1.5 right-1.5 px-1.5 py-0.5 rounded-md text-xs font-bold text-white"
+              :class="product.store_id === 'seven' ? 'bg-accent/80' : 'bg-family-blue/80'"
+              x-text="product.qty + '件'">
+            </span>
           </div>
           <div class="p-2.5">
             <p class="text-sm font-medium leading-snug line-clamp-2 mb-1" x-text="product.name"></p>
-            <div class="flex items-baseline gap-1.5">
+            <div x-show="product.qty === undefined" class="flex items-baseline gap-1.5">
               <span class="text-base font-bold"
                 :class="product.store_id === 'seven' ? 'text-accent' : 'text-family-blue'"
                 x-text="'$' + product.friendly_price"></span>
               <span x-show="product.original_price > 0" class="text-xs text-muted line-through"
                 x-text="'$' + product.original_price"></span>
+            </div>
+            <div x-show="product.qty !== undefined" class="text-xs font-medium"
+              :class="product.store_id === 'seven' ? 'text-accent' : 'text-family-blue'">
+              現場優惠
             </div>
             <div class="flex items-center gap-1 mt-1">
               <span class="w-1.5 h-1.5 rounded-full"
