@@ -220,7 +220,7 @@
             <div class="text-right flex-shrink-0">
               <div class="text-sm font-bold" :class="store.chain === 'seven' ? 'text-accent' : 'text-family-blue'"
                 x-text="store.distanceKm.toFixed(1) + 'km'"></div>
-              <div class="text-xs text-muted" x-text="(store.chain === 'family' && storeStockData[store.id] ? (storeStockData[store.id].info || []).reduce((a,c) => a + c.qty, 0) + '件現貨' : store.chainCount + '件優惠')"></div>
+              <div class="text-xs text-muted" x-text="(store.chain === 'family' && storeStockData[store.name] ? (storeStockData[store.name].info || []).reduce((a,c) => a + c.qty, 0) + '件現貨' : store.chainCount + '件優惠')"></div>
             </div>
           </button>
         </template>
@@ -534,7 +534,7 @@
                   });
                 });
               });
-              stockMap[store.oldPKey] = {
+              stockMap[store.name] = {
                 ...store,
                 stockProducts: products,
                 distanceM: store.distance
@@ -571,8 +571,8 @@
         selectStore(store) {
           this.selectedStore = store;
           this.activeTab = store.chain;
-          if (store.chain === 'family' && this.storeStockData[store.id]) {
-            const stockInfo = this.storeStockData[store.id];
+          if (store.chain === 'family' && this.storeStockData[store.name]) {
+            const stockInfo = this.storeStockData[store.name];
             this.selectedStoreStock = stockInfo.stockProducts || [];
             this.filteredProducts = this.selectedStoreStock;
             this.displayProducts = this.selectedStoreStock.slice(0, this.pageSize);
