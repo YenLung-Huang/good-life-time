@@ -129,7 +129,7 @@ def fetch_pcsc_stores():
     if not cities: return []
 
     all_stores = []
-    for city_name, city_code in cities[:10]:
+    for city_name, city_code in cities:
         try:
             r = session.post('https://emap.pcsc.com.tw/EMapSDK.aspx',
                 data=f'commandid=GetTown&cityid={city_code}&leftMenuChecked=',
@@ -141,7 +141,7 @@ def fetch_pcsc_stores():
         except Exception as e:
             print(f"  GetTown {city_name} error: {e}", file=sys.stderr); continue
 
-        for town in towns[:3]:
+        for town in towns:
             try:
                 r = session.post('https://emap.pcsc.com.tw/EMapSDK.aspx',
                     data=f'commandid=SearchStore&city={city_name}&town={town}',
@@ -164,7 +164,7 @@ def fetch_pcsc_stores():
                         })
                     except: continue
             except: continue
-            time.sleep(0.3)
+            time.sleep(0.15)
 
     seen = set()
     deduped = [s for s in all_stores if s["id"] and s["id"] not in seen and not seen.add(s["id"])]
