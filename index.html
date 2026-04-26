@@ -489,7 +489,7 @@
               });
             });
 
-            console.log('Loaded stores:', this.allStore.length);
+            console.log('Loaded stores:', this.allStores.length);
 
           } catch (err) {
             console.warn('Failed to load stores:', err);
@@ -518,7 +518,7 @@
           // Add product counts to each store (for display)
           this.nearbyStores.forEach(store => {
             store.distance = store.distanceKm.toFixed(1);
-            store.productCount = store.chain === 'seven' ? this.counts.seven : this.counts.family;
+            store.productCount = this.counts[store.chain] || 0;
           });
         },
 
