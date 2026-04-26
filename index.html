@@ -7,14 +7,10 @@
   <meta name="description" content="找附近超商優惠：7-11、全家。即期特價聰明省">
   <meta name="theme-color" content="#F97316">
   <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-  <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
-  <!-- Alpine -->
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
-  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -30,45 +26,32 @@
             muted: '#8A8A8A',
             accent: '#F97316',
             'family-blue': '#3B82F6',
-            'seven-orange': '#F97316',
           },
-          fontFamily: {
-            sans: ['Noto Sans TC', 'Inter', 'sans-serif'],
-          }
+          fontFamily: { sans: ['Noto Sans TC', 'Inter', 'sans-serif'] }
         }
       }
     }
   </script>
 
   <style>
-    /* Base */
     body { background-color: #FAFAF8; -webkit-tap-highlight-color: transparent; }
     [x-cloak] { display: none !important; }
 
-    /* Smooth scroll */
-    * { scroll-behavior: smooth; -webkit-overflow-scrolling: touch; }
+    /* Store list item */
+    .store-item { transition: all 150ms ease; }
+    .store-item:active { transform: scale(0.97); background-color: #f9fafb; }
+    .store-item.selected { border-color: #F97316; background-color: #fff7ed; }
 
-    /* Card */
-    .card {
-      transition: transform 180ms ease, box-shadow 180ms ease;
-    }
-    .card:active {
-      transform: scale(0.98);
-    }
+    /* Card press */
+    .card { transition: transform 180ms ease, box-shadow 180ms ease; }
+    .card:active { transform: scale(0.97); }
 
-    /* Pulse animation for GPS button */
-    @keyframes pulse-ring {
-      0% { transform: scale(1); opacity: 1; }
-      100% { transform: scale(1.5); opacity: 0; }
+    /* GPS pulse */
+    @keyframes gps-pulse {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.5); }
+      50% { box-shadow: 0 0 0 6px rgba(59, 130, 246, 0); }
     }
-    .gps-pulse::before {
-      content: '';
-      position: absolute;
-      inset: -4px;
-      border-radius: 9999px;
-      border: 2px solid currentColor;
-      animation: pulse-ring 1.5s ease-out infinite;
-    }
+    .gps-active { animation: gps-pulse 2s infinite; }
 
     /* Skeleton */
     @keyframes shimmer {
@@ -81,32 +64,24 @@
       animation: shimmer 1.5s infinite;
     }
 
-    /* Tab active indicator */
-    .tab-active::after {
-      content: '';
-      position: absolute;
-      bottom: 0;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 24px;
-      height: 3px;
-      border-radius: 2px;
-    }
+    /* Scrollbar hide */
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
   </style>
 </head>
 
-<body class="font-sans text-text antialiased"
-  x-data="app()"
-  x-init="init()">
+<body class="font-sans text-text antialiased" x-data="app()" x-init="init()">
 
-  <!-- ========== HEADER ========== -->
+  <!-- ===== HEADER ===== -->
   <header class="sticky top-0 z-40 bg-card/95 backdrop-blur-sm border-b border-gray-100">
     <div class="max-w-lg mx-auto px-4 py-3">
       <div class="flex items-center justify-between">
+
         <!-- Logo -->
         <div>
           <h1 class="font-semibold text-lg">
-            <span class="text-accent">good</span> <span class="text-text">life</span> <span class="text-muted text-sm">time</span>
+            <span class="text-accent">good</span> <span class="text-text">life</span>
+            <span class="text-muted text-sm font-normal">time</span>
           </h1>
           <p class="text-xs text-muted">
             <span x-show="lastUpdated">更新 <span x-text="lastUpdated"></span></span>
@@ -121,15 +96,17 @@
 
         <!-- GPS + Refresh -->
         <div class="flex gap-2">
-          <!-- GPS定位按鈕 -->
-          <button @click="getLocation()"
+          <!-- GPS定位 -->
+          <button @click="toggleLocation()"
             :disabled="locating"
-            :class="locationError ? 'text-red-500' : userLocation ? 'text-family-blue' : 'text-muted'"
-            class="relative p-2 rounded-full transition-colors disabled:opacity-50"
-            :title="locationError || '定位附近的店'">
-            <svg x-show="!locating" class="w-5 h-5" :class="userLocation ? 'gps-pulse' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+            :class="locating ? 'text-muted' : locationError ? 'text-red-400' : hasLocation ? 'text-family-blue gps-active' : 'text-muted hover:text-text'"
+            class="p-2 rounded-full transition-colors disabled:opacity-50"
+            :title="locationError || (hasLocation ? '重新定位' : '定位附近的店')">
+            <svg x-show="!locating" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
             </svg>
             <svg x-show="locating" class="w-5 h-5 animate-spin" fill="none" viewBox="0 0 24 24">
               <circle class="opacity-30" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="3"></circle>
@@ -147,17 +124,15 @@
         </div>
       </div>
 
-      <!-- Location display -->
-      <div x-show="userLocation" x-transition class="mt-2 text-xs text-muted flex items-center gap-1">
-        <svg class="w-3 h-3 text-family-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-        </svg>
-        <span>你在<span x-text="userLocation"></span>附近</span>
-        <button @click="userLocation = null; sortByDistance = false" class="ml-1 text-muted hover:text-text">✕</button>
+      <!-- Location bar -->
+      <div x-show="hasLocation && !selectedStore" x-transition class="mt-2 flex items-center gap-2 text-xs text-muted">
+        <span class="w-2 h-2 rounded-full bg-family-blue animate-pulse"></span>
+        <span>你在 <span x-text="locationArea"></span>，<span x-text="nearbyStores.length"></span> 家店鋪</span>
+        <button @click="clearLocation()" class="ml-auto text-muted hover:text-text">清除定位</button>
       </div>
 
-      <!-- 定位錯誤 -->
-      <div x-show="locationError" x-transition class="mt-2 text-xs text-red-500 flex items-center gap-1">
+      <!-- Location error -->
+      <div x-show="locationError" x-transition class="mt-2 text-xs text-red-400 flex items-center gap-1">
         <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
         </svg>
@@ -165,79 +140,97 @@
       </div>
     </div>
 
-    <!-- Tabs: 商店選擇 -->
+    <!-- Body section: selected store banner + tabs + nearby list -->
     <div class="max-w-lg mx-auto px-4 pb-3">
-      <!-- 已選擇的店 -->
-      <div x-show="selectedStore" x-transition class="mb-3 p-3 rounded-xl bg-gray-50 border border-gray-100">
+
+      <!-- Selected store card -->
+      <div x-show="selectedStore" x-transition
+        class="mb-3 p-3 rounded-xl border-2 border-accent/30 bg-accent/5">
         <div class="flex items-center justify-between">
-          <div>
+          <div class="flex-1 min-w-0">
             <div class="flex items-center gap-2">
-              <span class="text-lg" :class="selectedStore.chain === 'seven' ? 'text-accent' : 'text-family-blue'" x-text="selectedStore.chain === 'seven' ? '7-11' : '全家'"></span>
-              <span class="font-medium" x-text="selectedStore.name"></span>
+              <span class="text-sm font-bold px-2 py-0.5 rounded-md text-white"
+                :class="selectedStore.chain === 'seven' ? 'bg-accent' : 'bg-family-blue'"
+                x-text="selectedStore.chain === 'seven' ? '7-11' : '全家'">
+              </span>
+              <span class="font-semibold text-sm truncate" x-text="selectedStore.name"></span>
             </div>
-            <div class="text-xs text-muted mt-0.5">
-              <span x-text="selectedStore.distance"></span>km · <span x-text="selectedStore.addr"></span>
+            <div class="text-xs text-muted mt-0.5 flex items-center gap-2 truncate">
+              <span class="font-medium text-accent" x-text="selectedStore.distanceKm + 'km'"></span>
+              <span class="truncate" x-text="selectedStore.addr"></span>
             </div>
           </div>
-          <button @click="selectedStore = null" class="p-2 text-muted hover:text-text">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <button @click="deselectStore()" class="ml-2 p-1.5 rounded-full hover:bg-accent/10 text-muted hover:text-accent transition-colors flex-shrink-0">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
             </svg>
           </button>
         </div>
       </div>
 
-      <!-- Tab: 全部/7-11/全家 -->
-      <div class="flex gap-2 overflow-x-auto">
-        <button @click="activeTab = 'all'; filterProducts()"
-          :class="activeTab === 'all' ? 'bg-text text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300'"
-          class="px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-all">
-          全部 <span class="opacity-70" x-text="'(' + counts.all + ')'"></span>
+      <!-- Tabs: 全部 / 7-11 / 全家 -->
+      <div class="flex gap-2 overflow-x-auto hide-scrollbar">
+        <button @click="setTab('all')"
+          :class="activeTab === 'all' ? 'bg-text text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300 hover:text-text'"
+          class="px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-all flex items-center gap-1.5">
+          全部
+          <span class="text-xs opacity-60" x-text="'(' + counts.all + ')'"></span>
         </button>
-        <button @click="activeTab = 'seven'; filterProducts()"
-          :class="activeTab === 'seven' ? 'bg-accent text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300'"
-          class="px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-all flex items-center gap-1">
-          <span class="w-2 h-2 rounded-full bg-accent"></span>
-          7-11 <span class="opacity-70" x-text="'(' + counts.seven + ')'"></span>
+        <button @click="setTab('seven')"
+          :class="activeTab === 'seven' ? 'bg-accent text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300 hover:text-text'"
+          class="px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-all flex items-center gap-1.5">
+          <span class="w-1.5 h-1.5 rounded-full" :class="activeTab === 'seven' ? 'bg-white' : 'bg-accent'"></span>
+          7-11
+          <span class="text-xs opacity-60" x-text="'(' + counts.seven + ')'"></span>
         </button>
-        <button @click="activeTab = 'family'; filterProducts()"
-          :class="activeTab === 'family' ? 'bg-family-blue text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300'"
-          class="px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-all flex items-center gap-1">
-          <span class="w-2 h-2 rounded-full bg-family-blue"></span>
-          全家 <span class="opacity-70" x-text="'(' + counts.family + ')'"></span>
+        <button @click="setTab('family')"
+          :class="activeTab === 'family' ? 'bg-family-blue text-white' : 'bg-white border border-gray-200 text-muted hover:border-gray-300 hover:text-text'"
+          class="px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap transition-all flex items-center gap-1.5">
+          <span class="w-1.5 h-1.5 rounded-full" :class="activeTab === 'family' ? 'bg-white' : 'bg-family-blue'"></span>
+          全家
+          <span class="text-xs opacity-60" x-text="'(' + counts.family + ')'"></span>
         </button>
       </div>
 
-      <!-- 附近店鋪列表 (GPS mode) -->
-      <div x-show="nearbyStores.length > 0" x-transition class="mt-3 space-y-2">
-        <div class="text-xs text-muted mb-2">附近的店</div>
-        <template x-for="store in nearbyStores.slice(0, 5)" :key="store.id">
+      <!-- Nearby store list (only show when we have GPS location AND no store selected) -->
+      <div x-show="hasLocation && !selectedStore && nearbyStores.length > 0" x-transition class="mt-3 space-y-1.5">
+        <div class="text-xs text-muted font-medium">附近的店</div>
+        <template x-for="store in nearbyStores" :key="store.id">
           <button @click="selectStore(store)"
-            class="w-full p-2 rounded-lg bg-white border border-gray-100 hover:border-gray-200 text-left transition-all flex items-center justify-between">
-            <div>
-              <div class="flex items-center gap-2">
-                <span class="w-2 h-2 rounded-full" :class="store.chain === 'seven' ? 'bg-accent' : 'bg-family-blue'"></span>
-                <span class="font-medium text-sm" :class="store.chain === 'seven' ? 'text-accent' : 'text-family-blue'" x-text="store.chain === 'seven' ? '7-11' : '全家'"></span>
-                <span class="text-sm" x-text="store.name"></span>
+            class="store-item w-full p-2.5 rounded-xl bg-white border border-gray-100 text-left
+                   flex items-center justify-between gap-3">
+            <div class="flex items-center gap-3 min-w-0 flex-1">
+              <span class="w-2.5 h-2.5 rounded-full flex-shrink-0"
+                :class="store.chain === 'seven' ? 'bg-accent' : 'bg-family-blue'"></span>
+              <div class="min-w-0 flex-1">
+                <div class="flex items-center gap-1.5">
+                  <span class="text-xs font-medium"
+                    :class="store.chain === 'seven' ? 'text-accent' : 'text-family-blue'"
+                    x-text="store.chain === 'seven' ? '7-11' : '全家'">
+                  </span>
+                  <span class="text-sm font-medium truncate" x-text="store.name"></span>
+                </div>
+                <div class="text-xs text-muted truncate" x-text="store.addr"></div>
               </div>
-              <div class="text-xs text-muted" x-text="store.addr"></div>
             </div>
-            <div class="text-right">
-              <div class="text-sm font-medium" x-text="store.distance + 'km'"></div>
-              <div class="text-xs text-muted" x-text="store.productCount + '件優惠'"></div>
+            <div class="text-right flex-shrink-0">
+              <div class="text-sm font-bold" :class="store.chain === 'seven' ? 'text-accent' : 'text-family-blue'"
+                x-text="store.distanceKm.toFixed(1) + 'km'"></div>
+              <div class="text-xs text-muted" x-text="store.chainCount + '件優惠'"></div>
             </div>
           </button>
         </template>
       </div>
+
     </div>
   </header>
 
-  <!-- ========== MAIN CONTENT ========== -->
-  <main class="max-w-lg mx-auto px-4 pb-8">
+  <!-- ===== MAIN ===== -->
+  <main class="max-w-lg mx-auto px-4 pb-10">
 
-    <!-- Loading Skeleton -->
+    <!-- Loading skeleton -->
     <template x-if="loading && products.length === 0">
-      <div class="grid grid-cols-2 gap-3 pt-2">
+      <div class="grid grid-cols-2 gap-3">
         <template x-for="i in 8">
           <div class="bg-card rounded-2xl overflow-hidden">
             <div class="aspect-square skeleton"></div>
@@ -254,7 +247,7 @@
     <template x-if="error">
       <div class="text-center py-12">
         <p class="text-muted mb-4">載入失敗</p>
-        <button @click="refresh()" class="px-4 py-2 bg-accent text-white rounded-full text-sm">
+        <button @click="refresh()" class="px-5 py-2 bg-accent text-white rounded-full text-sm font-medium">
           重試
         </button>
       </div>
@@ -263,78 +256,78 @@
     <!-- Empty -->
     <template x-if="!loading && displayProducts.length === 0 && !error">
       <div class="text-center py-12">
-        <p class="text-muted" x-text="selectedStore ? '這間店沒有優惠商品' : '目前沒有優惠'"></p>
-        <p x-show="selectedStore" class="text-xs text-muted mt-2">試試選其他間店</p>
+        <p class="text-muted" x-text="selectedStore ? '這間店 ' + selectedStore.name + ' 暫無優惠' : '目前沒有優惠'"></p>
       </div>
     </template>
 
-    <!-- Products Grid -->
-    <div class="grid grid-cols-2 gap-3 pt-2">
+    <!-- Hint when store selected -->
+    <div x-show="selectedStore && filteredProducts.length > 0" class="mb-3 text-xs text-muted flex items-center gap-1">
+      <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+      </svg>
+      <span>顯示 <span x-text="selectedStore.chain === 'seven' ? '7-11' : '全家'"></span> <span x-text="selectedStore.name"></span> 的優惠商品</span>
+    </div>
+
+    <!-- Products grid -->
+    <div class="grid grid-cols-2 gap-3">
       <template x-for="(product, idx) in displayProducts" :key="product.id">
-        <div class="card bg-card rounded-2xl overflow-hidden shadow-sm"
-          :style="'animation-delay: ' + (idx % 6) * 30 + 'ms'"
+        <div class="card bg-card rounded-2xl overflow-hidden shadow-sm cursor-pointer"
           @click="openModal(product)">
-          <!-- Image -->
           <div class="aspect-square bg-gray-100 relative">
             <img :src="product.image_url" :alt="product.name"
               class="w-full h-full object-cover"
-              @error="$el.src='https://placehold.co/400x400/F5F5F4/CCC?text=無圖'">
-            <!-- Discount badge -->
+              @error="$el.src='https://placehold.co/400x400/F5F5F4/AAA?text=無圖'">
             <span x-show="product.discount_percent > 0"
-              class="absolute top-2 left-2 px-1.5 py-0.5 rounded-md text-xs font-bold text-white"
+              class="absolute top-1.5 left-1.5 px-1.5 py-0.5 rounded-md text-xs font-bold text-white"
               :class="product.store_id === 'seven' ? 'bg-accent' : 'bg-family-blue'"
               x-text="'-' + product.discount_percent + '%'">
             </span>
           </div>
-          <!-- Info -->
           <div class="p-2.5">
             <p class="text-sm font-medium leading-snug line-clamp-2 mb-1" x-text="product.name"></p>
             <div class="flex items-baseline gap-1.5">
-              <span class="text-base font-bold" :class="product.store_id === 'seven' ? 'text-accent' : 'text-family-blue'"
+              <span class="text-base font-bold"
+                :class="product.store_id === 'seven' ? 'text-accent' : 'text-family-blue'"
                 x-text="'$' + product.friendly_price"></span>
               <span x-show="product.original_price > 0" class="text-xs text-muted line-through"
                 x-text="'$' + product.original_price"></span>
+            </div>
+            <div class="flex items-center gap-1 mt-1">
+              <span class="w-1.5 h-1.5 rounded-full"
+                :class="product.store_id === 'seven' ? 'bg-accent' : 'bg-family-blue'"></span>
+              <span class="text-xs text-muted" x-text="product.store_name"></span>
             </div>
           </div>
         </div>
       </template>
     </div>
 
-    <!-- Load More -->
+    <!-- Load more -->
     <template x-if="hasMore">
       <div class="text-center mt-6">
         <button @click="loadMore()"
           class="px-6 py-2.5 border border-gray-200 rounded-full text-sm text-muted hover:border-text hover:text-text transition-all">
-          看更多 (<span x-text="filteredProducts.length - displayProducts.length"></span>)
+          看更多 <span x-text="filteredProducts.length - displayProducts.length"></span> 件
         </button>
       </div>
     </template>
   </main>
 
-  <!-- ========== MODAL ========== -->
+  <!-- ===== MODAL ===== -->
   <div x-show="modalOpen" x-cloak
-    class="fixed inset-0 z-50 flex items-end sm:items-center justify-center"
-    x-transition:enter="transition ease-out duration-200"
-    x-transition:enter-start="opacity-0"
-    x-transition:enter-end="opacity-100"
-    x-transition:leave="transition ease-in duration-150"
-    x-transition:leave-start="opacity-100"
-    x-transition:leave-end="opacity-0"
-    @click.self="modalOpen = false"
-    @keydown.escape.window="modalOpen = false">
-
+    class="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-4"
+    x-transition:enter="transition ease-out duration-200" x-transition:enter-start="opacity-0"
+    x-transition:enter-end="opacity-100" x-transition:leave="transition ease-in duration-150" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0"
+    @click.self="modalOpen = false" @keydown.escape.window="modalOpen = false">
     <div class="absolute inset-0 bg-black/30 sm:bg-black/40"></div>
+    <div class="relative bg-card w-full sm:max-w-md rounded-2xl overflow-hidden shadow-2xl max-h-[92vh] flex flex-col"
+      x-transition:enter="transition ease-out duration-300" x-transition:enter-start="translate-y-full sm:translate-y-0 sm:scale-95"
+      x-transition:enter-end="translate-y-0 sm:scale-100">
 
-    <div class="relative bg-card w-full sm:max-w-md sm:rounded-2xl overflow-hidden shadow-2xl max-h-[90vh] flex flex-col"
-      x-transition:enter="transition ease-out duration-300"
-      x-transition:enter-start="translate-y-full"
-      x-transition:enter-end="translate-y-0">
-
-      <!-- Image -->
       <div class="aspect-square bg-gray-100 flex-shrink-0 relative">
         <img :src="selectedProduct?.image_url" :alt="selectedProduct?.name"
           class="w-full h-full object-cover"
-          @error="$el.src='https://placehold.co/400x400/F5F5F4/CCC?text=無圖'">
+          @error="$el.src='https://placehold.co/400x400/F5F5F4/AAA?text=無圖'">
         <button @click="modalOpen = false"
           class="absolute top-3 right-3 w-9 h-9 bg-black/40 backdrop-blur text-white rounded-full flex items-center justify-center hover:bg-black/60 transition-colors">
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -348,42 +341,39 @@
         </span>
       </div>
 
-      <!-- Info -->
       <div class="p-5 overflow-y-auto">
-        <div class="flex items-start justify-between gap-3 mb-3">
+        <div class="flex items-start justify-between gap-3 mb-2">
           <h3 class="font-medium text-lg leading-snug" x-text="selectedProduct?.name"></h3>
-          <span class="text-xs px-2 py-0.5 rounded-full whitespace-nowrap"
+          <span class="text-xs px-2 py-0.5 rounded-full whitespace-nowrap flex-shrink-0"
             :class="selectedProduct?.store_id === 'seven' ? 'bg-accent/10 text-accent' : 'bg-family-blue/10 text-family-blue'"
             x-text="selectedProduct?.store_name">
           </span>
         </div>
 
         <div class="flex items-baseline gap-2 mb-4">
-          <span class="text-2xl font-bold" :class="selectedProduct?.store_id === 'seven' ? 'text-accent' : 'text-family-blue'"
+          <span class="text-2xl font-bold"
+            :class="selectedProduct?.store_id === 'seven' ? 'text-accent' : 'text-family-blue'"
             x-text="'$' + selectedProduct?.friendly_price"></span>
           <span x-show="selectedProduct?.original_price > 0" class="text-base text-muted line-through"
             x-text="'$' + selectedProduct?.original_price"></span>
         </div>
 
-        <div x-show="selectedProduct?.note" class="text-sm text-muted mb-4 pb-4 border-b border-gray-100">
+        <div x-show="selectedProduct?.note" class="text-sm text-muted pb-4 border-b border-gray-100">
           <span x-text="selectedProduct?.note"></span>
         </div>
 
-        <div x-show="selectedProduct?.store_id === 'seven' && selectedProduct?.store_name" class="text-sm text-muted">
-          <p>7-11 門市優惠，實際折扣以門市為準</p>
-        </div>
-        <div x-show="selectedProduct?.store_id === 'family' && selectedProduct?.store_name" class="text-sm text-muted">
-          <p>全家便利商店優惠，實際折扣以門市為準</p>
+        <div class="mt-3 text-xs text-muted">
+          <p x-text="selectedProduct?.store_id === 'seven' ? '7-11 門市優惠，實際折扣以門市為準' : '全家便利商店優惠，實際折扣以門市為準'"></p>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- ========== APP LOGIC ========== -->
+  <!-- ===== APP LOGIC ===== -->
   <script>
     function app() {
       return {
-        // Data URLs
+        // URLs
         dataUrl: 'https://yenlung-huang.github.io/good-life-time/data/data.json',
         storesUrl: 'https://yenlung-huang.github.io/good-life-time/data/stores.json',
 
@@ -392,10 +382,10 @@
         error: false,
         lastUpdated: '',
         products: [],
-        storeChains: [],
+        allStores: [],
         counts: { all: 0, seven: 0, family: 0 },
 
-        // UI State
+        // UI
         activeTab: 'all',
         filteredProducts: [],
         displayProducts: [],
@@ -406,168 +396,161 @@
         selectedProduct: null,
 
         // GPS / Location
-        userLocation: null,
+        userLat: null,
+        userLng: null,
+        hasLocation: false,
         locating: false,
         locationError: null,
-        allStores: [],
+        locationArea: '',
         nearbyStores: [],
-        selectedStore: null,
-        sortByDistance: false,
 
-        // Embed fallback data (minimal - just for offline)
-        embeddedData: null,
+        // Selected store
+        selectedStore: null,
 
         init() {
           this.fetchData();
           this.fetchStores();
-          // Reload data every 15 min
           setInterval(() => this.fetchData(true), 15 * 60 * 1000);
         },
 
-        // --- GPS Location ---
+        // ─── Location ─────────────────────────────────────────────────────
+
+        toggleLocation() {
+          if (this.hasLocation) {
+            this.clearLocation();
+          } else {
+            this.getLocation();
+          }
+        },
+
         async getLocation() {
           if (!navigator.geolocation) {
             this.locationError = '瀏覽器不支援定位';
             return;
           }
-
           this.locating = true;
           this.locationError = null;
-
           try {
             const pos = await new Promise((resolve, reject) => {
               navigator.geolocation.getCurrentPosition(resolve, reject, {
-                enableHighAccuracy: true,
-                timeout: 10000,
-                maximumAge: 300000 // 5 min cache
+                enableHighAccuracy: true, timeout: 10000, maximumAge: 300000
               });
             });
-
             this.userLat = pos.coords.latitude;
             this.userLng = pos.coords.longitude;
-            this.userLocation = this.formatDistance(this.userLat, this.userLng);
-
-            // Sort stores by distance
+            this.hasLocation = true;
+            this.locationArea = this.getArea(this.userLat, this.userLng);
             this.sortStoresByDistance();
-
           } catch (err) {
-            switch (err.code) {
-              case err.PERMISSION_DENIED:
-                this.locationError = '請允許位置權限';
-                break;
-              case err.POSITION_UNAVAILABLE:
-                this.locationError = '無法取得位置';
-                break;
-              case err.TIMEOUT:
-                this.locationError = '位置逾時';
-                break;
-              default:
-                this.locationError = '定位失敗';
-            }
+            if (err.code === err.PERMISSION_DENIED) this.locationError = '請允許位置權限';
+            else if (err.code === err.POSITION_UNAVAILABLE) this.locationError = '無法取得位置';
+            else if (err.code === err.TIMEOUT) this.locationError = '位置逾時';
+            else this.locationError = '定位失敗';
           } finally {
             this.locating = false;
           }
         },
 
-        // --- Store Data ---
+        clearLocation() {
+          this.userLat = null;
+          this.userLng = null;
+          this.hasLocation = false;
+          this.locationArea = '';
+          this.nearbyStores = [];
+          this.deselectStore();
+        },
+
+        deselectStore() {
+          this.selectedStore = null;
+          this.filterProducts();
+        },
+
+        // ─── Stores ────────────────────────────────────────────────────────
+
         async fetchStores() {
           try {
             const resp = await fetch(this.storesUrl + '?t=' + Date.now());
             if (!resp.ok) throw new Error('Stores not found');
             const data = await resp.json();
-
-            // Flatten all stores with chain info
             this.allStores = [];
             data.stores.forEach(chain => {
               (chain.stores || []).forEach(store => {
                 this.allStores.push({
-                  ...store,
-                  chain: chain.id,
-                  chainName: chain.name,
-                  color: chain.color
+                  ...store, chain: chain.id, chainName: chain.name, color: chain.color
                 });
               });
             });
-
-            console.log('Loaded stores:', this.allStores.length);
-
           } catch (err) {
-            console.warn('Failed to load stores:', err);
+            console.warn('Stores load failed:', err);
           }
         },
 
         sortStoresByDistance() {
           if (!this.userLat || !this.userLng) return;
-
-          // Calculate distance for all stores
-          this.allStores.forEach(store => {
-            store.distanceKm = this.haversine(
-              this.userLat, this.userLng,
-              store.lat, store.lng
-            );
+          this.allStores.forEach(s => {
+            s.distanceKm = this.haversine(this.userLat, this.userLng, s.lat, s.lng);
           });
-
-          // Sort by distance
           this.allStores.sort((a, b) => a.distanceKm - b.distanceKm);
 
-          // Update nearby stores list (top 5 of each chain)
+          // Top 5 each chain, already sorted
           const seven = this.allStores.filter(s => s.chain === 'seven').slice(0, 5);
           const family = this.allStores.filter(s => s.chain === 'family').slice(0, 5);
-          this.nearbyStores = [...seven, ...family].sort((a, b) => a.distanceKm - b.distanceKm);
 
-          // Add product counts to each store (for display)
-          this.nearbyStores.forEach(store => {
-            store.distance = store.distanceKm.toFixed(1);
-            store.productCount = this.counts[store.chain] || 0;
-          });
+          // Merge two arrays while maintaining distance sort
+          const merged = [...seven, ...family];
+          merged.sort((a, b) => a.distanceKm - b.distanceKm);
+
+          this.nearbyStores = merged.map(s => ({
+            ...s,
+            distanceKm: s.distanceKm,
+            chainCount: s.chain === 'seven' ? this.counts.seven : this.counts.family
+          }));
         },
 
         selectStore(store) {
           this.selectedStore = store;
-          // Filter products for this store
           this.filterProducts();
         },
 
-        // Haversine distance (km)
+        // Haversine in km
         haversine(lat1, lon1, lat2, lon2) {
           const R = 6371;
-          const dLat = (lat2 - lat1) * Math.PI / 180;
-          const dLon = (lon2 - lon1) * Math.PI / 180;
-          const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-            Math.sin(dLon/2) * Math.sin(dLon/2);
-          const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-          return R * c;
+          const d = (a, b) => (b - a) * Math.PI / 180;
+          const dlng = d(lon1, lon2);
+          const dlat = d(lat1, lat2);
+          const a = Math.sin(dlat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dlng/2)**2;
+          return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
         },
 
-        formatDistance(lat, lng) {
-          // Simple area guess based on lat/lng
-          if (lat > 25.2) return '北部';
-          if (lat > 24.5) return '中部';
-          if (lat > 24.0) return '南部';
-          return '東部';
+        getArea(lat) {
+          if (lat > 25.2) return '台北';
+          if (lat > 24.5) return '台中';
+          if (lat > 24.0) return '高雄';
+          return '台灣';
         },
 
-        // --- Product Data ---
+        // ─── Tab ─────────────────────────────────────────────────────────
+
+        setTab(tab) {
+          this.activeTab = tab;
+          // If a store is selected, override to match the store's chain
+          // (store selection always wins for relevance)
+          this.filterProducts();
+        },
+
+        // ─── Products ────────────────────────────────────────────────────
+
         async fetchData(silent = false) {
           if (!silent) this.loading = true;
           this.error = false;
-
           try {
             const resp = await fetch(this.dataUrl + '?t=' + Date.now());
             if (!resp.ok) throw new Error('Network error');
             const data = await resp.json();
             this.processData(data);
             this.lastUpdated = this.formatTime(data.updated_at);
-
           } catch (err) {
-            console.warn('Fetch failed:', err);
-            if (this.embeddedData) {
-              this.processData(this.embeddedData);
-              this.lastUpdated = this.formatTime(this.embeddedData.updated_at);
-            } else {
-              this.error = true;
-            }
+            this.error = true;
           } finally {
             this.loading = false;
           }
@@ -577,15 +560,9 @@
           let all = [];
           data.stores.forEach(chain => {
             chain.products.forEach(p => {
-              all.push({
-                ...p,
-                store_id: chain.id,
-                store_name: chain.name,
-                store_color: chain.color
-              });
+              all.push({ ...p, store_id: chain.id, store_name: chain.name, store_color: chain.color });
             });
           });
-
           this.products = all;
           this.counts = {
             all: all.length,
@@ -593,22 +570,22 @@
             family: all.filter(p => p.store_id === 'family').length
           };
 
+          // Re-sort nearby with fresh counts
+          if (this.hasLocation) this.sortStoresByDistance();
           this.filterProducts();
         },
 
         filterProducts() {
           let filtered = this.products;
 
-          // Filter by tab
-          if (this.activeTab !== 'all') {
-            filtered = filtered.filter(p => p.store_id === this.activeTab);
-          }
-
-          // Filter by selected store
+          // Selected store always wins
           if (this.selectedStore) {
-            // When a store is selected, show all products for that store's chain
-            // (since we don't have store-level product inventory)
             filtered = filtered.filter(p => p.store_id === this.selectedStore.chain);
+          } else {
+            // Tab filter
+            if (this.activeTab !== 'all') {
+              filtered = filtered.filter(p => p.store_id === this.activeTab);
+            }
           }
 
           this.filteredProducts = filtered;
@@ -630,9 +607,6 @@
 
         async refresh() {
           await this.fetchData(true);
-          if (this.userLat) {
-            this.sortStoresByDistance();
-          }
         },
 
         formatTime(iso) {
