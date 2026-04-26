@@ -127,9 +127,9 @@
       </div>
     </div>
 
-    <!-- ========== TABS ========== -->
+    <!-- ========== TABS + STORE SELECTOR ========== -->
     <div class="max-w-5xl mx-auto px-4 pb-3">
-      <div class="flex gap-2 overflow-x-auto tabs-scroll py-1">
+      <div class="flex gap-2 overflow-x-auto tabs-scroll py-1 mb-2">
         <template x-for="tab in tabs" :key="tab.id">
           <button @click="activeTab = tab.id; filterProducts()"
             :class="activeTab === tab.id
@@ -143,6 +143,17 @@
           </button>
         </template>
       </div>
+      <select x-model="selectedStore" @change="onStoreChange()"
+        class="w-full px-3 py-2 text-sm bg-surface border border-border rounded-lg focus:outline-none focus:border-blue">
+        <option value="">🏪 選擇附近門市...</option>
+        <template x-for="chain in storeChains" :key="chain.id">
+          <optgroup :label="chain.name">
+            <template x-for="store in chain.stores.slice(0, 30)" :key="store.id">
+              <option :value="chain.id + '|' + store.id" x-text="store.name"></option>
+            </template>
+          </optgroup>
+        </template>
+      </select>
     </div>
   </header>
 
@@ -318,14 +329,48 @@
 
         // Data URL (relative for GitHub Pages subpath)
         dataUrl: 'data/data.json',
+        storesUrl: 'data/stores.json',
+
+        // Store selection
+        selectedStore: '',
+        selectedStoreName: '',
+        storeChains: [],
 
         // Embedded sample data (for local file:// viewing)
         embeddedData: {"updated_at":"2026-04-26T11:05:00+08:00","stores":[{"id":"seven","name":"7-11","name_en":"Seven-Eleven","color":"#F97316","products":[{"id":"seven-001","name":"叉燒肉飯糰","original_price":55,"friendly_price":27,"discount_percent":51,"image_url":"https://placehold.co/400/F97316/FFFFFF?text=7-11+%E9%80%9A%E9%87%8F%E9%A3%9F","stock":"充足","category":"飯糰","store_name":"北車門市","address":"台北市北平西路3號"},{"id":"seven-002","name":"照燒雞腿便當","original_price":85,"friendly_price":42,"discount_percent":51,"image_url":"https://placehold.co/400/F97316/FFFFFF?text=7-11+%E7%85%AE%E9%A0%AD","stock":"少","category":"便當","store_name":"忠孝門市","address":"台北市忠孝東路一段12號"},{"id":"seven-003","name":"鮮奶吐司","original_price":35,"friendly_price":17,"discount_percent":51,"image_url":"https://placehold.co/400/F97316/FFFFFF?text=7-11+%E9%BA%B5%E5%8C%85","stock":"充足","category":"麵包","store_name":"信義門市","address":"台北市信義路四段58號"},{"id":"seven-004","name":"日式關東煮","original_price":65,"friendly_price":32,"discount_percent":51,"image_url":"https://placehold.co/400/F97316/FFFFFF?text=7-11+%E9%97%9C%E6%B3%8B%E9%A3%BE","stock":"熱門","category":"煮食","store_name":"南京門市","address":"台北市南京東路三段89號"},{"id":"seven-005","name":"四季春茶","original_price":25,"friendly_price":12,"discount_percent":52,"image_url":"https://placehold.co/400/F97316/FFFFFF?text=7-11+%E9%A3%B2%E6%96%B9","stock":"充足","category":"飲料","store_name":"西門門市","address":"台北市成都路15號"}]},{"id":"family","name":"全家","name_en":"FamilyMart","color":"#3B82F6","products":[{"id":"family-001","name":"義式番茄肉醬義大利麵","original_price":89,"friendly_price":44,"discount_percent":51,"image_url":"https://placehold.co/400/3B82F6/FFFFFF?text=%E5%85%A8%E5%AE%B6+%E9%BA%BF%E9%A3%9F","stock":"充足","category":"麵食","store_name":"敦南店","address":"台北市敦化南路一段165號"},{"id":"family-002","name":"匠吐司草莓","original_price":45,"friendly_price":22,"discount_percent":51,"image_url":"https://placehold.co/400/3B82F6/FFFFFF?text=%E5%85%A8%E5%AE%B6+%E5%88%86%E9%A1%9E","stock":"少","category":"麵包","store_name":"師大店","address":"台北市師大路68號"},{"id":"family-003","name":"手撕豬肉飯","original_price":95,"friendly_price":47,"discount_percent":51,"image_url":"https://placehold.co/400/3B82F6/FFFFFF?text=%E5%85%A8%E5%AE%B6+%E9%A3%AF","stock":"充足","category":"便當","store_name":"大安店","address":"台北市大安路一段45號"},{"id":"family-004","name":"濱江蒜泥白肉飯","original_price":88,"friendly_price":44,"discount_percent":50,"image_url":"https://placehold.co/400/3B82F6/FFFFFF?text=%E5%85%A8%E5%AE%B6+%E9%A3%AF","stock":"熱門","category":"便當","store_name":"濱江店","address":"台北市濱江街150號"},{"id":"family-005","name":"野菜沙拉","original_price":55,"friendly_price":27,"discount_percent":51,"image_url":"https://placehold.co/400/3B82F6/FFFFFF?text=%E5%85%A8%E5%AE%B6+%E6%B2%99%E6%8B%89","stock":"充足","category":"沙拉","store_name":"信義店","address":"台北市松高路12號"}]},{"id":"pxmart","name":"全聯","name_en":"PX Mart","color":"#22C55E","products":[{"id":"pxmart-001","name":"紅燒獅子頭","original_price":149,"friendly_price":89,"discount_percent":40,"image_url":"https://placehold.co/400/22C55E/FFFFFF?text=%E5%85%A8%E8%81%AF+%E7%8B%97%E5%AD%90%E9%A0%AD","stock":"充足","category":"冷藏","store_name":"內湖店","address":"台北市內湖路一段283號"},{"id":"pxmart-002","name":"三杯雞調理包","original_price":99,"friendly_price":59,"discount_percent":40,"image_url":"https://placehold.co/400/22C55E/FFFFFF?text=%E5%85%A8%E8%81%AF+%E9%80%89%E7%90%86%E5%8C%85","stock":"少","category":"調理包","store_name":"南港店","address":"台北市南港路一段201號"},{"id":"pxmart-003","name":"蜜汁叉燒","original_price":129,"friendly_price":77,"discount_percent":40,"image_url":"https://placehold.co/400/22C55E/FFFFFF?text=%E5%85%A8%E8%81%AF+%E5%8F%89%E7%87%92","stock":"充足","category":"肉類","store_name":"士林店","address":"台北市士林路一段88號"},{"id":"pxmart-004","name":"手工水餃","original_price":79,"friendly_price":47,"discount_percent":40,"image_url":"https://placehold.co/400/22C55E/FFFFFF?text=%E5%85%A8%E8%81%AF+%E6%B0%B4%E9%A8%87","stock":"充足","category":"冷凍","store_name":"文山店","address":"台北市興隆路一段155號"},{"id":"pxmart-005","name":"義式番茄筆管麵","original_price":119,"friendly_price":71,"discount_percent":40,"image_url":"https://placehold.co/400/22C55E/FFFFFF?text=%E5%85%A8%E8%81%AF+%E6%96%B9%E9%A1%8C%E9%9D%A2","stock":"熱門","category":"義式料理","store_name":"萬華店","address":"台北市西門町峨眉街42號"}]}]},
 
         init() {
           this.fetchData();
-          // HTMX-style polling every 15 min
+          this.fetchStores();
+          // Polling every 15 min
           setInterval(() => this.fetchData(true), 15 * 60 * 1000);
+        },
+
+        async fetchStores() {
+          try {
+            const resp = await fetch(this.storesUrl + '?t=' + Date.now());
+            if (!resp.ok) throw new Error('Stores not found');
+            const data = await resp.json();
+            this.storeChains = data.stores.map(chain => ({
+              id: chain.id,
+              name: chain.name,
+              color: chain.color,
+              stores: chain.stores || []
+            }));
+          } catch (err) {
+            console.warn('Failed to load stores:', err);
+          }
+        },
+
+        onStoreChange() {
+          if (!this.selectedStore) {
+            this.selectedStoreName = '';
+            return;
+          }
+          const [chainId, storeId] = this.selectedStore.split('|');
+          const chain = this.storeChains.find(c => c.id === chainId);
+          const store = chain?.stores.find(s => s.id === storeId);
+          this.selectedStoreName = store ? store.name : '';
         },
 
         async fetchData(silent = false) {
