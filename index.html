@@ -514,6 +514,7 @@
 
         selectStore(store) {
           this.selectedStore = store;
+          this.activeTab = store.chain;  // sync tab to match selected store
           this.filterProducts();
         },
 
