@@ -220,7 +220,7 @@
             <div class="text-right flex-shrink-0">
               <div class="text-sm font-bold" :class="store.chain === 'seven' ? 'text-accent' : 'text-family-blue'"
                 x-text="store.distanceKm.toFixed(1) + 'km'"></div>
-              <div class="text-xs text-muted" x-text="store.chainCount + '件優惠'"></div>
+              <div class="text-xs text-muted" x-text="(store.chain === 'family' && storeStockData[store.id] ? (storeStockData[store.id].info || []).reduce((a,c) => a + c.qty, 0) + '件現貨' : store.chainCount + '件優惠')"></div>
             </div>
           </button>
         </template>
@@ -269,7 +269,8 @@
       <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
       </svg>
-      <span>顯示 <span x-text="selectedStore.chain === 'seven' ? '7-11' : '全家'"></span> <span x-text="selectedStore.name"></span> 的優惠商品</span>
+      <span x-show="selectedStoreStock.length > 0">顯示 <span x-text="selectedStore.name"></span> 的現場優惠（共 <span x-text="selectedStoreStock.length"></span> 件）</span>
+      <span x-show="selectedStoreStock.length === 0 && selectedStore">顯示 <span x-text="selectedStore.chain === 'seven' ? '7-11' : '全家'"></span> <span x-text="selectedStore.name"></span> 的優惠商品</span>
     </div>
 
     <!-- Products grid -->
@@ -410,6 +411,9 @@
 
         // Selected store
         selectedStore: null,
+        storeStockLoading: false,
+        storeStockData: {},
+        selectedStoreStock: [],
 
         init() {
           this.fetchData();
@@ -446,6 +450,7 @@
             this.hasLocation = true;
             this.locationArea = this.getArea(this.userLat, this.userLng);
             this.sortStoresByDistance();
+            this.fetchFamilyMartStock(this.userLat, this.userLng);
           } catch (err) {
             if (err.code === err.PERMISSION_DENIED) this.locationError = '請允許位置權限';
             else if (err.code === err.POSITION_UNAVAILABLE) this.locationError = '無法取得位置';
@@ -467,6 +472,7 @@
 
         deselectStore() {
           this.selectedStore = null;
+          this.selectedStoreStock = [];
           this.filterProducts();
         },
 
@@ -487,6 +493,56 @@
             });
           } catch (err) {
             console.warn('Stores load failed:', err);
+          }
+        },
+
+        async fetchFamilyMartStock(lat, lng) {
+          try {
+            const resp = await fetch('https://stamp.family.com.tw/api/maps/MapProductInfo', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+              body: JSON.stringify({
+                ProjectCode: '202106302',
+                OldPKeys: [],
+                PostInfo: '',
+                Latitude: lat,
+                Longitude: lng
+              })
+            });
+            if (!resp.ok) throw new Error();
+            const data = await resp.json();
+            if (data.code !== 1 || !data.data) return;
+            const stockMap = {};
+            data.data.forEach(store => {
+              const products = [];
+              store.info.forEach(cat => {
+                cat.categories.forEach(subcat => {
+                  subcat.products.forEach(p => {
+                    products.push({
+                      id: 'fm-' + p.code,
+                      name: p.name,
+                      store_id: 'family',
+                      store_name: store.name,
+                      qty: p.qty,
+                      category: cat.name + ' › ' + subcat.name,
+                      image_url: '',
+                      friendly_price: 0,
+                      original_price: 0,
+                      discount_percent: 0,
+                      note: '剩餘 ' + p.qty + ' 件'
+                    });
+                  });
+                });
+              });
+              stockMap[store.oldPKey] = {
+                ...store,
+                stockProducts: products,
+                distanceM: store.distance
+              };
+            });
+            this.storeStockData = stockMap;
+          } catch (err) {
+            console.warn('FamilyMart stock fetch failed:', err);
           }
         },
 
@@ -514,8 +570,17 @@
 
         selectStore(store) {
           this.selectedStore = store;
-          this.activeTab = store.chain;  // sync tab to match selected store
-          this.filterProducts();
+          this.activeTab = store.chain;
+          if (store.chain === 'family' && this.storeStockData[store.id]) {
+            const stockInfo = this.storeStockData[store.id];
+            this.selectedStoreStock = stockInfo.stockProducts || [];
+            this.filteredProducts = this.selectedStoreStock;
+            this.displayProducts = this.selectedStoreStock.slice(0, this.pageSize);
+            this.hasMore = this.selectedStoreStock.length > this.pageSize;
+          } else {
+            this.selectedStoreStock = [];
+            this.filterProducts();
+          }
         },
 
         // Haversine in km
