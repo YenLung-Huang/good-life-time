@@ -525,7 +525,7 @@
                       store_name: store.name,
                       qty: p.qty,
                       category: cat.name + ' › ' + subcat.name,
-                      image_url: '',
+                      image_url: this.findFamilyMartImage(p.name),
                       friendly_price: 0,
                       original_price: 0,
                       discount_percent: 0,
@@ -544,6 +544,25 @@
           } catch (err) {
             console.warn('FamilyMart stock fetch failed:', err);
           }
+        },
+
+        findFamilyMartImage(stockName) {
+          const chainProducts = this.products.filter(p => p.store_id === 'family');
+          if (!chainProducts.length) return '';
+          // Exact match
+          const exact = chainProducts.find(p => p.name === stockName);
+          if (exact && exact.image_url) return exact.image_url;
+          // Strip "一配"/"二配" prefix and normalize
+          const clean = name => name.replace(/^[一二三四五六七八九十]+配/, '').replace(/　/g, ' ').trim();
+          const stockClean = clean(stockName);
+          const cleanedMatch = chainProducts.find(p => clean(p.name) === stockClean);
+          if (cleanedMatch && cleanedMatch.image_url) return cleanedMatch.image_url;
+          // Substring match
+          const substrMatch = chainProducts.find(p =>
+            p.name.includes(stockClean) || stockClean.includes(clean(p.name))
+          );
+          if (substrMatch && substrMatch.image_url) return substrMatch.image_url;
+          return '';
         },
 
         sortStoresByDistance() {
