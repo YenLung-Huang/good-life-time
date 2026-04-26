@@ -19,29 +19,23 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml pillow
+        run: pip install requests lxml
 
-      - name: Check if crawler exists
-        id: crawler_exists
-        run: |
-          if [ -f "scripts/crawler.py" ]; then
-            echo "crawler=exists" >> $GITHUB_OUTPUT
-          else
-            echo "crawler=missing" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Run crawler (if exists)
-        if: steps.crawler_exists.outputs.crawler == 'exists'
+      - name: Run crawler
         run: python3 scripts/crawler.py
 
       - name: Commit & push if changed
+        id: commit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if git diff --exit-code data/data.json; then
-            echo "No changes, skipping commit"
-          else
+          if ! git diff --exit-code data/data.json stores.json 2>/dev/null; then
+            echo "Changes detected, committing..."
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
-            git add data/data.json
-            git commit -m "chore: update product data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git add data/
+            git commit -m "chore: update data $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
+          else
+            echo "No changes, skipping commit"
           fi
