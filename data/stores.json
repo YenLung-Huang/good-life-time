@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-04-26T13:11:49.948756+08:00",
+  "updated_at": "2026-04-26T13:18:40.547617+08:00",
   "stores": [
     {
       "id": "seven",
       "name": "7-11",
-      "name_en": "Seven-Eleven",
       "color": "#F97316",
       "stores": [
         {
@@ -13492,7 +13491,6 @@
     {
       "id": "family",
       "name": "全家",
-      "name_en": "FamilyMart",
       "color": "#3B82F6",
       "stores": [
         {
