@@ -183,7 +183,7 @@
 
     <!-- Products Grid -->
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-      <template x-for="(product, idx) in products" :key="product.id">
+      <template x-for="(product, idx) in displayProducts" :key="product.id">
         <div class="card bg-surface rounded-xl overflow-hidden cursor-pointer fade-in"
           :style="'animation-delay: ' + (idx % 8) * 50 + 'ms'"
           @click="openModal(product)">
