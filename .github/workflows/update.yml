@@ -2,8 +2,8 @@ name: Update Data Every 15 Minutes
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:          # Allow manual trigger
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -21,11 +21,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml pillow
 
-      - name: Run crawler
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check if crawler exists
+        id: crawler_exists
         run: |
-          python3 scripts/crawler.py
+          if [ -f "scripts/crawler.py" ]; then
+            echo "crawler=exists" >> $GITHUB_OUTPUT
+          else
+            echo "crawler=missing" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run crawler (if exists)
+        if: steps.crawler_exists.outputs.crawler == 'exists'
+        run: python3 scripts/crawler.py
 
       - name: Commit & push if changed
         run: |
