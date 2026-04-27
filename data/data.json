@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T13:41:35.476135+08:00",
+  "updated_at": "2026-04-27T15:56:25.784787+08:00",
   "stores": [
     {
       "id": "family",
@@ -7468,6 +7468,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1433106",
+          "name": "四季檸檬酷繽球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1433106.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量77.6大卡，本包裝含1份"
         },
         {
           "id": "family-0040322",
@@ -21316,7 +21329,7 @@
         },
         {
           "id": "family-1438883",
-          "name": "元本山脆烤海苔８切梅子風味",
+          "name": "元本山脆烤海苔8切梅子風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
