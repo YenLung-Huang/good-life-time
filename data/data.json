@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T17:10:59.308553+08:00",
+  "updated_at": "2026-04-28T19:18:05.913506+08:00",
   "stores": [
     {
       "id": "family",
@@ -21443,6 +21443,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量101大卡，本包裝含8份"
+        },
+        {
+          "id": "family-1436481",
+          "name": "可樂果醬烤牛五花口味160G",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1436481.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量105大卡，本包裝含8份"
         },
         {
           "id": "family-1438833",
