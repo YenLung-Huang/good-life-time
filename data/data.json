@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T15:22:39.734187+08:00",
+  "updated_at": "2026-04-29T17:33:25.488185+08:00",
   "stores": [
     {
       "id": "family",
@@ -20951,6 +20951,19 @@
           "note": "熱量149大卡，本包裝含2份"
         },
         {
+          "id": "family-1387175",
+          "name": "草莓優格風味牛奶軟糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1387175.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量133大卡，本包裝含1份"
+        },
+        {
           "id": "family-1387189",
           "name": "甘樂白桃鮮果實Marosh軟糖",
           "original_price": 0,
@@ -26071,6 +26084,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量15大卡，本包裝含10份"
+        },
+        {
+          "id": "family-1417338",
+          "name": "膠原多莓果茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417338.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量74.8大卡，本包裝含4份"
         },
         {
           "id": "family-1417942",
