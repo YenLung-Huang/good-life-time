@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T21:07:30.725123+08:00",
+  "updated_at": "2026-04-29T23:28:09.587800+08:00",
   "stores": [
     {
       "id": "family",
@@ -8861,19 +8861,6 @@
           "note": "熱量81.6大卡，本包裝含1份"
         },
         {
-          "id": "family-0573480",
-          "name": "FMC九州美味冰塊",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0573480.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量0大卡，本包裝含1份"
-        },
-        {
           "id": "family-0619505",
           "name": "牧場直送4.0巧克力牛奶雪糕",
           "original_price": 0,
@@ -14722,6 +14709,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量48大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1438251",
+          "name": "PABLO完熟芒果乳酸飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438251.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量180.8大卡，本包裝含1份"
         },
         {
           "id": "family-1438938",
