@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T19:19:19.008066+08:00",
+  "updated_at": "2026-04-29T21:07:30.725123+08:00",
   "stores": [
     {
       "id": "family",
@@ -18390,19 +18390,6 @@
           "note": "熱量4.4大卡，本包裝含5份"
         },
         {
-          "id": "family-0792357",
-          "name": "堅果起司",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0792357.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量46大卡，本包裝含6份"
-        },
-        {
           "id": "family-0806679",
           "name": "士力架杏仁巧克力",
           "original_price": 0,
@@ -18858,19 +18845,6 @@
           "note": "熱量90.6大卡，本包裝含1份"
         },
         {
-          "id": "family-0988984",
-          "name": "流心焦糖威化巧克力",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0988984.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量206大卡，本包裝含1份"
-        },
-        {
           "id": "family-0997858",
           "name": "松露風味腰果",
           "original_price": 0,
@@ -19012,19 +18986,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量162大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1042882",
-          "name": "哈瑞寶酸甜童趣Q軟糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1042882.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量262.1大卡，本包裝含1份"
         },
         {
           "id": "family-1045371",
