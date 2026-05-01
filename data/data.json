@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T19:44:53.361378+08:00",
+  "updated_at": "2026-05-01T20:42:56.706281+08:00",
   "stores": [
     {
       "id": "family",
@@ -2211,19 +2211,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1350122.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1350209",
-          "name": "有機山茼蒿(小農)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1350209.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
