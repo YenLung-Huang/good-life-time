@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T20:06:27.914140+08:00",
+  "updated_at": "2026-05-02T21:48:31.663428+08:00",
   "stores": [
     {
       "id": "family",
@@ -5102,19 +5102,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量368大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1332748",
-          "name": "生醇厚抹茶紅豆滿餡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1332748.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量346大卡，本包裝含1份"
         },
         {
           "id": "family-1341076",
