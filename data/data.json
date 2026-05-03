@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T19:58:11.881497+08:00",
+  "updated_at": "2026-05-03T21:38:30.032206+08:00",
   "stores": [
     {
       "id": "family",
@@ -1514,32 +1514,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量202大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0810957",
-          "name": "鮪魚起司溏心蛋三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0810957.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量216大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0925798",
-          "name": "經典總匯三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0925798.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量194大卡，本包裝含1份"
         },
         {
           "id": "family-1060084",
@@ -4140,19 +4114,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量270大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1399815",
-          "name": "冰心卡士達雙餡蛋糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1399815.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量307.2大卡，本包裝含1份"
         },
         {
           "id": "family-1409151",
@@ -7884,6 +7845,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量201大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1059645",
+          "name": "金黃芝士熱狗",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1059645.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量220大卡，本包裝含1份"
         },
         {
           "id": "family-1059681",
