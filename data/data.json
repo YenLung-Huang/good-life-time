@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T15:23:35.955355+08:00",
+  "updated_at": "2026-05-04T17:35:41.402596+08:00",
   "stores": [
     {
       "id": "family",
@@ -9561,6 +9561,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量207大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1439293",
+          "name": "阿奇儂金杏花生頌雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1439293.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量196大卡，本包裝含1份"
         },
         {
           "id": "family-1439316",
@@ -21001,6 +21014,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量49大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1438897",
+          "name": "醬油美乃滋風味玉米餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438897.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量361大卡，本包裝含1份"
         },
         {
           "id": "family-1439970",
