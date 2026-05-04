@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T17:35:41.402596+08:00",
+  "updated_at": "2026-05-04T21:07:45.576835+08:00",
   "stores": [
     {
       "id": "family",
@@ -1191,19 +1191,6 @@
           "note": "熱量523大卡，本包裝含1份"
         },
         {
-          "id": "family-1256998",
-          "name": "蕃茄起司手工千層麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1256998.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量525大卡，本包裝含1份"
-        },
-        {
           "id": "family-1267864",
           "name": "厚香料咖哩雞排飯",
           "original_price": 0,
@@ -1776,19 +1763,6 @@
           "note": "熱量294大卡，本包裝含1份"
         },
         {
-          "id": "family-0045368",
-          "name": "橙蜜香番茄(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0045368.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-0052567",
           "name": "剝皮蒜仁",
           "original_price": 0,
@@ -2101,19 +2075,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1197649",
-          "name": "歐式田園沙拉(植覺生活)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1197649.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量21.4大卡，本包裝含1份"
-        },
-        {
           "id": "family-1310615",
           "name": "履歷木瓜(截切)",
           "original_price": 0,
@@ -2237,19 +2198,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1352192.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1352201",
-          "name": "有機青江菜(玉美)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1352201.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -2484,19 +2432,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1362585.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1364650",
-          "name": "履歷水果彩椒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1364650.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -4959,19 +4894,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量277.2大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1286476",
-          "name": "和風咖哩豬肉麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1286476.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量250大卡，本包裝含1份"
         },
         {
           "id": "family-1286503",
@@ -14387,7 +14309,7 @@
         },
         {
           "id": "family-1414853",
-          "name": "ＦＭＣ黃金奇異果銀耳露",
+          "name": "FMC黃金奇異果銀耳露",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20510,7 +20432,7 @@
         },
         {
           "id": "family-1317471",
-          "name": "哈瑞寶情人甜心Ｑ軟糖",
+          "name": "哈瑞寶情人甜心Q軟糖",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
