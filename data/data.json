@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T21:07:45.576835+08:00",
+  "updated_at": "2026-05-04T23:20:55.999179+08:00",
   "stores": [
     {
       "id": "family",
@@ -5193,6 +5193,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量349大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1440896",
+          "name": "二配生白桃紅烏龍滿餡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440896.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量287大卡，本包裝含1份"
         },
         {
           "id": "family-1820062",
