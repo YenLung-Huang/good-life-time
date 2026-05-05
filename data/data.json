@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T20:09:41.736120+08:00",
+  "updated_at": "2026-05-05T22:24:17.741207+08:00",
   "stores": [
     {
       "id": "family",
@@ -2582,6 +2582,19 @@
           "note": "熱量66.1大卡，本包裝含1份"
         },
         {
+          "id": "family-1436118",
+          "name": "歐式田園沙拉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1436118.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量21.4大卡，本包裝含1份"
+        },
+        {
           "id": "family-1436304",
           "name": "海藻野菜沙拉",
           "original_price": 0,
@@ -4259,6 +4272,32 @@
           "note": "熱量293.4大卡，本包裝含1份"
         },
         {
+          "id": "family-1443767",
+          "name": "白桃香緹塔",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1443767.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量215大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1444040",
+          "name": "桃氣奶霜蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1444040.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量103大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5143,6 +5182,19 @@
           "note": "熱量381大卡，本包裝含1份"
         },
         {
+          "id": "family-1417188",
+          "name": "一配黑咖哩牛肉麵包",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417188.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量286大卡，本包裝含1份"
+        },
+        {
           "id": "family-1422317",
           "name": "滿滿果乾切片軟歐",
           "original_price": 0,
@@ -5206,6 +5258,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量287大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1441256",
+          "name": "一配蘑菇造型ＱＱ球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1441256.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量73大卡，本包裝含3份"
         },
         {
           "id": "family-1820062",
