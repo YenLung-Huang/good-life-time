@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T09:19:20.971401+08:00",
+  "updated_at": "2026-05-05T12:40:16.081124+08:00",
   "stores": [
     {
       "id": "family",
@@ -20494,6 +20494,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量138大卡，本包裝含9份"
+        },
+        {
+          "id": "family-1332702",
+          "name": "健達利尼兩片裝",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1332702.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量126.2大卡，本包裝含1份"
         },
         {
           "id": "family-1338112",
