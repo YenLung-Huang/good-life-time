@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T09:17:28.196550+08:00",
+  "updated_at": "2026-05-06T12:53:45.417873+08:00",
   "stores": [
     {
       "id": "family",
@@ -5183,7 +5183,7 @@
         },
         {
           "id": "family-1417188",
-          "name": "一配黑咖哩牛肉麵包",
+          "name": "黑咖哩牛肉麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5248,7 +5248,7 @@
         },
         {
           "id": "family-1440896",
-          "name": "二配生白桃紅烏龍滿餡",
+          "name": "生白桃紅烏龍滿餡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5261,7 +5261,7 @@
         },
         {
           "id": "family-1441256",
-          "name": "一配蘑菇造型ＱＱ球",
+          "name": "蘑菇造型QQ球",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
