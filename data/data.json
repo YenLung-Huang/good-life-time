@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T15:34:24.997442+08:00",
+  "updated_at": "2026-05-06T18:01:41.364222+08:00",
   "stores": [
     {
       "id": "family",
@@ -25967,6 +25967,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量74.8大卡，本包裝含4份"
+        },
+        {
+          "id": "family-1417342",
+          "name": "雙纖檸檬綠茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417342.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量71.1大卡，本包裝含4份"
         },
         {
           "id": "family-1417942",
