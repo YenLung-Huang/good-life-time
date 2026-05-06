@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T20:06:19.614096+08:00",
+  "updated_at": "2026-05-06T22:46:25.403001+08:00",
   "stores": [
     {
       "id": "family",
@@ -2957,19 +2957,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量164.5大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0976721",
-          "name": "冬蔭功舒肥土雞胸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0976721.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量110.1大卡，本包裝含1份"
         },
         {
           "id": "family-0977395",
@@ -18390,19 +18377,6 @@
           "note": "熱量317.8大卡，本包裝含1份"
         },
         {
-          "id": "family-0819042",
-          "name": "草莓起司",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0819042.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量36大卡，本包裝含6份"
-        },
-        {
           "id": "family-0820118",
           "name": "頂級濃郁起司絲",
           "original_price": 0,
@@ -21040,6 +21014,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量361大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1439007",
+          "name": "小熊餅—草莓奶油蛋糕風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1439007.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量244.5大卡，本包裝含1份"
         },
         {
           "id": "family-1439970",
