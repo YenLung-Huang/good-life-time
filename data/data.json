@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T20:06:08.489635+08:00",
+  "updated_at": "2026-05-07T22:50:20.359524+08:00",
   "stores": [
     {
       "id": "family",
@@ -3999,19 +3999,6 @@
           "note": "熱量203.9大卡，本包裝含1份"
         },
         {
-          "id": "family-1387743",
-          "name": "濃韻抹茶Q堤",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1387743.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量199大卡，本包裝含1份"
-        },
-        {
           "id": "family-1394960",
           "name": "福樂頂級蜂蜜希臘式優酪",
           "original_price": 0,
@@ -4101,19 +4088,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量280.2大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1409206",
-          "name": "青檸紅茶馬卡龍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1409206.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量102大卡，本包裝含1份"
         },
         {
           "id": "family-1409406",
@@ -15426,19 +15400,6 @@
           "note": "熱量107.5大卡，本包裝含1份"
         },
         {
-          "id": "family-2970723",
-          "name": "職人加糖冰咖啡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2970723.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量35.7大卡，本包裝含5份"
-        },
-        {
           "id": "family-2970737",
           "name": "職人無糖冰咖啡",
           "original_price": 0,
@@ -18429,19 +18390,6 @@
           "note": "熱量186大卡，本包裝含2份"
         },
         {
-          "id": "family-0827906",
-          "name": "山葵烤牛肉風味洋芋片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0827906.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量273大卡，本包裝含1份"
-        },
-        {
           "id": "family-0851460",
           "name": "EXTRA香甜葡萄超值包口香糖",
           "original_price": 0,
@@ -19170,19 +19118,6 @@
           "note": "熱量117大卡，本包裝含3份"
         },
         {
-          "id": "family-1107391",
-          "name": "多力多滋勁辣香檸口味玉米片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1107391.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量115大卡，本包裝含3份"
-        },
-        {
           "id": "family-1113617",
           "name": "利口樂原味草本無糖潤喉糖",
           "original_price": 0,
@@ -19831,19 +19766,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量109.6大卡，本包裝含5份"
-        },
-        {
-          "id": "family-1269402",
-          "name": "芥末蛋黃醬牛肉風味洋芋片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1269402.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量287大卡，本包裝含1份"
         },
         {
           "id": "family-1269466",
