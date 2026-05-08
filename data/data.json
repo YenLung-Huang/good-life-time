@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T17:52:29.985037+08:00",
+  "updated_at": "2026-05-08T19:13:44.497201+08:00",
   "stores": [
     {
       "id": "family",
@@ -8183,6 +8183,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量342.7大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1378310",
+          "name": "脆皮德腸串",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1378310.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量230大卡，本包裝含5份"
         },
         {
           "id": "family-1378324",
