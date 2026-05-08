@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T14:21:44.490279+08:00",
+  "updated_at": "2026-05-08T16:08:15.310608+08:00",
   "stores": [
     {
       "id": "family",
@@ -1462,6 +1462,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量379大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1440987",
+          "name": "韓式燒肉拌飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440987.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量548大卡，本包裝含1份"
         },
         {
           "id": "family-1454142",
@@ -28567,6 +28580,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量105大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1372546",
+          "name": "樂特蜂膠甘草喉糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1372546.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量50大卡，本包裝含1份"
         },
         {
           "id": "family-1406412",
