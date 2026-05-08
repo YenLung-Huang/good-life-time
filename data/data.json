@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T09:17:20.936723+08:00",
+  "updated_at": "2026-05-08T12:35:33.330177+08:00",
   "stores": [
     {
       "id": "family",
@@ -20769,6 +20769,45 @@
           "note": "熱量105大卡，本包裝含1份"
         },
         {
+          "id": "family-1397940",
+          "name": "樂連連蜂蜜芥末風味醬洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1397940.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1398328",
+          "name": "波樂純味無添加鹽洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1398328.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量154大卡，本包裝含3份"
+        },
+        {
+          "id": "family-1398332",
+          "name": "樂連連青花椒風味醬洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1398332.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含2份"
+        },
+        {
           "id": "family-1405311",
           "name": "麵包小偷造型葡萄軟糖",
           "original_price": 0,
@@ -20871,6 +20910,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量121大卡，本包裝含4份"
+        },
+        {
+          "id": "family-1419930",
+          "name": "波樂純味無添加鹽洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1419930.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量163大卡，本包裝含2份"
         },
         {
           "id": "family-1436477",
