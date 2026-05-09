@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T20:01:42.535332+08:00",
+  "updated_at": "2026-05-09T21:52:15.927292+08:00",
   "stores": [
     {
       "id": "family",
@@ -1423,19 +1423,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量617大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1429646",
-          "name": "打拋風味豆腐飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1429646.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量604大卡，本包裝含1份"
         },
         {
           "id": "family-1429987",
@@ -28359,19 +28346,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量54大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0851642",
-          "name": "睦樂鱈魚肝油(檸檬風味)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0851642.jpg",
-          "stock": "",
-          "category": "營養食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量41大卡，本包裝含50份"
         },
         {
           "id": "family-0924792",
