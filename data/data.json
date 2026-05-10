@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T19:36:48.069838+08:00",
+  "updated_at": "2026-05-10T22:08:45.741736+08:00",
   "stores": [
     {
       "id": "family",
@@ -6274,19 +6274,6 @@
           "note": "熱量348大卡，本包裝含1份"
         },
         {
-          "id": "family-0251826",
-          "name": "冰小輕新檸檬飲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0251826.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量237大卡，本包裝含1份"
-        },
-        {
           "id": "family-0302689",
           "name": "熱杏仁茶",
           "original_price": 0,
@@ -6352,19 +6339,6 @@
           "note": "熱量366大卡，本包裝含1份"
         },
         {
-          "id": "family-0429665",
-          "name": "冰桂香金萱茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0429665.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量135大卡，本包裝含1份"
-        },
-        {
           "id": "family-0429679",
           "name": "熱桂香金萱茶",
           "original_price": 0,
@@ -6376,19 +6350,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量162大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0429683",
-          "name": "冰桂香金萱茶歐蕾",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0429683.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量273大卡，本包裝含1份"
         },
         {
           "id": "family-0429697",
@@ -6508,19 +6469,6 @@
           "note": "熱量248大卡，本包裝含1份"
         },
         {
-          "id": "family-0620958",
-          "name": "冰糖雪梨紅棗茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0620958.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量178大卡，本包裝含1份"
-        },
-        {
           "id": "family-0648219",
           "name": "特大冰慢煮焦糖白奶茶",
           "original_price": 0,
@@ -6597,19 +6545,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量196大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0769099",
-          "name": "特大冰泰式綠奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0769099.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量382大卡，本包裝含1份"
         },
         {
           "id": "family-0795355",
