@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T08:11:02.191624+08:00",
+  "updated_at": "2026-05-12T12:05:52.924356+08:00",
   "stores": [
     {
       "id": "family",
@@ -5261,7 +5261,7 @@
         },
         {
           "id": "family-1448503",
-          "name": "二配紅豆燕麥麵包",
+          "name": "紅豆燕麥麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7353,19 +7353,6 @@
           "note": "熱量480大卡，本包裝含1份"
         },
         {
-          "id": "family-1409224",
-          "name": "黑糖粉粿牛奶酷繽沙",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1409224.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量189大卡，本包裝含1份"
-        },
-        {
           "id": "family-1412556",
           "name": "特大冰焙韻隱山烏龍",
           "original_price": 0,
@@ -9304,7 +9291,7 @@
         },
         {
           "id": "family-1374148",
-          "name": "ＰＡＢＬＯ鐵觀音奶茶濃雪糕",
+          "name": "PABLO鐵觀音奶茶濃雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11514,7 +11501,7 @@
         },
         {
           "id": "family-1449040",
-          "name": "選—東海大學高優質鮮乳９４６",
+          "name": "東海大學高優質鮮乳946ml",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14621,7 +14608,7 @@
         },
         {
           "id": "family-1449240",
-          "name": "ＰＡＢＬＯ完熟芒果綠茶",
+          "name": "PABLO完熟芒果綠茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -26048,7 +26035,7 @@
         },
         {
           "id": "family-1448585",
-          "name": "（超）真食雞胸—經典原味",
+          "name": "真食雞胸-經典原味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
