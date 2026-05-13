@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T15:26:25.938129+08:00",
+  "updated_at": "2026-05-13T18:04:00.971926+08:00",
   "stores": [
     {
       "id": "family",
@@ -1410,6 +1410,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量379大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1434839",
+          "name": "整條德式香腸義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1434839.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量615大卡，本包裝含1份"
         },
         {
           "id": "family-1440987",
