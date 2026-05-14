@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T13:33:42.136516+08:00",
+  "updated_at": "2026-05-14T16:18:02.045091+08:00",
   "stores": [
     {
       "id": "family",
@@ -16463,7 +16463,7 @@
           "category": "一般飲料",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量144大卡，本包裝含2份"
+          "note": "熱量96大卡，本包裝含2份"
         },
         {
           "id": "family-3320474",
@@ -20871,6 +20871,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量129大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1440232",
+          "name": "米米花經典湖鹽",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440232.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量152大卡，本包裝含1份"
         },
         {
           "id": "family-1440646",
