@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T18:42:42.311913+08:00",
+  "updated_at": "2026-05-14T20:19:03.664846+08:00",
   "stores": [
     {
       "id": "family",
@@ -1945,19 +1945,6 @@
           "note": "熱量221大卡，本包裝含1份"
         },
         {
-          "id": "family-0819824",
-          "name": "紅心芭樂(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0819824.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-0824526",
           "name": "凱薩沙拉(植覺生活)",
           "original_price": 0,
@@ -3035,19 +3022,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量81.9大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1049884",
-          "name": "南洋風味酸辣雞翅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1049884.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量185.9大卡，本包裝含1份"
         },
         {
           "id": "family-1118017",
@@ -12644,19 +12618,6 @@
           "note": "熱量198.2大卡，本包裝含1份"
         },
         {
-          "id": "family-2946182",
-          "name": "義美無加糖高纖全豆豆奶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2946182.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量132大卡，本包裝含1份"
-        },
-        {
           "id": "family-2946205",
           "name": "義美無加糖厚濃高纖黑豆奶",
           "original_price": 0,
@@ -17558,32 +17519,6 @@
           "note": "熱量178大卡，本包裝含1份"
         },
         {
-          "id": "family-0426562",
-          "name": "麝香葡萄QQ軟糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0426562.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量182.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0426580",
-          "name": "蜜柑果汁QQ軟糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0426580.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量179.1大卡，本包裝含1份"
-        },
-        {
           "id": "family-0435563",
           "name": "原味雙層枇杷喉糖",
           "original_price": 0,
@@ -17738,19 +17673,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量168.4大卡，本包裝含2份"
-        },
-        {
-          "id": "family-0598070",
-          "name": "明治杏仁可可球(盒裝)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0598070.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量452大卡，本包裝含1份"
         },
         {
           "id": "family-0598434",
@@ -19090,19 +19012,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量52大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1116451",
-          "name": "玩具總動員驚奇探險立體磁貼軟糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1116451.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量56.4大卡，本包裝含1份"
         },
         {
           "id": "family-1118803",
