@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T09:33:01.339889+08:00",
+  "updated_at": "2026-05-14T13:33:42.136516+08:00",
   "stores": [
     {
       "id": "family",
@@ -460,7 +460,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量144大卡，本包裝含1份"
+          "note": "熱量143大卡，本包裝含1份"
         },
         {
           "id": "family-1429446",
@@ -1371,6 +1371,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量295大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1430285",
+          "name": "蔥蔥玉子拌麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1430285.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量477大卡，本包裝含1份"
         },
         {
           "id": "family-1431354",
@@ -9444,6 +9457,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量147.3大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1439275",
+          "name": "牧場直送４．０花生牛奶雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1439275.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量188.3大卡，本包裝含1份"
         },
         {
           "id": "family-1439289",
