@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T16:18:02.045091+08:00",
+  "updated_at": "2026-05-14T18:42:42.311913+08:00",
   "stores": [
     {
       "id": "family",
@@ -19833,6 +19833,19 @@
           "note": "熱量358大卡，本包裝含1份"
         },
         {
+          "id": "family-1277998",
+          "name": "貝果脆片-奶油蒜香風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1277998.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量103.4大卡，本包裝含1份"
+        },
+        {
           "id": "family-1284656",
           "name": "雙月愛恨椒芝花生點心麵",
           "original_price": 0,
@@ -20832,6 +20845,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量361大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1438956",
+          "name": "燕麥脆片—椰香可可風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438956.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量115.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1438992",
+          "name": "貝果脆片—法式黑松露風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438992.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162.9大卡，本包裝含1份"
         },
         {
           "id": "family-1439007",
