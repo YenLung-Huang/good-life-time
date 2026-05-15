@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T20:09:49.939317+08:00",
+  "updated_at": "2026-05-15T22:35:27.528602+08:00",
   "stores": [
     {
       "id": "family",
@@ -4049,19 +4049,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量220大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1409165",
-          "name": "提拉米蘇巴斯克",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1409165.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量199大卡，本包裝含1份"
         },
         {
           "id": "family-1409183",
@@ -12369,19 +12356,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量124大卡，本包裝含1份"
-        },
-        {
-          "id": "family-2940013",
-          "name": "光泉薏仁糙米漿",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2940013.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量254.8大卡，本包裝含1份"
         },
         {
           "id": "family-2940031",
