@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T08:10:33.130620+08:00",
+  "updated_at": "2026-05-15T12:17:38.844710+08:00",
   "stores": [
     {
       "id": "family",
@@ -14477,6 +14477,19 @@
           "note": "熱量158.8大卡，本包裝含1份"
         },
         {
+          "id": "family-1439011",
+          "name": "選—ＵＣＣ紅茶時間無糖紅茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1439011.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量.4大卡，本包裝含9份"
+        },
+        {
           "id": "family-1439025",
           "name": "光泉一日快充高C檸檬飲",
           "original_price": 0,
@@ -19755,6 +19768,45 @@
           "note": "熱量103.4大卡，本包裝含1份"
         },
         {
+          "id": "family-1278003",
+          "name": "貝果脆片-義式披薩風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1278003.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量99大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1278017",
+          "name": "纖米脆脆-韓式甜辣風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1278017.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量104大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1278021",
+          "name": "纖米脆脆-香濃起司風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1278021.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量115.7大卡，本包裝含1份"
+        },
+        {
           "id": "family-1284656",
           "name": "雙月愛恨椒芝花生點心麵",
           "original_price": 0,
@@ -20754,6 +20806,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量361大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1438924",
+          "name": "纖米脆脆—玉米濃湯ＰＬＵＳ風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438924.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量114.2大卡，本包裝含1份"
         },
         {
           "id": "family-1438956",
