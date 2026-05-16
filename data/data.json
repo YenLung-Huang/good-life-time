@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T20:05:45.620672+08:00",
+  "updated_at": "2026-05-16T21:59:32.686462+08:00",
   "stores": [
     {
       "id": "family",
@@ -8783,19 +8783,6 @@
           "note": "熱量226大卡，本包裝含1份"
         },
         {
-          "id": "family-0901027",
-          "name": "薄荷可可餅乾雪糕　",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0901027.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量279.4大卡，本包裝含1份"
-        },
-        {
           "id": "family-0948463",
           "name": "蘭姆葡萄冰淇淋迷你杯",
           "original_price": 0,
@@ -8807,19 +8794,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量183.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1056897",
-          "name": "31BR棉花糖口味冰淇淋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1056897.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量177大卡，本包裝含1份"
         },
         {
           "id": "family-1056924",
@@ -8965,6 +8939,19 @@
           "note": "熱量205.2大卡，本包裝含1份"
         },
         {
+          "id": "family-1101759",
+          "name": "提拉米蘇冰淇淋迷你杯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1101759.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量194.5大卡，本包裝含1份"
+        },
+        {
           "id": "family-1111801",
           "name": "曠世奇派提拉米蘇雪糕",
           "original_price": 0,
@@ -9106,32 +9093,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量171大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1204214",
-          "name": "焙茶黃豆粉義式冰淇淋迷你杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1204214.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量185.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1227325",
-          "name": "匠選玉露綠茶冰淇淋迷你杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1227325.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量210.2大卡，本包裝含1份"
         },
         {
           "id": "family-1260626",
