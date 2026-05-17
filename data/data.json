@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T19:59:03.912540+08:00",
+  "updated_at": "2026-05-17T21:50:46.642203+08:00",
   "stores": [
     {
       "id": "family",
@@ -3100,19 +3100,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量62.5大卡，本包裝含3.2份"
-        },
-        {
-          "id": "family-1197271",
-          "name": "越式肉丸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1197271.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量101大卡，本包裝含2份"
         },
         {
           "id": "family-1197285",
@@ -18518,6 +18505,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量90.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0988984",
+          "name": "流心焦糖威化巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0988984.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量206大卡，本包裝含1份"
         },
         {
           "id": "family-0997858",
