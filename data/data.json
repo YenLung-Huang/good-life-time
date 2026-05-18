@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T07:41:26.008994+08:00",
+  "updated_at": "2026-05-18T09:50:02.921971+08:00",
   "stores": [
     {
       "id": "family",
@@ -516,7 +516,7 @@
         },
         {
           "id": "family-1452477",
-          "name": "一配黑胡椒洋蔥豬飯糰",
+          "name": "黑胡椒洋蔥豬飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5183,7 +5183,7 @@
         },
         {
           "id": "family-1424628",
-          "name": "一配檸檬燕麥豆漿餐包",
+          "name": "檸檬燕麥豆漿餐包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5261,7 +5261,7 @@
         },
         {
           "id": "family-1448567",
-          "name": "一配焙煎小麥鹽可頌",
+          "name": "焙煎小麥鹽可頌",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
