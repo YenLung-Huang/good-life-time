@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T12:36:10.963331+08:00",
+  "updated_at": "2026-05-20T16:16:23.960244+08:00",
   "stores": [
     {
       "id": "family",
@@ -500,6 +500,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量137大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1441529",
+          "name": "鐵板牛套餐包手卷",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1441529.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量321大卡，本包裝含1份"
         },
         {
           "id": "family-1452172",
@@ -7494,6 +7507,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量77.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1444931",
+          "name": "冰厚濃抹茶拿鐵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1444931.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量321大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1444945",
+          "name": "熱厚濃抹茶拿鐵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1444945.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量345大卡，本包裝含1份"
         },
         {
           "id": "family-0040322",
@@ -20652,6 +20691,19 @@
           "note": "熱量160大卡，本包裝含1份"
         },
         {
+          "id": "family-1408755",
+          "name": "彩虹軟糖混合水果口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408755.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量99大卡，本包裝含5.4份"
+        },
+        {
           "id": "family-1416346",
           "name": "冰淇淋造型棉花糖",
           "original_price": 0,
@@ -25928,6 +25980,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量186大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1440369",
+          "name": "香辣御品榨菜１７５ｇ",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440369.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量30大卡，本包裝含7份"
         },
         {
           "id": "family-1440373",
