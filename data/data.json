@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T12:43:50.520866+08:00",
+  "updated_at": "2026-05-21T16:23:08.234048+08:00",
   "stores": [
     {
       "id": "family",
@@ -7535,6 +7535,19 @@
           "note": "熱量480大卡，本包裝含1份"
         },
         {
+          "id": "family-1395243",
+          "name": "抹茶白玉牛奶酷繽沙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1395243.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量383大卡，本包裝含1份"
+        },
+        {
           "id": "family-1412556",
           "name": "特大冰焙韻隱山烏龍",
           "original_price": 0,
@@ -9678,6 +9691,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量184大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1449218",
+          "name": "草莓麻糬冰淇淋迷你杯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449218.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量193.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1449222",
+          "name": "比利時黑巧克力雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449222.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量252.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1449236",
+          "name": "巧克力布朗尼冰淇淋迷你杯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449236.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量202.9大卡，本包裝含1份"
         },
         {
           "id": "family-2310014",
