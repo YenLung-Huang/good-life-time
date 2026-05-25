@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T08:06:39.431539+08:00",
+  "updated_at": "2026-05-25T12:50:53.522313+08:00",
   "stores": [
     {
       "id": "family",
@@ -1295,6 +1295,32 @@
           "note": "熱量557大卡，本包裝含1份"
         },
         {
+          "id": "family-1388103",
+          "name": "海鮮什錦炒麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1388103.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量331大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1388149",
+          "name": "烏魚子炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1388149.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量452大卡，本包裝含1份"
+        },
+        {
           "id": "family-1395134",
           "name": "鐵板豆腐燴蛋蓋飯",
           "original_price": 0,
@@ -1410,6 +1436,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量543大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1429482",
+          "name": "鐵道滷排便當",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1429482.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量752大卡，本包裝含1份"
         },
         {
           "id": "family-1429496",
