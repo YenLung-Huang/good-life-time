@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T16:55:44.113818+08:00",
+  "updated_at": "2026-05-25T20:31:16.091114+08:00",
   "stores": [
     {
       "id": "family",
@@ -1657,19 +1657,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量237大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1088763",
-          "name": "香鬆起司蛋三明治(植覺生活)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1088763.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量201大卡，本包裝含1份"
         },
         {
           "id": "family-1160050",
@@ -5076,19 +5063,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量411大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1293293",
-          "name": "雞蛋牛奶手排包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1293293.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量473大卡，本包裝含1份"
         },
         {
           "id": "family-1316493",
