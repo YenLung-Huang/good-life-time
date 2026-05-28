@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T15:08:35.476931+08:00",
+  "updated_at": "2026-05-28T19:02:31.529573+08:00",
   "stores": [
     {
       "id": "family",
@@ -1592,6 +1592,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量563大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1465004",
+          "name": "慢燉滷肉油蔥粄條",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1465004.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量613大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -14917,6 +14930,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量144大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1460268",
+          "name": "爆能哈哈真香能量飲料",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1460268.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量14.4大卡，本包裝含1份"
         },
         {
           "id": "family-1461482",
