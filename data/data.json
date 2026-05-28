@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T19:02:31.529573+08:00",
+  "updated_at": "2026-05-28T22:45:35.266668+08:00",
   "stores": [
     {
       "id": "family",
@@ -7756,19 +7756,6 @@
           "note": "熱量204.8大卡，本包裝含1份"
         },
         {
-          "id": "family-1265921",
-          "name": "起司披薩包2.0",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1265921.jpg",
-          "stock": "",
-          "category": "蒸箱食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量236.9大卡，本包裝含1份"
-        },
-        {
           "id": "family-0240146",
           "name": "貝比馬鈴薯",
           "original_price": 0,
@@ -14321,19 +14308,6 @@
           "note": "熱量0大卡，本包裝含1份"
         },
         {
-          "id": "family-1373910",
-          "name": "FMC桑椹蜂蜜水",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1373910.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量108.8大卡，本包裝含1份"
-        },
-        {
           "id": "family-1387793",
           "name": "FMC橙柚百香綠茶",
           "original_price": 0,
@@ -14475,19 +14449,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量3.2大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1413661",
-          "name": "威金森檸檬風味碳酸水",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1413661.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量0大卡，本包裝含2份"
         },
         {
           "id": "family-1413702",
@@ -22283,19 +22244,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.3711457.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量3.4大卡，本包裝含22份"
-        },
-        {
-          "id": "family-3711475",
-          "name": "易口舒無糖薄荷沁檸檬",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3711475.jpg",
           "stock": "",
           "category": "點心零食",
           "store_name": "全家便利商店",
