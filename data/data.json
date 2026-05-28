@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T07:47:31.314544+08:00",
+  "updated_at": "2026-05-28T11:29:47.085327+08:00",
   "stores": [
     {
       "id": "family",
@@ -21092,6 +21092,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量220大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1457790",
+          "name": "義式香草烤雞風味棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1457790.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量134大卡，本包裝含2份"
         },
         {
           "id": "family-1457827",
