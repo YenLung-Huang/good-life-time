@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T07:49:08.539657+08:00",
+  "updated_at": "2026-05-29T11:30:00.608587+08:00",
   "stores": [
     {
       "id": "family",
@@ -28658,6 +28658,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量19.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1432869",
+          "name": "潤之泉枸杞菊花茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1432869.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量63大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1432982",
+          "name": "潤之泉養氣紅棗茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1432982.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量61大卡，本包裝含1份"
         },
         {
           "id": "family-1440246",
