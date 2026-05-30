@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T20:15:41.207372+08:00",
+  "updated_at": "2026-05-30T22:12:49.412670+08:00",
   "stores": [
     {
       "id": "family",
@@ -3076,19 +3076,6 @@
           "note": "熱量162大卡，本包裝含1份"
         },
         {
-          "id": "family-0705089",
-          "name": "蒸蛋湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0705089.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量134大卡，本包裝含1份"
-        },
-        {
           "id": "family-0753791",
           "name": "小滷青蔬(植覺生活)",
           "original_price": 0,
@@ -3165,19 +3152,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量81.9大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1118017",
-          "name": "馬鈴薯玉米濃湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1118017.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量224大卡，本包裝含1份"
         },
         {
           "id": "family-1127777",
@@ -3297,19 +3271,6 @@
           "note": "熱量110大卡，本包裝含1份"
         },
         {
-          "id": "family-1284438",
-          "name": "香菇雞燉湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1284438.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量163大卡，本包裝含1份"
-        },
-        {
           "id": "family-1318295",
           "name": "家香排骨",
           "original_price": 0,
@@ -3412,19 +3373,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量230大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1431845",
-          "name": "三合一味噌湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1431845.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量188大卡，本包裝含1份"
         },
         {
           "id": "family-1444622",
