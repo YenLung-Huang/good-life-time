@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T14:33:07.979283+08:00",
+  "updated_at": "2026-06-01T20:22:07.770637+08:00",
   "stores": [
     {
       "id": "family",
@@ -1971,25 +1971,25 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-0426926",
-          "name": "橘肉哈蜜瓜(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0426926.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量73.2大卡，本包裝含1份"
-        },
-        {
           "id": "family-0480786",
           "name": "紐西蘭金圓頭奇異果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.0480786.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-0496620",
+          "name": "履歷蘋果絲瓜",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0496620.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -2086,6 +2086,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量60.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0845130",
+          "name": "兩種芒果一起吃(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0845130.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量74.4大卡，本包裝含1份"
         },
         {
           "id": "family-0860443",
@@ -2224,6 +2237,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1111847.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1162907",
+          "name": "履歷烏殼綠竹筍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1162907.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -2575,6 +2601,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1362585.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1364650",
+          "name": "履歷水果彩椒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1364650.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -4881,19 +4920,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量443大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0947867",
-          "name": "墨西哥葡萄奶酥麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0947867.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量467大卡，本包裝含1份"
         },
         {
           "id": "family-1120466",
@@ -14686,7 +14712,7 @@
         },
         {
           "id": "family-1461482",
-          "name": "義美無糖高纖油切茶５７０ｍｌ",
+          "name": "義美無糖高纖油切茶570ml",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25112,7 +25138,7 @@
         },
         {
           "id": "family-1395461",
-          "name": "中焙３號茶包式咖啡",
+          "name": "中焙3號茶包式咖啡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25125,7 +25151,7 @@
         },
         {
           "id": "family-1395584",
-          "name": "深焙１號茶包式咖啡",
+          "name": "深焙1號茶包式咖啡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
