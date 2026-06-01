@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T20:22:07.770637+08:00",
+  "updated_at": "2026-06-02T02:23:36.061545+08:00",
   "stores": [
     {
       "id": "family",
@@ -10653,6 +10653,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量266大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1443430",
+          "name": "元氣秋葵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1443430.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量40大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1443444",
+          "name": "黃金玉米排",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1443444.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量101大卡，本包裝含1份"
         },
         {
           "id": "family-2410094",
