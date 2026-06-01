@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T09:39:05.543908+08:00",
+  "updated_at": "2026-06-01T14:33:07.979283+08:00",
   "stores": [
     {
       "id": "family",
@@ -8731,6 +8731,19 @@
           "note": "熱量207大卡，本包裝含1份"
         },
         {
+          "id": "family-0461106",
+          "name": "冰結X杜老爺青蘋果脆冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0461106.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量69大卡，本包裝含1份"
+        },
+        {
           "id": "family-0471535",
           "name": "牧場直送4.0牛奶雪糕",
           "original_price": 0,
@@ -9330,7 +9343,7 @@
         },
         {
           "id": "family-1409729",
-          "name": "桂冠芋角牛奶Ｑ雪糕",
+          "name": "桂冠芋角牛奶Q雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14686,7 +14699,7 @@
         },
         {
           "id": "family-1461573",
-          "name": "ＦＭＣ澄蜜烏龍茶",
+          "name": "FMC澄蜜烏龍茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14751,7 +14764,7 @@
         },
         {
           "id": "family-1461755",
-          "name": "ｂｂ﹒ｑ韓式柚子冰茶",
+          "name": "bb.q韓式柚子冰茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
