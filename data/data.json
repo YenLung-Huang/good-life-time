@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T08:02:10.512730+08:00",
+  "updated_at": "2026-06-03T13:16:22.191574+08:00",
   "stores": [
     {
       "id": "family",
@@ -20663,6 +20663,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量243大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1461682",
+          "name": "卡迪那德州薯條美墨酸辣醬口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1461682.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量141大卡，本包裝含2份"
         },
         {
           "id": "family-1461846",
