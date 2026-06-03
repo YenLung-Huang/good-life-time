@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T18:19:18.207916+08:00",
+  "updated_at": "2026-06-03T23:14:52.935657+08:00",
   "stores": [
     {
       "id": "family",
@@ -2138,19 +2138,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量74.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0860443",
-          "name": "履歷蘆筍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0860443.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0864310",
