@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T16:54:22.965769+08:00",
+  "updated_at": "2026-06-04T19:52:12.517431+08:00",
   "stores": [
     {
       "id": "family",
@@ -9613,6 +9613,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量147.3大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1439261",
+          "name": "牧場直送4.0牛奶冰淇淋甜筒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1439261.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量250大卡，本包裝含1份"
         },
         {
           "id": "family-1439275",
