@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T19:50:24.088511+08:00",
+  "updated_at": "2026-06-05T22:48:34.094748+08:00",
   "stores": [
     {
       "id": "family",
@@ -1477,19 +1477,6 @@
           "note": "熱量477大卡，本包裝含1份"
         },
         {
-          "id": "family-1430285",
-          "name": "蔥蔥玉子拌麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1430285.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量477大卡，本包裝含1份"
-        },
-        {
           "id": "family-1431354",
           "name": "和風涓絲冷麵",
           "original_price": 0,
@@ -2242,19 +2229,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量236大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1091209",
-          "name": "黃紅一起吃的西瓜(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1091209.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量69.8大卡，本包裝含1份"
         },
         {
           "id": "family-1111847",
@@ -16102,6 +16076,19 @@
           "note": "熱量90大卡，本包裝含8份"
         },
         {
+          "id": "family-3120682",
+          "name": "台灣四季春(4入)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3120682.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含2份"
+        },
+        {
           "id": "family-3120719",
           "name": "生活泡沫綠茶",
           "original_price": 0,
@@ -19090,6 +19077,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量195大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1075245",
+          "name": "味覺糖特濃牛奶味軟糖(條糖)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1075245.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量202大卡，本包裝含1份"
         },
         {
           "id": "family-1076196",
