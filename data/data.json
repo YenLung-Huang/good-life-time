@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T19:38:23.980531+08:00",
+  "updated_at": "2026-06-09T22:04:37.471158+08:00",
   "stores": [
     {
       "id": "family",
@@ -526,6 +526,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量218大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1476752",
+          "name": "香辣醬雞肉炒飯飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1476752.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量283大卡，本包裝含1份"
         },
         {
           "id": "family-0226225",
@@ -1204,6 +1217,19 @@
           "note": "熱量557大卡，本包裝含1份"
         },
         {
+          "id": "family-1369737",
+          "name": "焦糖拿鐵烤雞細扁麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1369737.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量559大卡，本包裝含1份"
+        },
+        {
           "id": "family-1388103",
           "name": "海鮮什錦炒麵",
           "original_price": 0,
@@ -1880,6 +1906,19 @@
           "note": "熱量257大卡，本包裝含1份"
         },
         {
+          "id": "family-1476207",
+          "name": "起司芋見肉鬆三明治",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1476207.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量234大卡，本包裝含1份"
+        },
+        {
           "id": "family-0052567",
           "name": "剝皮蒜仁",
           "original_price": 0,
@@ -1956,6 +1995,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-0328552",
+          "name": "莎莎烤雞麵沙拉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0328552.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量248大卡，本包裝含1份"
         },
         {
           "id": "family-0400867",
@@ -2216,19 +2268,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1310615",
-          "name": "履歷木瓜(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1310615.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量69大卡，本包裝含1份"
         },
         {
           "id": "family-1320012",
@@ -9082,19 +9121,6 @@
           "note": "熱量278大卡，本包裝含1份"
         },
         {
-          "id": "family-1073057",
-          "name": "杜老爺百香蜜檸啵啵脆冰棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1073057.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量66大卡，本包裝含1份"
-        },
-        {
           "id": "family-1074358",
           "name": "Niseko牛奶巧酥冰幸福杯",
           "original_price": 0,
@@ -9106,19 +9132,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量41大卡，本包裝含8份"
-        },
-        {
-          "id": "family-1074362",
-          "name": "Niseko厚奶奶酥冰幸福杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1074362.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量37.8大卡，本包裝含8份"
         },
         {
           "id": "family-1091045",
@@ -9184,19 +9197,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量197大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1119772",
-          "name": "品脫巧克力冰淇淋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1119772.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量270大卡，本包裝含4份"
         },
         {
           "id": "family-1167711",
@@ -19885,6 +19885,19 @@
           "note": "熱量13.3大卡，本包裝含10份"
         },
         {
+          "id": "family-1371077",
+          "name": "黃金蒜香菲力牛排口味玉米片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1371077.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量154大卡，本包裝含3份"
+        },
+        {
           "id": "family-1371136",
           "name": "蜂蜜焗腰果",
           "original_price": 0,
@@ -24513,19 +24526,6 @@
           "note": "熱量494大卡，本包裝含1份"
         },
         {
-          "id": "family-0699997",
-          "name": "海鮮湯麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0699997.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量310大卡，本包裝含1份"
-        },
-        {
           "id": "family-0704297",
           "name": "天香川味牛肉麵",
           "original_price": 0,
@@ -24758,19 +24758,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量344大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1056588",
-          "name": "青花驕麻辣鍋牛肉麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1056588.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量608大卡，本包裝含1份"
         },
         {
           "id": "family-1076346",
@@ -27358,240 +27345,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量8.4大卡，本包裝含5份"
-        },
-        {
-          "id": "family-4960015",
-          "name": "天仁綠茶袋茶20入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960015.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960029",
-          "name": "天仁鐵觀音袋茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960029.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960033",
-          "name": "天仁菊潽袋茶20入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960033.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960047",
-          "name": "天仁茉香綠茶20入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960047.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960051",
-          "name": "天仁茉莉烏龍袋茶20入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960051.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960079",
-          "name": "天仁極選烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960079.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960083",
-          "name": "天仁優選烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960083.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960097",
-          "name": "天仁特選烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960097.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960110",
-          "name": "桂花金萱茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960110.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960124",
-          "name": "天仁高山烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960124.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960138",
-          "name": "天仁精焙烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960138.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960142",
-          "name": "天仁金萱茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960142.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960160",
-          "name": "天仁高山烏龍茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960160.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960174",
-          "name": "天仁原片東方美人茶18入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960174.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960188",
-          "name": "天仁原片鮮綠茶18入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960188.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960247",
-          "name": "天仁台灣茗禮阿里山高山茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960247.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960251",
-          "name": "天仁台灣茗禮茶王",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960251.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-4960265",
-          "name": "天仁茉莉香片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4960265.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0139236",
