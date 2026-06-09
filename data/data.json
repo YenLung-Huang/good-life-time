@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T08:04:32.418325+08:00",
+  "updated_at": "2026-06-09T12:34:10.840181+08:00",
   "stores": [
     {
       "id": "family",
@@ -4806,7 +4806,7 @@
         },
         {
           "id": "family-0230844",
-          "name": "二配生芋頭芝士奶蓋滿餡",
+          "name": "生芋頭芝士奶蓋滿餡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5378,7 +5378,7 @@
         },
         {
           "id": "family-1457813",
-          "name": "一配墨西哥葡萄奶酥麵包",
+          "name": "墨西哥葡萄奶酥麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
