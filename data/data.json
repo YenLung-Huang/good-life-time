@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T16:47:52.562751+08:00",
+  "updated_at": "2026-06-10T20:19:28.735029+08:00",
   "stores": [
     {
       "id": "family",
@@ -25434,6 +25434,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量29.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1454001",
+          "name": "御膳ＸＯ醬　　",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454001.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量61大卡，本包裝含12份"
         },
         {
           "id": "family-1465181",
