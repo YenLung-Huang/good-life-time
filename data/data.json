@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T12:49:31.428678+08:00",
+  "updated_at": "2026-06-10T16:47:52.562751+08:00",
   "stores": [
     {
       "id": "family",
@@ -1371,6 +1371,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量543大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1408446",
+          "name": "剝皮辣椒細扁麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408446.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量250大卡，本包裝含1份"
         },
         {
           "id": "family-1408573",
