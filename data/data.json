@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T20:31:47.985510+08:00",
+  "updated_at": "2026-06-12T23:54:48.000875+08:00",
   "stores": [
     {
       "id": "family",
@@ -8365,6 +8365,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量201.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1486636",
+          "name": "冰烤番薯　（訂購２）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1486636.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量158.7大卡，本包裝含21份"
         },
         {
           "id": "family-0535884",
