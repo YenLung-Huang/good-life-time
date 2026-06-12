@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T17:11:46.429875+08:00",
+  "updated_at": "2026-06-12T20:31:47.985510+08:00",
   "stores": [
     {
       "id": "family",
@@ -14855,7 +14855,7 @@
         },
         {
           "id": "family-2920582",
-          "name": "FMC紫拿鐵",
+          "name": "紫拿鐵綜合果蔬汁",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14868,7 +14868,7 @@
         },
         {
           "id": "family-2920596",
-          "name": "FMC綠拿鐵",
+          "name": "綠拿鐵綜合果蔬汁",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24251,6 +24251,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量577大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0640584",
+          "name": "麻辣豬雙喜",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0640584.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量194大卡，本包裝含1份"
         },
         {
           "id": "family-0652301",
