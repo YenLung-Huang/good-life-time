@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T20:08:40.160176+08:00",
+  "updated_at": "2026-06-13T22:25:16.899338+08:00",
   "stores": [
     {
       "id": "family",
@@ -1189,19 +1189,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量503大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1343387",
-          "name": "好多蒜燒豚飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1343387.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量637大卡，本包裝含1份"
         },
         {
           "id": "family-1354685",
@@ -3893,19 +3880,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量131大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1071237",
-          "name": "可可脆皮泡芙",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1071237.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量336.3大卡，本包裝含1份"
         },
         {
           "id": "family-1076300",
@@ -19456,6 +19430,19 @@
           "note": "熱量51.9大卡，本包裝含10份"
         },
         {
+          "id": "family-1298825",
+          "name": "日本全家微辣烤魚香條",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1298825.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量91.9大卡，本包裝含1份"
+        },
+        {
           "id": "family-1299130",
           "name": "好多魚餅乾(海苔口味)",
           "original_price": 0,
@@ -19911,19 +19898,6 @@
           "note": "熱量154大卡，本包裝含3份"
         },
         {
-          "id": "family-1398332",
-          "name": "樂連連青花椒風味醬洋芋片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1398332.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量162大卡，本包裝含2份"
-        },
-        {
           "id": "family-1405325",
           "name": "保佳適能量飲風味軟糖",
           "original_price": 0,
@@ -20013,19 +19987,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量116大卡，本包裝含3份"
-        },
-        {
-          "id": "family-1430021",
-          "name": "爆脆捲爆蒜濃蝦口味玉米捲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1430021.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量127大卡，本包裝含2份"
         },
         {
           "id": "family-1436477",
@@ -21620,6 +21581,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.3712762.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量7大卡，本包裝含10份"
+        },
+        {
+          "id": "family-3712780",
+          "name": "超涼薄荷錠蜂蜜檸檬口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3712780.jpg",
           "stock": "",
           "category": "點心零食",
           "store_name": "全家便利商店",
