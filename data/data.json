@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T12:10:00.903763+08:00",
+  "updated_at": "2026-06-15T18:32:50.664308+08:00",
   "stores": [
     {
       "id": "family",
@@ -526,6 +526,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量218大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1465018",
+          "name": "明太子生鮭飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1465018.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含1份"
         },
         {
           "id": "family-1476752",
@@ -1501,6 +1514,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量548大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1452768",
+          "name": "打拋風味豬肉飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1452768.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量603大卡，本包裝含1份"
         },
         {
           "id": "family-1452772",
@@ -27566,6 +27592,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量69.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1430130",
+          "name": "GA黃金甲太空能量膠",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1430130.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量125.2大卡，本包裝含1份"
         },
         {
           "id": "family-1432841",
