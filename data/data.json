@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T18:30:51.776771+08:00",
+  "updated_at": "2026-06-16T23:33:16.327151+08:00",
   "stores": [
     {
       "id": "family",
@@ -4883,6 +4883,19 @@
           "note": "熱量305大卡，本包裝含1份"
         },
         {
+          "id": "family-0274769",
+          "name": "一配紫米芋頭麻糬軟歐",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0274769.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量442大卡，本包裝含1份"
+        },
+        {
           "id": "family-0459420",
           "name": "厚切醇乳香土司",
           "original_price": 0,
@@ -8937,6 +8950,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量175大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0619696",
+          "name": "開心果冰淇淋迷你杯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0619696.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量214大卡，本包裝含1份"
         },
         {
           "id": "family-0768784",
@@ -15203,19 +15229,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量201大卡，本包裝含1份"
-        },
-        {
-          "id": "family-2946237",
-          "name": "義美無加糖燕麥全豆豆奶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2946237.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量171大卡，本包裝含1份"
         },
         {
           "id": "family-2950010",
