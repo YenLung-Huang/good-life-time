@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:42:20.213340+08:00",
+  "updated_at": "2026-06-19T00:17:49.640785+08:00",
   "stores": [
     {
       "id": "family",
@@ -14555,6 +14555,19 @@
           "note": "熱量44大卡，本包裝含1份"
         },
         {
+          "id": "family-1490728",
+          "name": "紅牛富士蘋果風味無糖能量飲料",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490728.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含1份"
+        },
+        {
           "id": "family-2910012",
           "name": "純喫茶紅茶",
           "original_price": 0,
@@ -20585,6 +20598,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量41大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1484016",
+          "name": "松露起司風味棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1484016.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量126.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1486054",
+          "name": "Ｐｉｎｋｙ水蜜桃薄荷糖（大）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1486054.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量52.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1486240",
+          "name": "榴槤糯米風味焦糖脆餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1486240.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量126大卡，本包裝含2份"
         },
         {
           "id": "family-1640010",
@@ -27826,6 +27878,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量.6大卡，本包裝含5份"
+        },
+        {
+          "id": "family-1483501",
+          "name": "呵派力肝臟水解飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1483501.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量26大卡，本包裝含1份"
         },
         {
           "id": "family-4810012",
