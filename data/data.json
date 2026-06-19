@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:48:54.053927+08:00",
+  "updated_at": "2026-06-19T23:13:11.956278+08:00",
   "stores": [
     {
       "id": "family",
@@ -1787,19 +1787,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量151大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1373756",
-          "name": "茄汁薯餅蛋堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1373756.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量309大卡，本包裝含1份"
         },
         {
           "id": "family-1397659",
@@ -5349,19 +5336,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量466大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1424628",
-          "name": "檸檬燕麥豆漿餐包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1424628.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量109大卡，本包裝含3份"
         },
         {
           "id": "family-1440896",
