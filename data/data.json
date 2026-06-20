@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T19:34:21.396123+08:00",
+  "updated_at": "2026-06-20T21:12:42.125302+08:00",
   "stores": [
     {
       "id": "family",
@@ -19415,19 +19415,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量56.2大卡，本包裝含4份"
-        },
-        {
-          "id": "family-1290304",
-          "name": "臻粹巧克力禮盒(含餡)10顆裝",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1290304.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量59大卡，本包裝含5份"
         },
         {
           "id": "family-1292065",
