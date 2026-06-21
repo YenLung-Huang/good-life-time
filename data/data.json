@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T19:35:07.941682+08:00",
+  "updated_at": "2026-06-21T21:26:00.943894+08:00",
   "stores": [
     {
       "id": "family",
@@ -825,19 +825,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量684大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0978278",
-          "name": "糖燻野郎三十天熟成牛飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0978278.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量669大卡，本包裝含1份"
         },
         {
           "id": "family-0983025",
@@ -14854,6 +14841,19 @@
           "note": "熱量148大卡，本包裝含1份"
         },
         {
+          "id": "family-2920578",
+          "name": "FMC楊枝甘露",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2920578.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量157.1大卡，本包裝含1份"
+        },
+        {
           "id": "family-2920582",
           "name": "紫拿鐵綜合果蔬汁",
           "original_price": 0,
@@ -17946,6 +17946,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量192大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0617917",
+          "name": "鹽味卡哩卡哩",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0617917.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量480大卡，本包裝含1份"
         },
         {
           "id": "family-0617921",
