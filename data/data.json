@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:31:22.003560+08:00",
+  "updated_at": "2026-06-23T22:04:43.382447+08:00",
   "stores": [
     {
       "id": "family",
@@ -1529,19 +1529,6 @@
           "note": "熱量535大卡，本包裝含1份"
         },
         {
-          "id": "family-1440987",
-          "name": "韓式燒肉拌飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440987.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量548大卡，本包裝含1份"
-        },
-        {
           "id": "family-1452768",
           "name": "打拋風味豬肉飯",
           "original_price": 0,
@@ -1631,6 +1618,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量514大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1490550",
+          "name": "糖燻野郎三十天熟成牛飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490550.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量659大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -4467,6 +4467,19 @@
           "note": "熱量314.2大卡，本包裝含1份"
         },
         {
+          "id": "family-1488474",
+          "name": "焙茶珍珠千層蛋糕　",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1488474.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量175.7大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -4855,6 +4868,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量342大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0136765",
+          "name": "一配濃煮奶茶鹽可頌",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136765.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-0208023",
@@ -5388,6 +5414,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量465大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1485303",
+          "name": "一配核桃多穀黑麥土司",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1485303.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量250.6大卡，本包裝含1份"
         },
         {
           "id": "family-1820062",
@@ -12330,19 +12369,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量100大卡，本包裝含2份"
-        },
-        {
-          "id": "family-0100813",
-          "name": "每日C葡萄綜合果汁800ml",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0100813.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量139大卡，本包裝含3份"
         },
         {
           "id": "family-0135541",
@@ -24680,19 +24706,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量29大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0940724",
-          "name": "松露嫩雞風味濃湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0940724.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量61大卡，本包裝含1份"
         },
         {
           "id": "family-0945415",
