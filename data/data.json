@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T07:30:37.157241+08:00",
+  "updated_at": "2026-06-24T09:31:29.029056+08:00",
   "stores": [
     {
       "id": "family",
@@ -4871,7 +4871,7 @@
         },
         {
           "id": "family-0136765",
-          "name": "一配濃煮奶茶鹽可頌",
+          "name": "濃煮奶茶鹽可頌",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5416,8 +5416,21 @@
           "note": "熱量465大卡，本包裝含1份"
         },
         {
+          "id": "family-1463575",
+          "name": "芋見金沙鬆餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1463575.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量310大卡，本包裝含1份"
+        },
+        {
           "id": "family-1485303",
-          "name": "一配核桃多穀黑麥土司",
+          "name": "核桃多穀黑麥土司",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5427,6 +5440,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量250.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1492334",
+          "name": "原味覺土司(六入)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1492334.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量468大卡，本包裝含2份"
         },
         {
           "id": "family-1820062",
