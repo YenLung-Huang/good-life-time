@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T09:31:29.029056+08:00",
+  "updated_at": "2026-06-24T13:49:15.925357+08:00",
   "stores": [
     {
       "id": "family",
@@ -1568,6 +1568,19 @@
           "note": "熱量563大卡，本包裝含1份"
         },
         {
+          "id": "family-1462074",
+          "name": "厚香料優格咖哩雞排飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1462074.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量707大卡，本包裝含1份"
+        },
+        {
           "id": "family-1463993",
           "name": "奶油鮮蝦明太子細扁麵",
           "original_price": 0,
@@ -1631,6 +1644,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量659大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1491524",
+          "name": "義式蛋蛋青醬鮪魚冷義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1491524.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量438大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -2267,7 +2293,7 @@
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量154.7大卡，本包裝含1份"
+          "note": "熱量78大卡，本包裝含1份"
         },
         {
           "id": "family-1162907",
@@ -3503,6 +3529,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量83大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1463870",
+          "name": "韓式炒冬粉(植覺生活)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1463870.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量217大卡，本包裝含1份"
         },
         {
           "id": "family-1463989",
@@ -10734,7 +10773,7 @@
         },
         {
           "id": "family-1443430",
-          "name": "元氣秋葵",
+          "name": "元氣秋葵(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -10747,7 +10786,7 @@
         },
         {
           "id": "family-1443444",
-          "name": "黃金玉米排",
+          "name": "黃金玉米排(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20626,6 +20665,19 @@
           "note": "熱量41大卡，本包裝含6份"
         },
         {
+          "id": "family-1475392",
+          "name": "迷你脆皮蛋口味玉米片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1475392.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量128大卡，本包裝含2份"
+        },
+        {
           "id": "family-1484016",
           "name": "松露起司風味棒",
           "original_price": 0,
@@ -25486,6 +25538,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量61大卡，本包裝含12份"
+        },
+        {
+          "id": "family-1465159",
+          "name": "椒麻紅燒鰻",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1465159.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量110.8大卡，本包裝含2份"
         },
         {
           "id": "family-1465181",
