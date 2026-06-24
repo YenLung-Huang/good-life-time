@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T20:05:37.164081+08:00",
+  "updated_at": "2026-06-24T23:07:05.604688+08:00",
   "stores": [
     {
       "id": "family",
@@ -1984,19 +1984,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-0226798",
-          "name": "茭白筍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0226798.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量20大卡，本包裝含1份"
-        },
-        {
           "id": "family-0242289",
           "name": "有機小松菜(小農)",
           "original_price": 0,
@@ -2660,6 +2647,19 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
+          "id": "family-1364678",
+          "name": "有機黃豆芽",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1364678.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-1364682",
           "name": "高山高麗菜500g",
           "original_price": 0,
@@ -2866,6 +2866,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量303大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1490782",
+          "name": "絢麗蘋果單入裝（冷藏原果）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490782.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0025146",
@@ -5362,19 +5375,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量466大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1440896",
-          "name": "生白桃紅烏龍滿餡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440896.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量287大卡，本包裝含1份"
         },
         {
           "id": "family-1447266",
@@ -9407,6 +9407,19 @@
           "note": "熱量184大卡，本包裝含1份"
         },
         {
+          "id": "family-1267555",
+          "name": "抹茶巧酥雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1267555.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量242大卡，本包裝含1份"
+        },
+        {
           "id": "family-1299162",
           "name": "ICE-CUP冰塊杯",
           "original_price": 0,
@@ -9613,19 +9626,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量252大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1413770",
-          "name": "GODIVA開心果黑巧克力雪糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1413770.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量271大卡，本包裝含1份"
         },
         {
           "id": "family-1423068",
