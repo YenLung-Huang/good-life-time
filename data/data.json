@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T19:10:33.870454+08:00",
+  "updated_at": "2026-06-27T20:18:26.509610+08:00",
   "stores": [
     {
       "id": "family",
@@ -1488,19 +1488,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量615大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1434875",
-          "name": "蕃茄起司手工千層麵（區）",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1434875.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量525大卡，本包裝含1份"
         },
         {
           "id": "family-1440973",
@@ -4387,19 +4374,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量153大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1454724",
-          "name": "抹茶紅豆串糰子",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454724.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量192.7大卡，本包裝含1份"
         },
         {
           "id": "family-1461814",
