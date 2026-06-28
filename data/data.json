@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T20:08:34.059222+08:00",
+  "updated_at": "2026-06-28T22:15:25.818538+08:00",
   "stores": [
     {
       "id": "family",
@@ -4660,19 +4660,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量84大卡，本包裝含1份"
-        },
-        {
-          "id": "family-2620479",
-          "name": "林鳳營草莓特濃重乳優格",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2620479.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量135大卡，本包裝含1份"
         },
         {
           "id": "family-2620483",
@@ -10980,19 +10967,6 @@
           "note": "熱量147.6大卡，本包裝含1份"
         },
         {
-          "id": "family-0063988",
-          "name": "牧場直送4.0鮮乳1858ml",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0063988.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量252.7大卡，本包裝含5份"
-        },
-        {
           "id": "family-0090977",
           "name": "活益比菲多減糖纖維",
           "original_price": 0,
@@ -11056,19 +11030,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量159.1大卡，本包裝含4份"
-        },
-        {
-          "id": "family-0414690",
-          "name": "A2β酪蛋白鮮乳200ml",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0414690.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量136大卡，本包裝含1份"
         },
         {
           "id": "family-0434917",
@@ -11615,19 +11576,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量157大卡，本包裝含1.4份"
-        },
-        {
-          "id": "family-2720095",
-          "name": "鮮乳坊嘉明鮮乳",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2720095.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量139大卡，本包裝含1份"
         },
         {
           "id": "family-2720104",
