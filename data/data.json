@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T06:10:01.091108+08:00",
+  "updated_at": "2026-06-29T09:35:52.625557+08:00",
   "stores": [
     {
       "id": "family",
@@ -1503,6 +1503,19 @@
           "note": "熱量535大卡，本包裝含1份"
         },
         {
+          "id": "family-1452740",
+          "name": "香烤魚排青醬燉飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1452740.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量561大卡，本包裝含1份"
+        },
+        {
           "id": "family-1452768",
           "name": "打拋風味豬肉飯",
           "original_price": 0,
@@ -1540,6 +1553,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量563大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1454706",
+          "name": "毛豆三兄弟",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454706.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量157大卡，本包裝含1份"
         },
         {
           "id": "family-1462074",
@@ -2141,7 +2167,7 @@
         },
         {
           "id": "family-0864310",
-          "name": "芒起來吃(超值盒)",
+          "name": "夏日愛文芒果(超值盒)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
