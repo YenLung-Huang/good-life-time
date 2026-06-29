@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T09:35:52.625557+08:00",
+  "updated_at": "2026-06-29T14:23:16.607293+08:00",
   "stores": [
     {
       "id": "family",
@@ -1555,19 +1555,6 @@
           "note": "熱量563大卡，本包裝含1份"
         },
         {
-          "id": "family-1454706",
-          "name": "毛豆三兄弟",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454706.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量157大卡，本包裝含1份"
-        },
-        {
           "id": "family-1462074",
           "name": "厚香料優格咖哩雞排飯",
           "original_price": 0,
@@ -2986,7 +2973,7 @@
         },
         {
           "id": "family-0357416",
-          "name": "秘香椒麻嫩雞胸",
+          "name": "秘香椒麻嫩雞胸(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3064,7 +3051,7 @@
         },
         {
           "id": "family-0634309",
-          "name": "古早味香滷嫩雞胸",
+          "name": "古早味香滷嫩雞胸(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3207,7 +3194,7 @@
         },
         {
           "id": "family-1032099",
-          "name": "法式香草嫩雞胸",
+          "name": "法式香草嫩雞胸(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3518,6 +3505,32 @@
           "note": "熱量83大卡，本包裝含1份"
         },
         {
+          "id": "family-1454697",
+          "name": "黑胡椒毛豆(健康志向)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454697.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量137大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1454706",
+          "name": "毛豆三兄弟(健康志向)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454706.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量157大卡，本包裝含1份"
+        },
+        {
           "id": "family-1463870",
           "name": "韓式炒冬粉(植覺生活)",
           "original_price": 0,
@@ -3662,7 +3675,7 @@
         },
         {
           "id": "family-1630354",
-          "name": "香蔥經典嫩雞胸",
+          "name": "香蔥經典嫩雞胸(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3675,7 +3688,7 @@
         },
         {
           "id": "family-1631100",
-          "name": "義式經典嫩雞胸",
+          "name": "義式經典嫩雞胸(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4426,6 +4439,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量184.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1462701",
+          "name": "綿莓莓夾心蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1462701.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量303大卡，本包裝含1份"
         },
         {
           "id": "family-1470433",
@@ -10682,7 +10708,7 @@
         },
         {
           "id": "family-1435744",
-          "name": "雞肉穀物飯",
+          "name": "雞肉穀物飯(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -10695,7 +10721,7 @@
         },
         {
           "id": "family-1435758",
-          "name": "鮪魚穀物飯",
+          "name": "鮪魚穀物飯(健康志向)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -26981,6 +27007,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-4650414",
+          "name": "排骨湯塊",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4650414.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量13.5大卡，本包裝含15份"
+        },
+        {
+          "id": "family-4650428",
+          "name": "雞湯塊",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4650428.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量13.4大卡，本包裝含15份"
         },
         {
           "id": "family-4650464",
