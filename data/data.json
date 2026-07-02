@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T21:16:02.979407+08:00",
+  "updated_at": "2026-07-02T23:39:56.994795+08:00",
   "stores": [
     {
       "id": "family",
@@ -9654,6 +9654,45 @@
           "note": "熱量249.7大卡，本包裝含1份"
         },
         {
+          "id": "family-1494813",
+          "name": "阿奇儂Ｘ可果美番茄糖葫蘆冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1494813.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量66.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1495041",
+          "name": "百吉ｘ立頓奶茶雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495041.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量172.3大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1495055",
+          "name": "百吉ｘＣｏＣｏ楊枝甘露雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495055.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量101.7大卡，本包裝含1份"
+        },
+        {
           "id": "family-2310014",
           "name": "義美紅豆粉粿牛奶冰棒",
           "original_price": 0,
@@ -14345,6 +14384,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1498603",
+          "name": "Ｒｅｌａｘ茉莉花茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498603.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1498649",
+          "name": "威金森荔枝檸檬風味碳酸水",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498649.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含2份"
         },
         {
           "id": "family-2910012",
@@ -20301,6 +20366,32 @@
           "note": "熱量126.8大卡，本包裝含1份"
         },
         {
+          "id": "family-1485917",
+          "name": "貓咪造型果凍（水蜜桃風味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1485917.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量104大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1485921",
+          "name": "貓咪造型果凍（萊姆可樂風味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1485921.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量4大卡，本包裝含1份"
+        },
+        {
           "id": "family-1486054",
           "name": "Pinky水蜜桃薄荷糖",
           "original_price": 0,
@@ -20364,6 +20455,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量128大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1495364",
+          "name": "ＰＯＰ造型ＱＱ糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495364.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量44.2大卡，本包裝含4份"
+        },
+        {
+          "id": "family-1495378",
+          "name": "超酸檸檬ＱＱ糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495378.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量92.3大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1495469",
+          "name": "麵包超人ＱＱ糖—運動飲料風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495469.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量61.6大卡，本包裝含1份"
         },
         {
           "id": "family-1640010",
