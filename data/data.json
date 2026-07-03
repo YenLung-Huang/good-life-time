@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T18:17:54.956647+08:00",
+  "updated_at": "2026-07-03T20:24:49.271749+08:00",
   "stores": [
     {
       "id": "family",
@@ -2112,19 +2112,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1038027",
-          "name": "水果玉米(即食)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1038027.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量93大卡，本包裝含1份"
         },
         {
           "id": "family-1057093",
@@ -10939,6 +10926,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量147.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0063988",
+          "name": "牧場直送4.0鮮乳1858ml",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0063988.jpg",
+          "stock": "",
+          "category": "乳製品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量252.7大卡，本包裝含5份"
         },
         {
           "id": "family-0090977",
@@ -27527,6 +27527,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量75大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1197794",
+          "name": "桂格優步力關鍵專利配方凍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1197794.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量33.6大卡，本包裝含1份"
         },
         {
           "id": "family-1241773",
