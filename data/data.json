@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T18:11:25.975292+08:00",
+  "updated_at": "2026-07-05T21:27:44.139814+08:00",
   "stores": [
     {
       "id": "family",
@@ -1685,19 +1685,6 @@
           "note": "熱量204大卡，本包裝含1份"
         },
         {
-          "id": "family-1319746",
-          "name": "藍莓優格三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1319746.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量151大卡，本包裝含1份"
-        },
-        {
           "id": "family-1397659",
           "name": "香蕉可可三明治",
           "original_price": 0,
@@ -3035,19 +3022,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量144.6大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0905285",
-          "name": "蔥薑海南雞風味雞Q丸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0905285.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量164.5大卡，本包裝含1份"
         },
         {
           "id": "family-0977395",
@@ -7821,19 +7795,6 @@
           "note": "熱量201大卡，本包裝含1份"
         },
         {
-          "id": "family-1059645",
-          "name": "金黃芝士熱狗",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1059645.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量220大卡，本包裝含1份"
-        },
-        {
           "id": "family-1059681",
           "name": "維也納雞肉熱狗",
           "original_price": 0,
@@ -7923,19 +7884,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量234大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1146402",
-          "name": "金門高粱酒香腸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1146402.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量166大卡，本包裝含5份"
         },
         {
           "id": "family-1153506",
@@ -10993,6 +10941,19 @@
           "note": "熱量159.1大卡，本包裝含4份"
         },
         {
+          "id": "family-0414690",
+          "name": "A2β酪蛋白鮮乳200ml",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0414690.jpg",
+          "stock": "",
+          "category": "乳製品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量136大卡，本包裝含1份"
+        },
+        {
           "id": "family-0434917",
           "name": "光泉草莓牛乳",
           "original_price": 0,
@@ -11537,6 +11498,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量157大卡，本包裝含1.4份"
+        },
+        {
+          "id": "family-2720095",
+          "name": "鮮乳坊嘉明鮮乳",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2720095.jpg",
+          "stock": "",
+          "category": "乳製品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量139大卡，本包裝含1份"
         },
         {
           "id": "family-2720104",
