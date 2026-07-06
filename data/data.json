@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T09:23:19.278584+08:00",
+  "updated_at": "2026-07-06T13:54:58.916924+08:00",
   "stores": [
     {
       "id": "family",
@@ -526,6 +526,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量283大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1490582",
+          "name": "大飯糰泡菜鮪魚",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490582.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量255大卡，本包裝含1份"
         },
         {
           "id": "family-0101269",
