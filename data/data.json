@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T19:29:53.093144+08:00",
+  "updated_at": "2026-07-08T21:10:14.244750+08:00",
   "stores": [
     {
       "id": "family",
@@ -17584,6 +17584,19 @@
           "note": "熱量61大卡，本包裝含1份"
         },
         {
+          "id": "family-0335151",
+          "name": "一口歌舞伎揚米果",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0335151.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量440大卡，本包裝含1份"
+        },
+        {
           "id": "family-0369401",
           "name": "星太郎香菜超寬條餅",
           "original_price": 0,
@@ -22743,6 +22756,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量121大卡，本包裝含6份"
+        },
+        {
+          "id": "family-3850302",
+          "name": "機上嚴選果鋪物語米果",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3850302.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量93.4大卡，本包裝含18份"
         },
         {
           "id": "family-3850384",
