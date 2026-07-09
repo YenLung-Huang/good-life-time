@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T14:42:47.391489+08:00",
+  "updated_at": "2026-07-09T18:14:05.361418+08:00",
   "stores": [
     {
       "id": "family",
@@ -7509,6 +7509,19 @@
           "note": "熱量518大卡，本包裝含1份"
         },
         {
+          "id": "family-1451417",
+          "name": "特大冰杏仁凍青茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1451417.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量145大卡，本包裝含1份"
+        },
+        {
           "id": "family-1454760",
           "name": "鹿兒島焙茶牛奶酷繽沙",
           "original_price": 0,
@@ -9704,6 +9717,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量101.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1495287",
+          "name": "梨子果肉牛奶雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495287.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量133.3大卡，本包裝含1份"
         },
         {
           "id": "family-2310014",
