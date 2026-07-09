@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T18:14:05.361418+08:00",
+  "updated_at": "2026-07-09T23:48:06.312788+08:00",
   "stores": [
     {
       "id": "family",
@@ -13801,6 +13801,32 @@
           "note": "熱量0大卡，本包裝含2份"
         },
         {
+          "id": "family-1408650",
+          "name": "惜—雙月靜涼茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408650.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1408787",
+          "name": "惜—雙月養仙茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408787.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量3.2大卡，本包裝含2份"
+        },
+        {
           "id": "family-1413702",
           "name": "多得可鳴能量碳酸飲料",
           "original_price": 0,
@@ -23783,19 +23809,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量325大卡，本包裝含1份"
-        },
-        {
-          "id": "family-4110020",
-          "name": "土芒果青鮮果乾",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4110020.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量42.9大卡，本包裝含3份"
         },
         {
           "id": "family-4110048",
