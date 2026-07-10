@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T18:11:28.036175+08:00",
+  "updated_at": "2026-07-10T20:37:12.562813+08:00",
   "stores": [
     {
       "id": "family",
@@ -12618,19 +12618,6 @@
           "note": "熱量71大卡，本包裝含4份"
         },
         {
-          "id": "family-0432274",
-          "name": "FMC蜜桃春烏龍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0432274.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量145.6大卡，本包裝含1份"
-        },
-        {
           "id": "family-0432888",
           "name": "午后時光重乳奶茶936ml",
           "original_price": 0,
@@ -14228,19 +14215,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量112.4大卡，本包裝含6份"
-        },
-        {
-          "id": "family-1449195",
-          "name": "五桐號蜜桃荔枝紅茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449195.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量140.8大卡，本包裝含1份"
         },
         {
           "id": "family-1449240",
@@ -19859,19 +19833,6 @@
           "note": "熱量112大卡，本包裝含2份"
         },
         {
-          "id": "family-1372455",
-          "name": "雪天果棒球加油應援罐",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1372455.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量42.4大卡，本包裝含2份"
-        },
-        {
           "id": "family-1372500",
           "name": "Snoopy肉球造型軟糖",
           "original_price": 0,
@@ -19896,19 +19857,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量123大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1385228",
-          "name": "雪天果蘋果清新薄荷糖造型罐",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1385228.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量45.9大卡，本包裝含1份"
         },
         {
           "id": "family-1385719",
@@ -24357,19 +24305,6 @@
           "note": "熱量458.8大卡，本包裝含1份"
         },
         {
-          "id": "family-0559432",
-          "name": "頂級黑纖米",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0559432.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量328大卡，本包裝含1份"
-        },
-        {
           "id": "family-0578008",
           "name": "香草風味拿鐵咖啡",
           "original_price": 0,
@@ -24563,19 +24498,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量560大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0664241",
-          "name": "香辣雞肉風味辛拉麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0664241.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量508大卡，本包裝含1份"
         },
         {
           "id": "family-0664491",
