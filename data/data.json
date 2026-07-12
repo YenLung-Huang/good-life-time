@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:37:20.636531+08:00",
+  "updated_at": "2026-07-12T20:37:39.462062+08:00",
   "stores": [
     {
       "id": "family",
@@ -1657,19 +1657,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量204大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1397659",
-          "name": "香蕉可可三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1397659.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量193大卡，本包裝含1份"
         },
         {
           "id": "family-1408741",
@@ -3607,19 +3594,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量267大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0461124",
-          "name": "義美仙草凍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0461124.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量75.9大卡，本包裝含1份"
         },
         {
           "id": "family-0524863",
