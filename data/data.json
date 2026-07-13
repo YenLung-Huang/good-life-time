@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:37:13.266734+08:00",
+  "updated_at": "2026-07-13T21:49:27.419480+08:00",
   "stores": [
     {
       "id": "family",
@@ -1529,6 +1529,19 @@
           "note": "熱量375大卡，本包裝含1份"
         },
         {
+          "id": "family-1499718",
+          "name": "二配美味蟹煲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1499718.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量516大卡，本包裝含1份"
+        },
+        {
           "id": "family-0554650",
           "name": "香雞蛋堡",
           "original_price": 0,
@@ -1945,6 +1958,19 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
+          "id": "family-0513010",
+          "name": "紐西蘭綠奇異果",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0513010.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-0650377",
           "name": "履歷珍珠芭樂(截切)",
           "original_price": 0,
@@ -1969,19 +1995,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量62.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0683394",
-          "name": "履歷高山翡翠白菜(玉美)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0683394.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0746401",
@@ -2047,6 +2060,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量126大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0988570",
+          "name": "砂糖橘(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0988570.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量67.5大卡，本包裝含1份"
         },
         {
           "id": "family-0988693",
@@ -2138,6 +2164,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1310138",
+          "name": "完熟蜜龍果(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1310138.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量77.5大卡，本包裝含1份"
         },
         {
           "id": "family-1320012",
@@ -5089,19 +5128,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量381大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1417188",
-          "name": "黑咖哩牛肉麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417188.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量286大卡，本包裝含1份"
         },
         {
           "id": "family-1422317",
