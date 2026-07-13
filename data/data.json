@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T09:13:54.740000+08:00",
+  "updated_at": "2026-07-13T12:49:04.426842+08:00",
   "stores": [
     {
       "id": "family",
@@ -3581,6 +3581,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量113大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0136733",
+          "name": "光泉森林莓果雙格優酪",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136733.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量94.4大卡，本包裝含1份"
         },
         {
           "id": "family-0415773",
@@ -33441,8 +33454,8 @@
         {
           "id": "seven-12-423",
           "name": "德國鹼水麵包",
-          "original_price": 42,
-          "friendly_price": 21,
+          "original_price": 49,
+          "friendly_price": 24,
           "discount_percent": 50,
           "image_url": "https://www.7-11.com.tw/freshfoods/images/bread_1230.png",
           "stock": "",
@@ -33899,7 +33912,7 @@
           "original_price": 49,
           "friendly_price": 24,
           "discount_percent": 50,
-          "image_url": "https://www.7-11.com.tw/freshfoods/images/bread_1192.png",
+          "image_url": "https://www.7-11.com.tw/freshfoods/images/bread_1193.png",
           "stock": "",
           "category": "category_12",
           "store_name": "7-11",
@@ -33912,7 +33925,7 @@
           "original_price": 49,
           "friendly_price": 24,
           "discount_percent": 50,
-          "image_url": "https://www.7-11.com.tw/freshfoods/images/bread_1193.png",
+          "image_url": "https://www.7-11.com.tw/freshfoods/images/bread_1192.png",
           "stock": "",
           "category": "category_12",
           "store_name": "7-11",
