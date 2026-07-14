@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T20:53:04.627334+08:00",
+  "updated_at": "2026-07-14T22:48:52.852936+08:00",
   "stores": [
     {
       "id": "family",
@@ -1802,6 +1802,19 @@
           "note": "熱量198大卡，本包裝含1份"
         },
         {
+          "id": "family-1500482",
+          "name": "金黃玉米蛋三明治",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500482.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量241大卡，本包裝含1份"
+        },
+        {
           "id": "family-1502620",
           "name": "水果聖代三明治",
           "original_price": 0,
@@ -2697,6 +2710,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1512827",
+          "name": "墨西哥風纖麥握沙拉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512827.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量178大卡，本包裝含1份"
         },
         {
           "id": "family-0025146",
@@ -4335,6 +4361,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量235大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1503949",
+          "name": "起司舒芙蕾布丁",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1503949.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量247大卡，本包裝含1份"
         },
         {
           "id": "family-1761254",
