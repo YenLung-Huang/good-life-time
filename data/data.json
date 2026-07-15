@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T18:21:59.508417+08:00",
+  "updated_at": "2026-07-15T19:57:30.904560+08:00",
   "stores": [
     {
       "id": "family",
@@ -5297,6 +5297,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量250.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1486668",
+          "name": "青檸乳酪鬆餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1486668.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量302大卡，本包裝含1份"
         },
         {
           "id": "family-1487464",
