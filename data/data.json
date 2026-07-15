@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:27:47.396844+08:00",
+  "updated_at": "2026-07-15T18:21:59.508417+08:00",
   "stores": [
     {
       "id": "family",
@@ -1475,6 +1475,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量334大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1490223",
+          "name": "二配西班牙風味海鮮燉飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490223.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量567大卡，本包裝含1份"
         },
         {
           "id": "family-1490550",
