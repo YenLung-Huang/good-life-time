@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T13:58:34.257052+08:00",
+  "updated_at": "2026-07-15T16:27:47.396844+08:00",
   "stores": [
     {
       "id": "family",
@@ -500,6 +500,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量255大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1500123",
+          "name": "一配筋子銀鮭飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500123.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量161大卡，本包裝含1份"
         },
         {
           "id": "family-1500337",
@@ -3414,6 +3427,19 @@
           "note": "熱量122大卡，本包裝含1份"
         },
         {
+          "id": "family-1491879",
+          "name": "椒鹽大雞排",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1491879.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量509大卡，本包裝含1份"
+        },
+        {
           "id": "family-1550378",
           "name": "及第豬肉熟水餃",
           "original_price": 0,
@@ -4325,7 +4351,7 @@
         },
         {
           "id": "family-1502157",
-          "name": "一配楊枝甘露雲朵燒",
+          "name": "楊枝甘露雲朵燒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5287,7 +5313,7 @@
         },
         {
           "id": "family-1494190",
-          "name": "一配玉米奶油爆餡餐包",
+          "name": "玉米奶油爆餡餐包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5300,7 +5326,7 @@
         },
         {
           "id": "family-1495655",
-          "name": "一配青檸丹麥捲",
+          "name": "青檸丹麥捲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9795,6 +9821,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量295大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0216050",
+          "name": "椒鹽雞翅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0216050.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量254大卡，本包裝含1份"
         },
         {
           "id": "family-0416701",
