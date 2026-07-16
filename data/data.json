@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T14:41:54.916762+08:00",
+  "updated_at": "2026-07-16T17:02:53.930762+08:00",
   "stores": [
     {
       "id": "family",
@@ -1555,6 +1555,19 @@
           "note": "熱量516大卡，本包裝含1份"
         },
         {
+          "id": "family-1500428",
+          "name": "鱈魚佐粉紅青醬筆尖麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500428.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量428大卡，本包裝含1份"
+        },
+        {
           "id": "family-0554650",
           "name": "香雞蛋堡",
           "original_price": 0,
@@ -2072,7 +2085,7 @@
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量74.4大卡，本包裝含1份"
+          "note": "熱量83.5大卡，本包裝含1份"
         },
         {
           "id": "family-0986564",
