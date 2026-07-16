@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:51:58.521964+08:00",
+  "updated_at": "2026-07-16T23:00:07.525966+08:00",
   "stores": [
     {
       "id": "family",
@@ -14033,6 +14033,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1514833",
+          "name": "ＦＭＣ鷴語紅玉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1514833.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含1份"
         },
         {
           "id": "family-2910012",
