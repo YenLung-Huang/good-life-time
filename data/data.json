@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:12:08.605746+08:00",
+  "updated_at": "2026-07-16T20:51:58.521964+08:00",
   "stores": [
     {
       "id": "family",
@@ -7626,19 +7626,6 @@
           "note": "熱量156.8大卡，本包裝含1份"
         },
         {
-          "id": "family-1191552",
-          "name": "嚴選鮮番薯（退轉用）",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1191552.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-1193354",
           "name": "塔塔醬鱈魚排",
           "original_price": 0,
@@ -13487,19 +13474,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量137.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1414908",
-          "name": "蜜桃山茶花風味金萱",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1414908.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量144大卡，本包裝含1份"
         },
         {
           "id": "family-1414926",
