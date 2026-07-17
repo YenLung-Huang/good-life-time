@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T12:24:31.559199+08:00",
+  "updated_at": "2026-07-17T14:37:26.669649+08:00",
   "stores": [
     {
       "id": "family",
@@ -503,7 +503,7 @@
         },
         {
           "id": "family-1500123",
-          "name": "一配筋子銀鮭飯糰",
+          "name": "筋子銀鮭飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -1478,7 +1478,7 @@
         },
         {
           "id": "family-1490223",
-          "name": "二配西班牙風味海鮮燉飯",
+          "name": "西班牙風味海鮮燉飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -1543,7 +1543,7 @@
         },
         {
           "id": "family-1499718",
-          "name": "二配美味蟹煲",
+          "name": "美味蟹煲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -1998,7 +1998,7 @@
         },
         {
           "id": "family-0496602",
-          "name": "履歷秋葵２００Ｇ",
+          "name": "履歷秋葵200G",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7835,7 +7835,7 @@
         },
         {
           "id": "family-1469949",
-          "name": "１９７０老爸炸雞",
+          "name": "1970老爸炸雞",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9213,7 +9213,7 @@
         },
         {
           "id": "family-1494827",
-          "name": "百吉謎之雪糕２．０",
+          "name": "百吉謎之雪糕2.0",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9226,7 +9226,7 @@
         },
         {
           "id": "family-1495019",
-          "name": "牧場直送４．０玉米牛奶雪糕",
+          "name": "牧場直送4.0玉米牛奶雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9252,7 +9252,7 @@
         },
         {
           "id": "family-1495055",
-          "name": "百吉ｘＣｏＣｏ楊枝甘露雪糕",
+          "name": "百吉xCoCo楊枝甘露雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13321,7 +13321,7 @@
         },
         {
           "id": "family-1408650",
-          "name": "惜—雙月靜涼茶",
+          "name": "雙月靜涼茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13334,7 +13334,7 @@
         },
         {
           "id": "family-1408787",
-          "name": "惜—雙月養仙茶",
+          "name": "雙月養仙茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13932,7 +13932,7 @@
         },
         {
           "id": "family-1484670",
-          "name": "ＦＭＣ甘蔗檸檬",
+          "name": "FMC甘蔗檸檬",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13984,7 +13984,7 @@
         },
         {
           "id": "family-1495873",
-          "name": "ＦＭＣ海鹽荔枝飲",
+          "name": "FMC海鹽荔枝飲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13997,7 +13997,7 @@
         },
         {
           "id": "family-1495978",
-          "name": "嗨﹗營業中冬瓜麥茶",
+          "name": "嗨!營業中冬瓜麥茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14010,7 +14010,7 @@
         },
         {
           "id": "family-1498603",
-          "name": "Ｒｅｌａｘ茉莉花茶",
+          "name": "ReLax茉莉花茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14036,7 +14036,7 @@
         },
         {
           "id": "family-1514833",
-          "name": "ＦＭＣ鷴語紅玉",
+          "name": "FMC鷴語紅玉",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20029,7 +20029,7 @@
         },
         {
           "id": "family-1485917",
-          "name": "貓咪造型果凍（水蜜桃風味）",
+          "name": "貓咪造型果凍(水蜜桃風味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20081,7 +20081,7 @@
         },
         {
           "id": "family-1493530",
-          "name": "厚燒鹽味（米果）",
+          "name": "厚燒鹽味(米果)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20133,7 +20133,7 @@
         },
         {
           "id": "family-1495132",
-          "name": "草莓雞蛋糕風味（區）",
+          "name": "草莓雞蛋糕風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20146,7 +20146,7 @@
         },
         {
           "id": "family-1495364",
-          "name": "ＰＯＰ造型ＱＱ糖",
+          "name": "POP造型QQ糖",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20159,7 +20159,7 @@
         },
         {
           "id": "family-1495378",
-          "name": "超酸檸檬ＱＱ糖",
+          "name": "超酸檸檬QQ糖",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20172,7 +20172,7 @@
         },
         {
           "id": "family-1495469",
-          "name": "麵包超人ＱＱ糖—運動飲料風味",
+          "name": "麵包超人QQ糖-運動飲料風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20185,7 +20185,7 @@
         },
         {
           "id": "family-1503458",
-          "name": "浪味仙拭事順心包（洋芋捲）",
+          "name": "浪味仙拭事順心包(洋芋捲)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
