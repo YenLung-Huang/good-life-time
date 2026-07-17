@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T20:08:11.816561+08:00",
+  "updated_at": "2026-07-17T22:02:05.120966+08:00",
   "stores": [
     {
       "id": "family",
@@ -879,32 +879,6 @@
           "note": "熱量234大卡，本包裝含1份"
         },
         {
-          "id": "family-1059295",
-          "name": "辣蕃茄義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1059295.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量254大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1059318",
-          "name": "韓式起司義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1059318.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量311大卡，本包裝含1份"
-        },
-        {
           "id": "family-1094516",
           "name": "府城鹽水意麵",
           "original_price": 0,
@@ -955,19 +929,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量344大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1134017",
-          "name": "水水灶咖-泰式蛤蜊酸辣寬粉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1134017.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量173大卡，本包裝含1份"
         },
         {
           "id": "family-1167775",
@@ -1202,58 +1163,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量543大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1408446",
-          "name": "剝皮辣椒細扁麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408446.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量250大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1408450",
-          "name": "濃郁牛肉肉醬義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408450.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量254大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1408569",
-          "name": "燻腸起司通心粉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408569.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量530大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1408573",
-          "name": "西西里風海鮮焗麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408573.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量436大卡，本包裝含1份"
         },
         {
           "id": "family-1412306",
@@ -3581,6 +3490,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量179.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1631100",
+          "name": "義式經典嫩雞胸(健康志向)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1631100.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量119.8大卡，本包裝含1份"
         },
         {
           "id": "family-0025637",
@@ -10172,84 +10094,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量524大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1172495",
-          "name": "正男醬香烤飯糰(2入)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1172495.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量170大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1172504",
-          "name": "小白起司烤飯糰(2入)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1172504.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量190大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1209250",
-          "name": "与玥樓-主廚麻油雞飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1209250.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量435大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1220991",
-          "name": "与玥樓-鰹魚辣醬粉絲煲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1220991.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量244大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1435744",
-          "name": "雞肉穀物飯(健康志向)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1435744.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量356大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1435758",
-          "name": "鮪魚穀物飯(健康志向)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1435758.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量380大卡，本包裝含1份"
         },
         {
           "id": "family-1443430",
