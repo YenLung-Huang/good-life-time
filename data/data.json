@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T20:04:04.476005+08:00",
+  "updated_at": "2026-07-18T21:48:20.606336+08:00",
   "stores": [
     {
       "id": "family",
@@ -2736,32 +2736,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量202大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0204938",
-          "name": "沙茶香辣雞胗",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0204938.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量225.6大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0204942",
-          "name": "蒜香綜合滷味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0204942.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量229.8大卡，本包裝含1份"
         },
         {
           "id": "family-0204956",
@@ -18585,19 +18559,6 @@
           "note": "熱量34.3大卡，本包裝含4份"
         },
         {
-          "id": "family-1260185",
-          "name": "POP什錦咖啡風味可可",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1260185.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量33.1大卡，本包裝含4份"
-        },
-        {
           "id": "family-1266086",
           "name": "軟質起司抹醬",
           "original_price": 0,
@@ -18962,19 +18923,6 @@
           "note": "熱量136大卡，本包裝含1份"
         },
         {
-          "id": "family-1314578",
-          "name": "好時kisses水滴慕斯夾餡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1314578.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量138大卡，本包裝含1份"
-        },
-        {
           "id": "family-1316120",
           "name": "好時榛果巧克力威化捲",
           "original_price": 0,
@@ -18999,32 +18947,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量109大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1316607",
-          "name": "Snoopy蘇打薄荷風味口香糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1316607.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量79大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1317453",
-          "name": "Snoopy藍莓薄荷口香糖　",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1317453.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量80大卡，本包裝含1份"
         },
         {
           "id": "family-1325721",
