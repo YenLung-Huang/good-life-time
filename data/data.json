@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T09:13:31.762419+08:00",
+  "updated_at": "2026-07-20T15:57:08.108916+08:00",
   "stores": [
     {
       "id": "family",
@@ -3323,6 +3323,19 @@
           "note": "熱量122大卡，本包裝含1份"
         },
         {
+          "id": "family-1476798",
+          "name": "香菜小香腸",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1476798.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量205.6大卡，本包裝含1份"
+        },
+        {
           "id": "family-1491879",
           "name": "椒鹽大雞排",
           "original_price": 0,
@@ -3542,6 +3555,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量113大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0136692",
+          "name": "光泉百香蜜桃雙格優酪",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136692.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量94.4大卡，本包裝含1份"
         },
         {
           "id": "family-0136733",
@@ -4763,7 +4789,7 @@
           "category": "麵包",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量216大卡，本包裝含1份"
+          "note": "熱量199大卡，本包裝含1份"
         },
         {
           "id": "family-0590890",
