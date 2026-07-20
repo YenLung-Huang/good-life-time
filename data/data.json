@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T15:57:08.108916+08:00",
+  "updated_at": "2026-07-20T18:56:05.904287+08:00",
   "stores": [
     {
       "id": "family",
@@ -1267,6 +1267,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量535大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1448703",
+          "name": "川味花椒口水雞涼麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1448703.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量443大卡，本包裝含1份"
         },
         {
           "id": "family-1452740",
@@ -3555,6 +3568,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量113大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0136674",
+          "name": "福樂Ｑ果蘋果蔓越莓優酪",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136674.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量108大卡，本包裝含1份"
         },
         {
           "id": "family-0136692",
@@ -13827,6 +13853,19 @@
           "note": "熱量85.6大卡，本包裝含1份"
         },
         {
+          "id": "family-1498435",
+          "name": "百事檸檬生可樂",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498435.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量70大卡，本包裝含2份"
+        },
+        {
           "id": "family-1498603",
           "name": "ReLax茉莉花茶",
           "original_price": 0,
@@ -19560,6 +19599,19 @@
           "note": "熱量21大卡，本包裝含5份"
         },
         {
+          "id": "family-1456053",
+          "name": "玩具總動員公仔食玩扭蛋機",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1456053.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量57.2大卡，本包裝含1份"
+        },
+        {
           "id": "family-1456099",
           "name": "酸甜金熊Ｑ軟糖80g",
           "original_price": 0,
@@ -19818,6 +19870,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1485935",
+          "name": "Ｅｘｔｒａ清甜蜜桃超值包口香糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1485935.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量5大卡，本包裝含22份"
         },
         {
           "id": "family-1486054",
