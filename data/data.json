@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T09:08:48.792275+08:00",
+  "updated_at": "2026-07-21T12:31:27.622907+08:00",
   "stores": [
     {
       "id": "family",
@@ -1474,7 +1474,7 @@
           "category": "主餐麵食",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量501大卡，本包裝含1份"
+          "note": "熱量495大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -7013,6 +7013,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量252大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1501456",
+          "name": "巨峰葡萄酷繽球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1501456.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量94.4大卡，本包裝含1份"
         },
         {
           "id": "family-0040322",
