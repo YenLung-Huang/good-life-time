@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T12:33:11.129951+08:00",
+  "updated_at": "2026-07-22T15:20:57.539717+08:00",
   "stores": [
     {
       "id": "family",
@@ -4348,6 +4348,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量247大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1515039",
+          "name": "咖啡聖代杯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515039.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量151大卡，本包裝含1份"
         },
         {
           "id": "family-1515043",
