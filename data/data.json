@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:51:19.496387+08:00",
+  "updated_at": "2026-07-22T21:48:55.291163+08:00",
   "stores": [
     {
       "id": "family",
@@ -3854,19 +3854,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量111大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1137047",
-          "name": "SOMA荔枝烏龍茶凍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1137047.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量77大卡，本包裝含2份"
         },
         {
           "id": "family-1189785",
@@ -18310,19 +18297,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量169大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1123414",
-          "name": "OREO餅乾夾心牛奶巧克力",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1123414.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量112大卡，本包裝含5份"
         },
         {
           "id": "family-1127963",
