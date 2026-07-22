@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T09:07:07.407252+08:00",
+  "updated_at": "2026-07-22T12:33:11.129951+08:00",
   "stores": [
     {
       "id": "family",
@@ -526,6 +526,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量279大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1517736",
+          "name": "一配鹽蔥生鮭飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1517736.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量155大卡，本包裝含1份"
         },
         {
           "id": "family-0101269",
