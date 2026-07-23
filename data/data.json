@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T15:18:26.256469+08:00",
+  "updated_at": "2026-07-23T17:56:47.826380+08:00",
   "stores": [
     {
       "id": "family",
@@ -1488,6 +1488,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量428大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1500432",
+          "name": "金沙豆腐義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500432.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量390大卡，本包裝含1份"
         },
         {
           "id": "family-1513873",
@@ -7779,7 +7792,7 @@
           "category": "燒烤食品",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量186大卡，本包裝含5份"
+          "note": "熱量186大卡，本包裝含1份"
         },
         {
           "id": "family-1432796",
