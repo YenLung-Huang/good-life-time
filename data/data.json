@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:51:41.443124+08:00",
+  "updated_at": "2026-07-23T21:53:44.686068+08:00",
   "stores": [
     {
       "id": "family",
@@ -3050,6 +3050,19 @@
           "note": "熱量205大卡，本包裝含1份"
         },
         {
+          "id": "family-1127777",
+          "name": "黑胡椒蒜味雞柳條",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1127777.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量141.7大卡，本包裝含1份"
+        },
+        {
           "id": "family-1130859",
           "name": "香脆泡菜",
           "original_price": 0,
@@ -3516,6 +3529,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量179.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1630354",
+          "name": "香蔥經典嫩雞胸(健康志向)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1630354.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量154大卡，本包裝含1份"
         },
         {
           "id": "family-1631100",
@@ -7650,32 +7676,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量262大卡，本包裝含6份"
-        },
-        {
-          "id": "family-1231217",
-          "name": "芋香酥餅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1231217.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量198.5大卡，本包裝含36份"
-        },
-        {
-          "id": "family-1254182",
-          "name": "韓國麵包三兄弟",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1254182.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量293.7大卡，本包裝含4份"
         },
         {
           "id": "family-1277520",
@@ -17374,19 +17374,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量47.7大卡，本包裝含6份"
-        },
-        {
-          "id": "family-0623229",
-          "name": "藍莓起司",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0623229.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量37.5大卡，本包裝含6份"
         },
         {
           "id": "family-0628174",
