@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T12:32:56.100032+08:00",
+  "updated_at": "2026-07-23T15:18:26.256469+08:00",
   "stores": [
     {
       "id": "family",
@@ -516,7 +516,7 @@
         },
         {
           "id": "family-1514706",
-          "name": "一配青木瓜雞絲泰泰雙手卷",
+          "name": "青木瓜雞絲泰泰雙手卷",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -529,7 +529,7 @@
         },
         {
           "id": "family-1517736",
-          "name": "一配鹽蔥生鮭飯糰",
+          "name": "鹽蔥生鮭飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5300,7 +5300,7 @@
         },
         {
           "id": "family-1515116",
-          "name": "一配泰奶黑糖ＱＱ軟法",
+          "name": "泰奶黑糖QQ軟法",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
