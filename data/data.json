@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:26:08.918264+08:00",
+  "updated_at": "2026-07-24T20:57:35.697190+08:00",
   "stores": [
     {
       "id": "family",
@@ -552,6 +552,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量227大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0226225",
+          "name": "香辣醬香腸蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0226225.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量815大卡，本包裝含1份"
         },
         {
           "id": "family-0247516",
@@ -2125,19 +2138,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量186大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1111847",
-          "name": "美國空運藍莓(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1111847.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-1122545",
@@ -17714,19 +17714,6 @@
           "note": "熱量317.8大卡，本包裝含1份"
         },
         {
-          "id": "family-0819042",
-          "name": "草莓起司",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0819042.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量36大卡，本包裝含6份"
-        },
-        {
           "id": "family-0820118",
           "name": "頂級濃郁起司絲",
           "original_price": 0,
@@ -19675,19 +19662,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量39.2大卡，本包裝含3份"
-        },
-        {
-          "id": "family-1462210",
-          "name": "香辣塔可口味玉米餅脆片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1462210.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量425.5大卡，本包裝含1份"
         },
         {
           "id": "family-1462238",
@@ -26593,19 +26567,6 @@
           "note": "熱量147大卡，本包裝含1份"
         },
         {
-          "id": "family-4950331",
-          "name": "黑醋栗蔓越莓燕麥脆米花",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4950331.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量145大卡，本包裝含1份"
-        },
-        {
           "id": "family-4950359",
           "name": "法式巧克力燕麥脆米花",
           "original_price": 0,
@@ -27202,19 +27163,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量4.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-4810385",
-          "name": "老協珍麥蘆卡蜂蜜人蔘精",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4810385.jpg",
-          "stock": "",
-          "category": "營養食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量21.2大卡，本包裝含1份"
         },
         {
           "id": "family-4810399",
