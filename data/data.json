@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T19:43:49.516965+08:00",
+  "updated_at": "2026-07-25T20:46:30.874327+08:00",
   "stores": [
     {
       "id": "family",
@@ -474,6 +474,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量162大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1476752",
+          "name": "香辣醬雞肉炒飯飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1476752.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量283大卡，本包裝含1份"
         },
         {
           "id": "family-1490582",
@@ -2957,6 +2970,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量193.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0688594",
+          "name": "香辣醬粉絲煲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0688594.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含1份"
         },
         {
           "id": "family-0705089",
