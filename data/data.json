@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T20:12:56.060720+08:00",
+  "updated_at": "2026-07-28T22:39:27.174189+08:00",
   "stores": [
     {
       "id": "family",
@@ -1672,19 +1672,6 @@
           "note": "熱量205大卡，本包裝含1份"
         },
         {
-          "id": "family-1215326",
-          "name": "厚豆腐蛋白蕈菇豬肉堡(健康志向)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1215326.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量230大卡，本包裝含1份"
-        },
-        {
           "id": "family-1231249",
           "name": "經典火腿玉米蛋三明治",
           "original_price": 0,
@@ -1891,6 +1878,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量370大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1516576",
+          "name": "雙泰奶ＱＱ三明治",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1516576.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量170大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1521600",
+          "name": "超ＨＯＴ雞腿堡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521600.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量388大卡，本包裝含1份"
         },
         {
           "id": "family-0052567",
@@ -4311,19 +4324,6 @@
           "note": "熱量103大卡，本包裝含1份"
         },
         {
-          "id": "family-1462701",
-          "name": "綿莓莓夾心蛋糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1462701.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量303大卡，本包裝含1份"
-        },
-        {
           "id": "family-1465995",
           "name": "質立0脂肪希臘式優格",
           "original_price": 0,
@@ -4452,6 +4452,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量259大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1515148",
+          "name": "蘋果伯爵蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515148.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量151大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1515225",
+          "name": "生巧克力派—牧野雙重起司口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515225.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量253.3大卡，本包裝含1份"
         },
         {
           "id": "family-1761254",
@@ -5388,6 +5414,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量359大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1515120",
+          "name": "一配藍莓乳酪丹麥",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515120.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量275大卡，本包裝含1份"
         },
         {
           "id": "family-1820062",
@@ -18583,19 +18622,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量248大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1224236",
-          "name": "焦糖鹽味巧克力棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1224236.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量125.8大卡，本包裝含2份"
         },
         {
           "id": "family-1224254",
