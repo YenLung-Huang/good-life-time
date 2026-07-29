@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:22:43.671708+08:00",
+  "updated_at": "2026-07-29T23:28:25.303935+08:00",
   "stores": [
     {
       "id": "family",
@@ -18742,7 +18742,7 @@
         },
         {
           "id": "family-1273776",
-          "name": "蛋酒風味夾心巧克力棒",
+          "name": "惜—蛋酒風味夾心巧克力棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -18755,7 +18755,7 @@
         },
         {
           "id": "family-1273871",
-          "name": "酒香焦糖夾心巧克力棒",
+          "name": "惜—酒香焦糖夾心巧克力棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19950,6 +19950,19 @@
           "note": "熱量112大卡，本包裝含4份"
         },
         {
+          "id": "family-1513805",
+          "name": "ＭｉＮｉ燒番麥",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1513805.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量105大卡，本包裝含1份"
+        },
+        {
           "id": "family-1515293",
           "name": "芒果起司",
           "original_price": 0,
@@ -19961,6 +19974,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量40大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1521141",
+          "name": "千層脆條—烤馬鈴薯風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521141.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量216.9大卡，本包裝含1份"
         },
         {
           "id": "family-1640010",
