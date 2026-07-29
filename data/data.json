@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T07:57:49.151306+08:00",
+  "updated_at": "2026-07-29T11:15:34.107375+08:00",
   "stores": [
     {
       "id": "family",
@@ -750,7 +750,7 @@
         },
         {
           "id": "family-0904302",
-          "name": "健身G肉餐盒(健康志向)",
+          "name": "健身G肉餐盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -763,7 +763,7 @@
         },
         {
           "id": "family-0904370",
-          "name": "烤蛋白餐盒(健康志向)",
+          "name": "烤蛋白餐盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -919,7 +919,7 @@
         },
         {
           "id": "family-1119863",
-          "name": "嫩烤香料雞胸排蔬滿盒(健康志向)",
+          "name": "嫩烤香料雞胸排蔬滿盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -984,7 +984,7 @@
         },
         {
           "id": "family-1215394",
-          "name": "海陸雙拼肉肉餐盒(健康志向)",
+          "name": "海陸雙拼肉肉餐盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -997,7 +997,7 @@
         },
         {
           "id": "family-1235843",
-          "name": "蔬活腿排補力餐盒(健康志向)",
+          "name": "蔬活腿排補力餐盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2076,7 +2076,7 @@
         },
         {
           "id": "family-0746401",
-          "name": "青檸烤雞握沙拉(健康志向)",
+          "name": "青檸烤雞握沙拉",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2180,7 +2180,7 @@
         },
         {
           "id": "family-1057093",
-          "name": "蔥鹽雞肉麵沙拉(健康志向)",
+          "name": "蔥鹽雞肉麵沙拉",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2895,7 +2895,7 @@
         },
         {
           "id": "family-0357416",
-          "name": "秘香椒麻嫩雞胸(健康志向)",
+          "name": "秘香椒麻嫩雞胸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2973,7 +2973,7 @@
         },
         {
           "id": "family-0634309",
-          "name": "古早味香滷嫩雞胸(健康志向)",
+          "name": "古早味香滷嫩雞胸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3103,7 +3103,7 @@
         },
         {
           "id": "family-1032099",
-          "name": "法式香草嫩雞胸(健康志向)",
+          "name": "法式香草嫩雞胸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3415,7 +3415,7 @@
         },
         {
           "id": "family-1454697",
-          "name": "黑胡椒毛豆(健康志向)",
+          "name": "黑胡椒毛豆",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3428,7 +3428,7 @@
         },
         {
           "id": "family-1454706",
-          "name": "毛豆三兄弟(健康志向)",
+          "name": "毛豆三兄弟",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3623,7 +3623,7 @@
         },
         {
           "id": "family-1630354",
-          "name": "香蔥經典嫩雞胸(健康志向)",
+          "name": "香蔥經典嫩雞胸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3636,7 +3636,7 @@
         },
         {
           "id": "family-1631100",
-          "name": "義式經典嫩雞胸(健康志向)",
+          "name": "義式經典嫩雞胸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5417,7 +5417,7 @@
         },
         {
           "id": "family-1515120",
-          "name": "一配藍莓乳酪丹麥",
+          "name": "藍莓乳酪丹麥",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -10240,7 +10240,7 @@
         },
         {
           "id": "family-1443430",
-          "name": "元氣秋葵(健康志向)",
+          "name": "元氣秋葵",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -10253,7 +10253,7 @@
         },
         {
           "id": "family-1443444",
-          "name": "黃金玉米排(健康志向)",
+          "name": "黃金玉米排",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13165,7 +13165,7 @@
         },
         {
           "id": "family-1254150",
-          "name": "健康志向黑豆決明子",
+          "name": "黑豆決明子",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13178,7 +13178,7 @@
         },
         {
           "id": "family-1254164",
-          "name": "健康志向紅豆薏仁水",
+          "name": "紅豆薏仁水",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13191,7 +13191,7 @@
         },
         {
           "id": "family-1254178",
-          "name": "健康志向桂圓紅棗水",
+          "name": "桂圓紅棗水",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13672,7 +13672,7 @@
         },
         {
           "id": "family-1440296",
-          "name": "健康志向玉米鬚茶",
+          "name": "玉米鬚茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
