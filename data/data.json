@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T21:14:37.339240+08:00",
+  "updated_at": "2026-07-30T23:24:53.498526+08:00",
   "stores": [
     {
       "id": "family",
@@ -13931,6 +13931,19 @@
           "note": "熱量70大卡，本包裝含2份"
         },
         {
+          "id": "family-1498594",
+          "name": "味丹３０周年造型水",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498594.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-1498603",
           "name": "ReLax茉莉花茶",
           "original_price": 0,
@@ -13968,6 +13981,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527197",
+          "name": "白桃青心烏龍氣泡茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527197.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量63.8大卡，本包裝含1份"
         },
         {
           "id": "family-2910012",
@@ -19896,6 +19922,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量216.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527147",
+          "name": "明治蜂蜜檸檬汽水口味嚼感軟糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527147.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量249大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527165",
+          "name": "甘樂可樂口味Ｍａｒｏｓｈ軟糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527165.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量156大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527183",
+          "name": "甘樂鹽味西瓜鮮果實軟糖",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527183.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量174大卡，本包裝含1份"
         },
         {
           "id": "family-1640010",
@@ -27085,6 +27150,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量26大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1513287",
+          "name": "ＨＬ韓國藍莓汁",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1513287.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量30大卡，本包裝含1份"
         },
         {
           "id": "family-4810012",
