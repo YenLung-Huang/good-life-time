@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T09:02:14.480432+08:00",
+  "updated_at": "2026-07-30T12:19:57.461059+08:00",
   "stores": [
     {
       "id": "family",
@@ -1855,7 +1855,7 @@
         },
         {
           "id": "family-1516576",
-          "name": "雙泰奶ＱＱ三明治",
+          "name": "雙泰奶QQ三明治",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2700,7 +2700,7 @@
         },
         {
           "id": "family-1490782",
-          "name": "絢麗蘋果單入裝（冷藏原果）",
+          "name": "絢麗蘋果單入裝(冷藏原果)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
