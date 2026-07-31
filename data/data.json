@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T19:47:44.457045+08:00",
+  "updated_at": "2026-07-31T22:01:49.876795+08:00",
   "stores": [
     {
       "id": "family",
@@ -2918,19 +2918,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量45.2大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0554250",
-          "name": "海底撈麻辣雞球",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0554250.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量177大卡，本包裝含1份"
         },
         {
           "id": "family-0578121",
@@ -9264,6 +9251,45 @@
           "note": "熱量158.6大卡，本包裝含1份"
         },
         {
+          "id": "family-1523139",
+          "name": "丸永製檸檬蛋糕風味冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523139.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量216.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1523143",
+          "name": "丸永製彈跳氣泡感可樂冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523143.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量68.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1523248",
+          "name": "丸永製御餅黃豆粉麻糬冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523248.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量225.7大卡，本包裝含1份"
+        },
+        {
           "id": "family-2310014",
           "name": "義美紅豆粉粿牛奶冰棒",
           "original_price": 0,
@@ -12616,19 +12642,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量124大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1030974",
-          "name": "FMC葡萄沁蜜紅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1030974.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量174.4大卡，本包裝含1份"
         },
         {
           "id": "family-1034764",
@@ -18676,19 +18689,6 @@
           "note": "熱量229大卡，本包裝含1份"
         },
         {
-          "id": "family-1273758",
-          "name": "百香蘋果",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1273758.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量45.5大卡，本包裝含1份"
-        },
-        {
           "id": "family-1273776",
           "name": "蛋酒風味夾心巧克力棒",
           "original_price": 0,
@@ -19909,6 +19909,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量40大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1520109",
+          "name": "肉肉漢堡風味洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1520109.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量284大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1521137",
+          "name": "千層脆條—烤玉米風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521137.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量219.3大卡，本包裝含1份"
         },
         {
           "id": "family-1521141",
