@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:41:46.772338+08:00",
+  "updated_at": "2026-08-01T20:39:38.122976+08:00",
   "stores": [
     {
       "id": "family",
@@ -3765,19 +3765,6 @@
           "note": "熱量85.7大卡，本包裝含1份"
         },
         {
-          "id": "family-0526388",
-          "name": "香草卡士達生甜甜圈",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0526388.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量252大卡，本包裝含1份"
-        },
-        {
           "id": "family-0537745",
           "name": "質立蜂蜜希臘式優格",
           "original_price": 0,
@@ -6363,6 +6350,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量146.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0881384",
+          "name": "南洋ABC酷繽沙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0881384.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量334.9大卡，本包裝含1份"
         },
         {
           "id": "family-0886407",
@@ -13760,19 +13760,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量207.5大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1461755",
-          "name": "bb.q韓式柚子冰茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1461755.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量108大卡，本包裝含1份"
         },
         {
           "id": "family-1461769",
