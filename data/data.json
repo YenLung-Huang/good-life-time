@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:35:36.753860+08:00",
+  "updated_at": "2026-08-02T20:41:57.564499+08:00",
   "stores": [
     {
       "id": "family",
@@ -12735,6 +12735,19 @@
           "note": "熱量146大卡，本包裝含1份"
         },
         {
+          "id": "family-1066094",
+          "name": "FMC桂花蜂蜜水",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1066094.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量82大卡，本包裝含1份"
+        },
+        {
           "id": "family-1074021",
           "name": "FMC芒果綜合冰茶",
           "original_price": 0,
@@ -13851,6 +13864,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量196.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1484684",
+          "name": "ＦＭＣ百香果蜂蜜水",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1484684.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量131.8大卡，本包裝含1份"
         },
         {
           "id": "family-1488288",
@@ -22587,19 +22613,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量172大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3961185",
-          "name": "小林雞蛋煎餅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3961185.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量98.9大卡，本包裝含2份"
         },
         {
           "id": "family-3961212",
