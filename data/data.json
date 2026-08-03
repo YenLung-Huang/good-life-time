@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T18:27:51.349989+08:00",
+  "updated_at": "2026-08-03T21:25:14.723488+08:00",
   "stores": [
     {
       "id": "family",
@@ -1360,19 +1360,6 @@
           "note": "熱量613大卡，本包裝含1份"
         },
         {
-          "id": "family-1476998",
-          "name": "藤椒雞丁炒飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1476998.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量643大卡，本包裝含1份"
-        },
-        {
           "id": "family-1477017",
           "name": "韓式黑嚕嚕炸醬麵",
           "original_price": 0,
@@ -2101,6 +2088,19 @@
           "note": "熱量83.5大卡，本包裝含1份"
         },
         {
+          "id": "family-0860384",
+          "name": "甘露梨(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0860384.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量43.2大卡，本包裝含1份"
+        },
+        {
           "id": "family-0986564",
           "name": "KC陽光黃玉米(即食)",
           "original_price": 0,
@@ -2192,19 +2192,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1172213",
-          "name": "美國空運海鷹櫻桃杯(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1172213.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-1310138",
           "name": "完熟蜜龍果(截切)",
           "original_price": 0,
@@ -2289,6 +2276,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1350277.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1350336",
+          "name": "有機山菠菜(玉美)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1350336.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -4790,19 +4790,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量342大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0136765",
-          "name": "濃煮奶茶鹽可頌",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136765.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-0208023",
@@ -18167,6 +18154,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量4.9大卡，本包裝含10份"
+        },
+        {
+          "id": "family-1038209",
+          "name": "樂連輕雪鹽口味糖醋風味醬洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1038209.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含2份"
         },
         {
           "id": "family-1045371",
