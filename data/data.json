@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T21:25:14.723488+08:00",
+  "updated_at": "2026-08-04T00:01:13.664597+08:00",
   "stores": [
     {
       "id": "family",
@@ -955,6 +955,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量344大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1150803",
+          "name": "香菇雞粥",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1150803.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量282大卡，本包裝含1份"
         },
         {
           "id": "family-1167775",
@@ -7847,6 +7860,19 @@
           "note": "熱量191大卡，本包裝含1份"
         },
         {
+          "id": "family-1521482",
+          "name": "巨厚重大雞排",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521482.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量548大卡，本包裝含1份"
+        },
+        {
           "id": "family-0644760",
           "name": "王子麵",
           "original_price": 0,
@@ -8079,6 +8105,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量16.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530833",
+          "name": "馬－甜玉米",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530833.jpg",
+          "stock": "",
+          "category": "現煮鍋物",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量80.4大卡，本包裝含6份"
         },
         {
           "id": "family-0007958",
@@ -14046,6 +14085,71 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量63.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528270",
+          "name": "紅茶牛乳",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528270.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量195.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528339",
+          "name": "立頓冰梅翡翠",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528339.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量140.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528416",
+          "name": "崎本柳橙葡萄柚翡翠",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528416.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量148.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528420",
+          "name": "崎本水蜜桃青烏龍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528420.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量144大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1529462",
+          "name": "喫茶小鋪檸檬桂花烏龍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1529462.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量124.4大卡，本包裝含1份"
         },
         {
           "id": "family-2910012",
