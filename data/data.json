@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:17:57.721849+08:00",
+  "updated_at": "2026-08-04T22:59:50.277113+08:00",
   "stores": [
     {
       "id": "family",
@@ -1553,6 +1553,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量495大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1524999",
+          "name": "韓式泡菜冷麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1524999.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量415大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -4441,6 +4454,45 @@
           "note": "熱量253.3大卡，本包裝含1份"
         },
         {
+          "id": "family-1528248",
+          "name": "一配草莓甜心Ｑ堤",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528248.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量198大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528284",
+          "name": "一配黑鑽巧克力Ｑ堤",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528284.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量219大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530829",
+          "name": "香草卡士達生甜甜圈",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530829.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量261大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5375,6 +5427,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量275大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530760",
+          "name": "一配玫瑰洛神乳酪貝果",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530760.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-1820062",
@@ -14113,6 +14178,19 @@
           "note": "熱量195.2大卡，本包裝含1份"
         },
         {
+          "id": "family-1528307",
+          "name": "抹茶牛乳",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528307.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量188.8大卡，本包裝含1份"
+        },
+        {
           "id": "family-1528339",
           "name": "立頓冰梅翡翠",
           "original_price": 0,
@@ -20104,6 +20182,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量284大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1521096",
+          "name": "熔岩批薩風味洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521096.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量282大卡，本包裝含1份"
         },
         {
           "id": "family-1521137",
