@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T20:15:37.406477+08:00",
+  "updated_at": "2026-08-05T22:53:52.569945+08:00",
   "stores": [
     {
       "id": "family",
@@ -2957,6 +2957,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量69大卡，本包裝含2份"
+        },
+        {
+          "id": "family-0344516",
+          "name": "雞汁油蔥手工麵線",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0344516.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量290大卡，本包裝含1份"
         },
         {
           "id": "family-0346009",
@@ -14241,6 +14254,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量144大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528434",
+          "name": "ＦＭＣ西瓜烏龍茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528434.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量124.8大卡，本包裝含1份"
         },
         {
           "id": "family-1529462",
