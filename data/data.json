@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:17:36.220281+08:00",
+  "updated_at": "2026-08-05T18:05:48.872539+08:00",
   "stores": [
     {
       "id": "family",
@@ -539,6 +539,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量155大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1519188",
+          "name": "醬油生鮭脆卷",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1519188.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量137大卡，本包裝含1份"
         },
         {
           "id": "family-0101269",
@@ -1566,6 +1579,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量415大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530815",
+          "name": "蕃茄蘑菇義大利麵（區）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530815.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量556大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -5427,6 +5453,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量275大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527179",
+          "name": "一配金黃玉米麵包",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527179.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-1530760",
