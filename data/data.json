@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T19:50:33.758992+08:00",
+  "updated_at": "2026-08-06T22:04:05.139811+08:00",
   "stores": [
     {
       "id": "family",
@@ -7925,19 +7925,6 @@
           "note": "熱量292.1大卡，本包裝含1份"
         },
         {
-          "id": "family-1405298",
-          "name": "秘醬雞肉蔥串",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1405298.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量99.9大卡，本包裝含1份"
-        },
-        {
           "id": "family-1426284",
           "name": "炭燒秘醬熱狗",
           "original_price": 0,
@@ -13671,19 +13658,6 @@
           "note": "熱量9大卡，本包裝含1份"
         },
         {
-          "id": "family-1435194",
-          "name": "貝納頌茶韻黑咖啡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1435194.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量10大卡，本包裝含1份"
-        },
-        {
           "id": "family-1435221",
           "name": "喬亞無糖黑咖啡",
           "original_price": 0,
@@ -13955,19 +13929,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量207.5大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1461769",
-          "name": "bb.q西瓜烏龍",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1461769.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量108大卡，本包裝含1份"
         },
         {
           "id": "family-1461787",
@@ -17634,32 +17595,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量168.4大卡，本包裝含2份"
-        },
-        {
-          "id": "family-0598434",
-          "name": "明治巧克香菇造型餅乾",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0598434.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量223.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0598448",
-          "name": "明治草莓香菇造型餅乾",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0598448.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量452大卡，本包裝含1份"
         },
         {
           "id": "family-0600031",
@@ -24163,7 +24098,7 @@
         },
         {
           "id": "family-0755975",
-          "name": "經典歐式熱狗腸",
+          "name": "（超）經典歐式熱狗腸",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
