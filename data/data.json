@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:56:47.988076+08:00",
+  "updated_at": "2026-08-07T21:09:01.279873+08:00",
   "stores": [
     {
       "id": "family",
@@ -2164,19 +2164,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量60.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0845130",
-          "name": "兩種芒果一起吃(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0845130.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量83.5大卡，本包裝含1份"
         },
         {
           "id": "family-0860384",
@@ -14139,19 +14126,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1498603",
-          "name": "ReLax茉莉花茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498603.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量0大卡，本包裝含2份"
-        },
-        {
           "id": "family-1498649",
           "name": "威金森荔枝檸檬風味碳酸水",
           "original_price": 0,
@@ -23068,32 +23042,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量140大卡，本包裝含2份"
-        },
-        {
-          "id": "family-4030103",
-          "name": "蔥蒜黑金剛花生仁",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4030103.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量59.5大卡，本包裝含6份"
-        },
-        {
-          "id": "family-4030117",
-          "name": "麻辣黑金剛花生仁",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4030117.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量59.3大卡，本包裝含6份"
         },
         {
           "id": "family-4030153",
