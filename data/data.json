@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T14:33:06.389231+08:00",
+  "updated_at": "2026-08-07T15:59:10.282809+08:00",
   "stores": [
     {
       "id": "family",
@@ -13656,6 +13656,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1435194",
+          "name": "貝納頌茶韻黑咖啡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1435194.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量10大卡，本包裝含1份"
         },
         {
           "id": "family-1435221",
