@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:59:10.282809+08:00",
+  "updated_at": "2026-08-07T18:09:47.071147+08:00",
   "stores": [
     {
       "id": "family",
@@ -3581,6 +3581,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量176.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530592",
+          "name": "香滷蛋白棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530592.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量46.4大卡，本包裝含1份"
         },
         {
           "id": "family-1550378",
@@ -14163,6 +14176,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1527151",
+          "name": "冷泡茶朝露御？烏龍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527151.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含3份"
         },
         {
           "id": "family-1527197",
