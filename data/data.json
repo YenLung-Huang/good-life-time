@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T20:02:35.789611+08:00",
+  "updated_at": "2026-08-08T21:11:12.068443+08:00",
   "stores": [
     {
       "id": "family",
@@ -4114,19 +4114,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量307大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1317576",
-          "name": "可可生甜甜圈",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1317576.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量272大卡，本包裝含1份"
         },
         {
           "id": "family-1342286",
@@ -17727,19 +17714,6 @@
           "note": "熱量78.9大卡，本包裝含3份"
         },
         {
-          "id": "family-0653802",
-          "name": "白葡萄QQ糖巧克力球",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0653802.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量119大卡，本包裝含2份"
-        },
-        {
           "id": "family-0654430",
           "name": "勁涼薄荷風味潤喉糖",
           "original_price": 0,
@@ -18609,19 +18583,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量169大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1127963",
-          "name": "哈密瓜起司",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1127963.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量40大卡，本包裝含6份"
         },
         {
           "id": "family-1134835",
