@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:44:28.494527+08:00",
+  "updated_at": "2026-08-09T20:16:14.146120+08:00",
   "stores": [
     {
       "id": "family",
@@ -175,19 +175,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1166915",
-          "name": "大口日式塔塔醬蝦排飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1166915.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量417大卡，本包裝含1份"
         },
         {
           "id": "family-1166929",
@@ -370,19 +357,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量294大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1417738",
-          "name": "柚檸海灣貝飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417738.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量143大卡，本包裝含1份"
         },
         {
           "id": "family-1452172",
@@ -1579,19 +1553,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量628大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1514942",
-          "name": "月見烏龍冷麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1514942.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量368大卡，本包裝含1份"
         },
         {
           "id": "family-1515134",
@@ -8926,19 +8887,6 @@
           "note": "熱量184大卡，本包裝含1份"
         },
         {
-          "id": "family-1267555",
-          "name": "抹茶巧酥雪糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1267555.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量242大卡，本包裝含1份"
-        },
-        {
           "id": "family-1299162",
           "name": "ICE-CUP冰塊杯",
           "original_price": 0,
@@ -13669,19 +13617,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1438251",
-          "name": "PABLO完熟芒果乳酸飲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1438251.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量180.8大卡，本包裝含1份"
         },
         {
           "id": "family-1438938",
