@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T19:42:42.703796+08:00",
+  "updated_at": "2026-08-11T20:28:56.528601+08:00",
   "stores": [
     {
       "id": "family",
@@ -955,6 +955,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量344大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1134017",
+          "name": "水水灶咖-泰式蛤蜊酸辣寬粉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1134017.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量173大卡，本包裝含1份"
         },
         {
           "id": "family-1150803",
@@ -4883,19 +4896,6 @@
           "note": "熱量395大卡，本包裝含1份"
         },
         {
-          "id": "family-0230844",
-          "name": "生芋頭芝士奶蓋滿餡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0230844.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量305大卡，本包裝含1份"
-        },
-        {
           "id": "family-0274769",
           "name": "紫米芋頭麻糬軟歐",
           "original_price": 0,
@@ -5232,19 +5232,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量466大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1448503",
-          "name": "紅豆燕麥麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1448503.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量250大卡，本包裝含1份"
         },
         {
           "id": "family-1448553",
@@ -9132,19 +9119,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量184大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1449218",
-          "name": "草莓麻糬冰淇淋迷你杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449218.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量193.7大卡，本包裝含1份"
         },
         {
           "id": "family-1449222",
@@ -27228,19 +27202,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量26大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1513287",
-          "name": "ＨＬ韓國藍莓汁",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1513287.jpg",
-          "stock": "",
-          "category": "營養食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量30大卡，本包裝含1份"
         },
         {
           "id": "family-4810012",
