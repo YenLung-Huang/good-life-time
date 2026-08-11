@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:28:56.528601+08:00",
+  "updated_at": "2026-08-11T21:58:41.074770+08:00",
   "stores": [
     {
       "id": "family",
@@ -4480,6 +4480,19 @@
           "note": "熱量219大卡，本包裝含1份"
         },
         {
+          "id": "family-1528311",
+          "name": "一配日夏檸檬Ｑ堤",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528311.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量196大卡，本包裝含1份"
+        },
+        {
           "id": "family-1530829",
           "name": "香草卡士達生甜甜圈",
           "original_price": 0,
@@ -4491,6 +4504,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量261大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531520",
+          "name": "可可生甜甜圈",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531520.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量291大卡，本包裝含1份"
         },
         {
           "id": "family-1761254",
@@ -5427,6 +5453,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量304大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1530788",
+          "name": "一配伯爵橘丁切片軟歐",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530788.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量401大卡，本包裝含1份"
         },
         {
           "id": "family-1820062",
@@ -18180,32 +18219,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量124大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1035065",
-          "name": "手撕起司棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1035065.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量85.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1035097",
-          "name": "紅切達起司棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1035097.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量113大卡，本包裝含1份"
         },
         {
           "id": "family-1037235",
