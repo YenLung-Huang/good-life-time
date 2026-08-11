@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:05:33.335083+08:00",
+  "updated_at": "2026-08-11T10:26:30.704536+08:00",
   "stores": [
     {
       "id": "family",
@@ -1569,7 +1569,7 @@
         },
         {
           "id": "family-1530815",
-          "name": "蕃茄蘑菇義大利麵（區）",
+          "name": "蕃茄蘑菇義大利麵",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4429,7 +4429,7 @@
         },
         {
           "id": "family-1528248",
-          "name": "一配草莓甜心Ｑ堤",
+          "name": "草莓甜心Q堤",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4442,7 +4442,7 @@
         },
         {
           "id": "family-1528284",
-          "name": "一配黑鑽巧克力Ｑ堤",
+          "name": "黑鑽巧克力Q堤",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5391,7 +5391,7 @@
         },
         {
           "id": "family-1527179",
-          "name": "一配金黃玉米麵包",
+          "name": "金黃玉米麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5404,7 +5404,7 @@
         },
         {
           "id": "family-1530760",
-          "name": "一配玫瑰洛神乳酪貝果",
+          "name": "玫瑰洛神乳酪貝果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5417,7 +5417,7 @@
         },
         {
           "id": "family-1530774",
-          "name": "二配生藍莓優格滿餡麵包",
+          "name": "生藍莓優格滿餡麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
