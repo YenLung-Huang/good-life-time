@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T10:33:48.297175+08:00",
+  "updated_at": "2026-08-12T12:27:28.526620+08:00",
   "stores": [
     {
       "id": "family",
@@ -4481,7 +4481,7 @@
         },
         {
           "id": "family-1528311",
-          "name": "一配日夏檸檬Ｑ堤",
+          "name": "日夏檸檬Q堤",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5456,7 +5456,7 @@
         },
         {
           "id": "family-1530788",
-          "name": "一配伯爵橘丁切片軟歐",
+          "name": "伯爵橘丁切片軟歐",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7821,6 +7821,32 @@
           "note": "熱量329.3大卡，本包裝含10份"
         },
         {
+          "id": "family-1316811",
+          "name": "原味大香腸",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1316811.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量399大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1333671",
+          "name": "金黃起司熱狗",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1333671.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量220大卡，本包裝含1份"
+        },
+        {
           "id": "family-1359130",
           "name": "日式蛋黃醬雞肉串",
           "original_price": 0,
@@ -7884,6 +7910,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量292.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1397936",
+          "name": "經典爆汁熱狗",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1397936.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量219大卡，本包裝含1份"
         },
         {
           "id": "family-1426284",
