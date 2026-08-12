@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T13:57:58.283377+08:00",
+  "updated_at": "2026-08-12T15:38:09.110722+08:00",
   "stores": [
     {
       "id": "family",
@@ -20039,6 +20039,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量282大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1521123",
+          "name": "紅肉李鮮果乾",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521123.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量120.4大卡，本包裝含1份"
         },
         {
           "id": "family-1521137",
