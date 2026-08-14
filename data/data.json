@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:28:47.674035+08:00",
+  "updated_at": "2026-08-14T20:24:12.783667+08:00",
   "stores": [
     {
       "id": "family",
@@ -7,19 +7,6 @@
       "name_en": "FamilyMart",
       "color": "#3B82F6",
       "products": [
-        {
-          "id": "family-0441811",
-          "name": "韓式辣炒豬肉飯卷",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0441811.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量191大卡，本包裝含1份"
-        },
         {
           "id": "family-0558422",
           "name": "鹽蔥燒肉飯糰",
@@ -5271,19 +5258,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量465大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1463575",
-          "name": "芋見金沙鬆餅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1463575.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量310大卡，本包裝含1份"
         },
         {
           "id": "family-1485303",
@@ -18832,19 +18806,6 @@
           "note": "熱量199大卡，本包裝含1份"
         },
         {
-          "id": "family-1273871",
-          "name": "酒香焦糖夾心巧克力棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1273871.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量198.2大卡，本包裝含1份"
-        },
-        {
           "id": "family-1273899",
           "name": "巧克力風味布朗尼脆片",
           "original_price": 0,
@@ -19090,19 +19051,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量119大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1331906",
-          "name": "巧菲斯牛奶夾心酥9入分享盒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1331906.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量138大卡，本包裝含9份"
         },
         {
           "id": "family-1332702",
@@ -24654,19 +24602,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量74.8大卡，本包裝含4份"
-        },
-        {
-          "id": "family-1417342",
-          "name": "雙纖檸檬綠茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417342.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量71.1大卡，本包裝含4份"
         },
         {
           "id": "family-1417942",
