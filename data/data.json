@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T19:58:21.779821+08:00",
+  "updated_at": "2026-08-15T20:50:53.586115+08:00",
   "stores": [
     {
       "id": "family",
@@ -20548,19 +20548,6 @@
           "note": "熱量182大卡，本包裝含1份"
         },
         {
-          "id": "family-3630134",
-          "name": "金莎巧克力16粒入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3630134.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量75大卡，本包裝含16份"
-        },
-        {
           "id": "family-3640040",
           "name": "健達牛奶巧克力",
           "original_price": 0,
@@ -20741,19 +20728,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量119大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3650792",
-          "name": "金莎金鑽禮盒(24入裝)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3650792.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量75大卡，本包裝含24份"
         },
         {
           "id": "family-3651457",
