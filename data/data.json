@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:49:48.691105+08:00",
+  "updated_at": "2026-08-17T20:39:31.678375+08:00",
   "stores": [
     {
       "id": "family",
@@ -13838,19 +13838,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量112.4大卡，本包裝含6份"
-        },
-        {
-          "id": "family-1449240",
-          "name": "PABLO完熟芒果綠茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449240.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量144大卡，本包裝含1份"
         },
         {
           "id": "family-1460268",
