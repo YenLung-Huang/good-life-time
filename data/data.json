@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:59:11.121655+08:00",
+  "updated_at": "2026-08-17T15:09:30.755454+08:00",
   "stores": [
     {
       "id": "family",
@@ -7208,6 +7208,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量252大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1500391",
+          "name": "玉米咖啡酷繽沙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500391.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量228大卡，本包裝含1份"
         },
         {
           "id": "family-1501456",
