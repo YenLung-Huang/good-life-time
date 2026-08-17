@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:26:21.801087+08:00",
+  "updated_at": "2026-08-17T22:01:38.783526+08:00",
   "stores": [
     {
       "id": "family",
@@ -4480,6 +4480,19 @@
           "note": "熱量291大卡，本包裝含1份"
         },
         {
+          "id": "family-1537635",
+          "name": "香蕉卡士達牛奶布丁",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537635.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量207大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5362,6 +5375,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量275大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1517431",
+          "name": "二配香蕉卡士達麵包",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1517431.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量202大卡，本包裝含1份"
         },
         {
           "id": "family-1527179",
@@ -7249,6 +7275,19 @@
           "note": "熱量286大卡，本包裝含1份"
         },
         {
+          "id": "family-1537017",
+          "name": "香蕉卡士達牛奶酷繽沙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537017.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量369大卡，本包裝含1份"
+        },
+        {
           "id": "family-0040322",
           "name": "奶皇包",
           "original_price": 0,
@@ -7951,6 +7990,19 @@
           "note": "熱量191大卡，本包裝含1份"
         },
         {
+          "id": "family-1521478",
+          "name": "酥炸大雞腿",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521478.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量528.8大卡，本包裝含1份"
+        },
+        {
           "id": "family-1521482",
           "name": "巨厚重大雞排",
           "original_price": 0,
@@ -7964,6 +8016,19 @@
           "note": "熱量548大卡，本包裝含1份"
         },
         {
+          "id": "family-1521496",
+          "name": "甘梅地瓜薯條",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521496.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量262大卡，本包裝含5份"
+        },
+        {
           "id": "family-1531170",
           "name": "開心果千層蛋塔",
           "original_price": 0,
@@ -7975,6 +8040,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量257.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531570",
+          "name": "黃金雞軟骨",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531570.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量265大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1532235",
+          "name": "無骨鹽酥雞",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1532235.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量284大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1533736",
+          "name": "三角巧克力酥派",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1533736.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量309.6大卡，本包裝含1份"
         },
         {
           "id": "family-0644760",
@@ -9392,6 +9496,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量168.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537667",
+          "name": "香蕉卡士達雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537667.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量199.7大卡，本包裝含1份"
         },
         {
           "id": "family-2310014",
