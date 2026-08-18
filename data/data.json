@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T16:53:00.187177+08:00",
+  "updated_at": "2026-08-18T17:30:44.797958+08:00",
   "stores": [
     {
       "id": "family",
@@ -11991,7 +11991,7 @@
           "category": "乳製品",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量112大卡，本包裝含1份"
+          "note": "熱量116大卡，本包裝含1份"
         },
         {
           "id": "family-2860037",
@@ -20039,6 +20039,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量156大卡，本包裝含5份"
+        },
+        {
+          "id": "family-1493708",
+          "name": "水水灶咖洋芋片-水果啤酒風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493708.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量141.1大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1493712",
+          "name": "水水灶咖洋芋片-甘梅芭樂風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493712.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量143.1大卡，本包裝含2份"
         },
         {
           "id": "family-1493726",
