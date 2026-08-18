@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T19:50:27.422697+08:00",
+  "updated_at": "2026-08-18T20:40:56.412949+08:00",
   "stores": [
     {
       "id": "family",
@@ -1254,19 +1254,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量531大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1417156",
-          "name": "香檸奶油魚排蔬滿盒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1417156.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量256大卡，本包裝含1份"
         },
         {
           "id": "family-1429482",
@@ -5455,19 +5442,6 @@
           "note": "熱量401大卡，本包裝含1份"
         },
         {
-          "id": "family-1820062",
-          "name": "丹麥菠蘿可頌",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1820062.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量390大卡，本包裝含1份"
-        },
-        {
           "id": "family-1830055",
           "name": "起司火腿麵包",
           "original_price": 0,
@@ -9210,6 +9184,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量252大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1423068",
+          "name": "滿滿水果白熊冰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1423068.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量318.2大卡，本包裝含1份"
         },
         {
           "id": "family-1439261",
@@ -17844,6 +17831,19 @@
           "note": "熱量47.7大卡，本包裝含6份"
         },
         {
+          "id": "family-0623229",
+          "name": "藍莓起司",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0623229.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量37.5大卡，本包裝含6份"
+        },
+        {
           "id": "family-0628174",
           "name": "鹽味薯條餅乾",
           "original_price": 0,
@@ -18154,6 +18154,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量317.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0819042",
+          "name": "草莓起司",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0819042.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量36大卡，本包裝含6份"
         },
         {
           "id": "family-0820118",
