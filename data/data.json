@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:50:41.970779+08:00",
+  "updated_at": "2026-08-18T13:26:46.876052+08:00",
   "stores": [
     {
       "id": "family",
@@ -5378,7 +5378,7 @@
         },
         {
           "id": "family-1517431",
-          "name": "二配香蕉卡士達麵包",
+          "name": "香蕉卡士達麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -8316,7 +8316,7 @@
         },
         {
           "id": "family-1530833",
-          "name": "馬－甜玉米",
+          "name": "馬-甜玉米",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9486,7 +9486,7 @@
         },
         {
           "id": "family-1523266",
-          "name": "Ｎｉｓｅｋｏ抹茶紅豆白玉雪糕",
+          "name": "Niseko抹茶紅豆白玉雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
