@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T13:56:56.544445+08:00",
+  "updated_at": "2026-08-19T14:49:13.278822+08:00",
   "stores": [
     {
       "id": "family",
@@ -3516,6 +3516,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量509大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1494013",
+          "name": "玉米起司蛋餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1494013.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量288大卡，本包裝含1份"
         },
         {
           "id": "family-1509240",
@@ -7377,6 +7390,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量286大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1522333",
+          "name": "酷繽果蘋果順",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1522333.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量142.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528266",
+          "name": "酷繽果胡蘿蔔亮",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528266.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量134.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528298",
+          "name": "酷繽果桑葚睏",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528298.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量121.6大卡，本包裝含1份"
         },
         {
           "id": "family-1537017",
@@ -25254,6 +25306,19 @@
           "note": "熱量134大卡，本包裝含1份"
         },
         {
+          "id": "family-1528448",
+          "name": "LATIB橄欖檸檬飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528448.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量12大卡，本包裝含14份"
+        },
+        {
           "id": "family-1620034",
           "name": "桂冠沙拉",
           "original_price": 0,
@@ -27553,6 +27618,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量30大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528448",
+          "name": "LATIB橄欖檸檬飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528448.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量12大卡，本包裝含14份"
         },
         {
           "id": "family-4810012",
