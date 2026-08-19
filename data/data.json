@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T19:50:02.862123+08:00",
+  "updated_at": "2026-08-19T20:41:29.820813+08:00",
   "stores": [
     {
       "id": "family",
@@ -2762,19 +2762,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量303大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1490782",
-          "name": "絢麗蘋果單入裝(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1490782.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-1499590",
@@ -9641,32 +9628,6 @@
           "note": "熱量216.7大卡，本包裝含1份"
         },
         {
-          "id": "family-1523143",
-          "name": "丸永製彈跳氣泡感可樂冰棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523143.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量68.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1523248",
-          "name": "丸永製御餅黃豆粉麻糬冰棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523248.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量225.7大卡，本包裝含1份"
-        },
-        {
           "id": "family-1523266",
           "name": "Niseko抹茶紅豆白玉雪糕",
           "original_price": 0,
@@ -10237,19 +10198,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量213大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0602910",
-          "name": "照燒風味軟骨雞肉丸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0602910.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量222.4大卡，本包裝含1份"
         },
         {
           "id": "family-0603061",
