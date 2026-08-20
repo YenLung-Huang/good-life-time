@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:27:14.543367+08:00",
+  "updated_at": "2026-08-20T16:05:44.415050+08:00",
   "stores": [
     {
       "id": "family",
@@ -461,6 +461,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量161大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1500387",
+          "name": "西西里風烤飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500387.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量211大卡，本包裝含1份"
         },
         {
           "id": "family-1514706",
