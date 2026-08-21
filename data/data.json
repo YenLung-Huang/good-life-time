@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T10:36:40.896307+08:00",
+  "updated_at": "2026-08-21T11:35:27.067012+08:00",
   "stores": [
     {
       "id": "family",
@@ -6275,7 +6275,7 @@
         },
         {
           "id": "family-0289457",
-          "name": "大冰黑糖ＱＱ撞奶",
+          "name": "大冰黑糖QQ撞奶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -6288,7 +6288,7 @@
         },
         {
           "id": "family-0289461",
-          "name": "大熱黑糖ＱＱ撞奶",
+          "name": "大熱黑糖QQ撞奶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20104,6 +20104,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量126大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1493526",
+          "name": "旺旺小小酥綜合包（米果）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493526.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量171大卡，本包裝含3份"
         },
         {
           "id": "family-1493530",
