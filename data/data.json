@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T19:51:56.208662+08:00",
+  "updated_at": "2026-08-21T20:42:04.753487+08:00",
   "stores": [
     {
       "id": "family",
@@ -18741,19 +18741,6 @@
           "note": "熱量195大卡，本包裝含1份"
         },
         {
-          "id": "family-1075245",
-          "name": "味覺糖特濃牛奶味軟糖(條糖)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1075245.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量202大卡，本包裝含1份"
-        },
-        {
           "id": "family-1077110",
           "name": "95℃北海道風味薯條原味40G",
           "original_price": 0,
@@ -19636,19 +19623,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量172大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1408755",
-          "name": "彩虹軟糖混合水果口味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1408755.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量99大卡，本包裝含5.4份"
         },
         {
           "id": "family-1416855",
