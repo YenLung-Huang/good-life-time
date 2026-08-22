@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T19:46:46.567750+08:00",
+  "updated_at": "2026-08-22T20:34:41.170868+08:00",
   "stores": [
     {
       "id": "family",
@@ -4179,19 +4179,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量93大卡，本包裝含5份"
-        },
-        {
-          "id": "family-1354758",
-          "name": "法式千層蛋糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1354758.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量203.9大卡，本包裝含1份"
         },
         {
           "id": "family-1394960",
