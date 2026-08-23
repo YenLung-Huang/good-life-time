@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:47:29.535697+08:00",
+  "updated_at": "2026-08-23T21:19:35.875593+08:00",
   "stores": [
     {
       "id": "family",
@@ -45,19 +45,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量181大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0775379",
-          "name": "壹號醬炙烤牛飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0775379.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量191大卡，本包裝含1份"
         },
         {
           "id": "family-0843029",
@@ -5414,19 +5401,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量302大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1487464",
-          "name": "生楊枝甘露滿餡麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1487464.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量293大卡，本包裝含1份"
         },
         {
           "id": "family-1492334",
@@ -20078,32 +20052,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量126大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1493526",
-          "name": "旺旺小小酥綜合包（米果）",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493526.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量171大卡，本包裝含3份"
-        },
-        {
-          "id": "family-1493530",
-          "name": "厚燒鹽味(米果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493530.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量156大卡，本包裝含5份"
         },
         {
           "id": "family-1493708",
