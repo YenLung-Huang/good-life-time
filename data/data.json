@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:37:05.067434+08:00",
+  "updated_at": "2026-08-24T11:38:14.361627+08:00",
   "stores": [
     {
       "id": "family",
@@ -18,7 +18,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量174大卡，本包裝含1份"
+          "note": "熱量179大卡，本包裝含1份"
         },
         {
           "id": "family-0612008",
@@ -44,7 +44,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量181大卡，本包裝含1份"
+          "note": "熱量186大卡，本包裝含1份"
         },
         {
           "id": "family-0843029",
@@ -486,7 +486,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量155大卡，本包裝含1份"
+          "note": "熱量163大卡，本包裝含1份"
         },
         {
           "id": "family-1519188",
@@ -1579,6 +1579,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量415大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1528884",
+          "name": "排骨蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528884.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量626大卡，本包裝含1份"
         },
         {
           "id": "family-1530815",
