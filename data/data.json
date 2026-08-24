@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:53:44.606092+08:00",
+  "updated_at": "2026-08-24T20:45:20.696775+08:00",
   "stores": [
     {
       "id": "family",
@@ -2114,6 +2114,19 @@
           "note": "熱量59.5大卡，本包裝含1份"
         },
         {
+          "id": "family-0668813",
+          "name": "富士蘋果單入袋",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0668813.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-0668827",
           "name": "富士蘋果(截切)",
           "original_price": 0,
@@ -3570,19 +3583,6 @@
           "note": "熱量176.2大卡，本包裝含1份"
         },
         {
-          "id": "family-1519192",
-          "name": "泰式炒河粉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1519192.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量586大卡，本包裝含1份"
-        },
-        {
           "id": "family-1530592",
           "name": "香滷蛋白棒",
           "original_price": 0,
@@ -4400,32 +4400,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量174大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1488474",
-          "name": "焙茶珍珠千層蛋糕　",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1488474.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量175.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1502157",
-          "name": "楊枝甘露雲朵燒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1502157.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量365.3大卡，本包裝含1份"
         },
         {
           "id": "family-1503894",
@@ -18908,19 +18882,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量121大卡，本包裝含6份"
-        },
-        {
-          "id": "family-1193304",
-          "name": "百奇玫瑰風味棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1193304.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量153.7大卡，本包裝含1份"
         },
         {
           "id": "family-1196352",
