@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:45:20.696775+08:00",
+  "updated_at": "2026-08-24T22:39:06.424960+08:00",
   "stores": [
     {
       "id": "family",
@@ -3607,6 +3607,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量254.5大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1540480",
+          "name": "元氣雞肉蔬菜湯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1540480.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量129大卡，本包裝含1份"
         },
         {
           "id": "family-1550378",
@@ -20146,7 +20159,7 @@
         },
         {
           "id": "family-1513837",
-          "name": "厚切洋芋片勁辣唐辛子口味",
+          "name": "中元—厚切洋芋片勁辣唐辛子口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24527,7 +24540,7 @@
         },
         {
           "id": "family-1180577",
-          "name": "萬家香味噌辣醬",
+          "name": "（選）萬家香味噌辣醬",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
