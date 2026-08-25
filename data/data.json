@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T15:30:56.455459+08:00",
+  "updated_at": "2026-08-25T16:22:28.603495+08:00",
   "stores": [
     {
       "id": "family",
@@ -20208,6 +20208,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量282大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1521105",
+          "name": "好食瓶-濃蒜花生",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521105.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量145大卡，本包裝含10份"
+        },
+        {
+          "id": "family-1521119",
+          "name": "好食瓶-海苔花生",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521119.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量150大卡，本包裝含10份"
         },
         {
           "id": "family-1521123",
