@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:13:51.681065+08:00",
+  "updated_at": "2026-08-25T22:06:03.543005+08:00",
   "stores": [
     {
       "id": "family",
@@ -487,6 +487,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量137大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537762",
+          "name": "一配醬燒炙烤牛飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537762.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量200大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537930",
+          "name": "蔥花生鮪魚脆卷",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537930.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量117大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537944",
+          "name": "香濃明太子嫩雞飯卷",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537944.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量287大卡，本包裝含1份"
         },
         {
           "id": "family-0101269",
@@ -1618,6 +1657,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量559大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1540844",
+          "name": "金沙醬牛豚雙饗飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1540844.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量521大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -4545,6 +4597,19 @@
           "note": "熱量132大卡，本包裝含1份"
         },
         {
+          "id": "family-1537235",
+          "name": "一配幻紫颶風Ｕｂｅ捲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537235.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量315.8大卡，本包裝含1份"
+        },
+        {
           "id": "family-1537635",
           "name": "香蕉卡士達牛奶布丁",
           "original_price": 0,
@@ -4556,6 +4621,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量207大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537730",
+          "name": "醇厚Ｕｂｅ奶霜千層蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537730.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量190.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537744",
+          "name": "法式千層蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537744.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量211.8大卡，本包裝含1份"
         },
         {
           "id": "family-1761254",
@@ -5466,6 +5557,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量202大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1522529",
+          "name": "一配鹹香核桃墨西哥",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1522529.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量398大卡，本包裝含1份"
         },
         {
           "id": "family-1527179",
