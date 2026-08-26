@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T09:49:49.814574+08:00",
+  "updated_at": "2026-08-26T11:02:29.164639+08:00",
   "stores": [
     {
       "id": "family",
@@ -3635,6 +3635,19 @@
           "note": "熱量254.5大卡，本包裝含1份"
         },
         {
+          "id": "family-1538231",
+          "name": "益活雞嫩雞胸-甘味湖鹽",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1538231.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量109.5大卡，本包裝含1份"
+        },
+        {
           "id": "family-1540480",
           "name": "元氣雞肉蔬菜湯",
           "original_price": 0,
@@ -4598,7 +4611,7 @@
         },
         {
           "id": "family-1537235",
-          "name": "一配幻紫颶風Ube捲",
+          "name": "幻紫颶風Ube捲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5557,6 +5570,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量202大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1519633",
+          "name": "伯爵可可鬆餅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1519633.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量345大卡，本包裝含1份"
         },
         {
           "id": "family-1522529",
