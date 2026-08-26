@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T17:38:45.631774+08:00",
+  "updated_at": "2026-08-26T19:00:23.331882+08:00",
   "stores": [
     {
       "id": "family",
@@ -1644,6 +1644,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量556大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1535229",
+          "name": "嫩烤魚排佐花椰菜義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1535229.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量438大卡，本包裝含1份"
         },
         {
           "id": "family-1535233",
