@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T21:32:56.310484+08:00",
+  "updated_at": "2026-08-26T22:25:23.349928+08:00",
   "stores": [
     {
       "id": "family",
@@ -20481,6 +20481,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量174大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1538304",
+          "name": "乖乖玉米脆條—招牌冰淇淋風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1538304.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量125大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1541595",
+          "name": "乖乖玉米脆條—牛小排風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1541595.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量133大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1546672",
+          "name": "９５℃北海道風味薯條海苔口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1546672.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量114大卡，本包裝含2份"
         },
         {
           "id": "family-1640010",
