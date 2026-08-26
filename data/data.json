@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:58:58.269782+08:00",
+  "updated_at": "2026-08-26T09:49:49.814574+08:00",
   "stores": [
     {
       "id": "family",
@@ -490,7 +490,7 @@
         },
         {
           "id": "family-1537762",
-          "name": "一配醬燒炙烤牛飯糰",
+          "name": "醬燒炙烤牛飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4598,7 +4598,7 @@
         },
         {
           "id": "family-1537235",
-          "name": "一配幻紫颶風Ｕｂｅ捲",
+          "name": "一配幻紫颶風Ube捲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4624,7 +4624,7 @@
         },
         {
           "id": "family-1537730",
-          "name": "醇厚Ｕｂｅ奶霜千層蛋糕",
+          "name": "醇厚Ube奶霜千層蛋糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5560,7 +5560,7 @@
         },
         {
           "id": "family-1522529",
-          "name": "一配鹹香核桃墨西哥",
+          "name": "鹹香核桃墨西哥",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
