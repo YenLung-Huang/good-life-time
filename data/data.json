@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T14:50:46.555391+08:00",
+  "updated_at": "2026-08-29T03:15:01.047435+08:00",
   "stores": [
     {
       "id": "family",
@@ -4569,19 +4569,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量247大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1515039",
-          "name": "咖啡聖代杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515039.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量151大卡，本包裝含1份"
         },
         {
           "id": "family-1515043",
@@ -9808,6 +9795,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量168.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1537667",
+          "name": "香蕉卡士達雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537667.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量199.7大卡，本包裝含1份"
         },
         {
           "id": "family-1546804",
