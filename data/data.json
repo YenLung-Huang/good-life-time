@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:15:48.304596+08:00",
+  "updated_at": "2026-08-29T22:37:26.551374+08:00",
   "stores": [
     {
       "id": "family",
@@ -1828,19 +1828,6 @@
           "note": "熱量204大卡，本包裝含1份"
         },
         {
-          "id": "family-1429955",
-          "name": "蔬菜烘蛋起司貝果堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1429955.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量363大卡，本包裝含1份"
-        },
-        {
           "id": "family-1444090",
           "name": "肉鬆火腿三明治",
           "original_price": 0,
@@ -3529,19 +3516,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量230大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1431845",
-          "name": "三合一味噌湯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1431845.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量188大卡，本包裝含1份"
         },
         {
           "id": "family-1444622",
@@ -9834,6 +9808,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量163大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1546890",
+          "name": "ＦＭＣ５袋入衛生冰塊",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1546890.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含5份"
         },
         {
           "id": "family-2310014",
@@ -18325,19 +18312,6 @@
           "note": "熱量220大卡，本包裝含1份"
         },
         {
-          "id": "family-0739589",
-          "name": "利口樂沁涼薄荷草本喉糖(條)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0739589.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量14大卡，本包裝含9份"
-        },
-        {
           "id": "family-0761841",
           "name": "Mini可樂果原味",
           "original_price": 0,
@@ -19740,32 +19714,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量123大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1385719",
-          "name": "Alfie草莓牛奶風味可可",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1385719.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量171.5大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1385737",
-          "name": "Alfie原味可可",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1385737.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量162.2大卡，本包裝含1份"
         },
         {
           "id": "family-1386983",
@@ -27426,7 +27374,7 @@
         },
         {
           "id": "family-0924792",
-          "name": "黑金倍熱極纖錠",
+          "name": "船井黑金倍熱極纖錠",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -27686,7 +27634,7 @@
         },
         {
           "id": "family-1432841",
-          "name": "白蘭氏養蔘元氣凍莓果口味",
+          "name": "白蘭氏莓果口味養蔘元氣凍",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
