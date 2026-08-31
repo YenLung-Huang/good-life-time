@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:44:37.194643+08:00",
+  "updated_at": "2026-09-01T03:15:16.164405+08:00",
   "stores": [
     {
       "id": "family",
@@ -1709,6 +1709,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量521大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548410",
+          "name": "二配叉燒蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548410.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量758大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
@@ -3711,6 +3724,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量129大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1544498",
+          "name": "海陸滿滿蛋白棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1544498.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量73.8大卡，本包裝含1份"
         },
         {
           "id": "family-1550378",
@@ -8263,6 +8289,19 @@
           "note": "熱量262大卡，本包裝含5份"
         },
         {
+          "id": "family-1521505",
+          "name": "帶骨德式香腸",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1521505.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量197大卡，本包裝含10份"
+        },
+        {
           "id": "family-1531170",
           "name": "開心果千層蛋塔",
           "original_price": 0,
@@ -10770,6 +10809,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量101大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1494518",
+          "name": "法式香濃海鮮焗飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1494518.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量582大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1495023",
+          "name": "香鮭蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495023.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量444大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1512322",
+          "name": "青醬烤雞焗飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512322.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量639大卡，本包裝含1份"
         },
         {
           "id": "family-2410549",
@@ -14672,6 +14750,32 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
+          "id": "family-1539582",
+          "name": "點點心港式厚奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1539582.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量183.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1543765",
+          "name": "立頓紅龜粿風味奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1543765.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量187.3大卡，本包裝含1份"
+        },
+        {
           "id": "family-1544816",
           "name": "十六茶零咖啡因麥茶",
           "original_price": 0,
@@ -14709,6 +14813,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量155.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1547573",
+          "name": "ＰＡＢＬＯ蜜香柚子金萱",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1547573.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量148.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1547773",
+          "name": "ＰＡＢＬＯ茉窨青檸綠茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1547773.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量144大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1549711",
+          "name": "比菲多慢燒烤奶茶乳飲品",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1549711.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量135大卡，本包裝含1份"
         },
         {
           "id": "family-2910012",
@@ -17936,7 +18079,7 @@
         },
         {
           "id": "family-0461097",
-          "name": "波的多洋芋片韓式甘醬炸雞風味",
+          "name": "惜—波的多韓式甘醬炸雞風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -17949,7 +18092,7 @@
         },
         {
           "id": "family-0461110",
-          "name": "波的多洋芋片川麻椒香炸雞風味",
+          "name": "惜—波的多川麻椒香炸雞風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -18326,7 +18469,7 @@
         },
         {
           "id": "family-0788647",
-          "name": "波的多蚵仔煎口味薄片",
+          "name": "惜—波的多蚵仔煎口味薄片",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19327,7 +19470,7 @@
         },
         {
           "id": "family-1273962",
-          "name": "檸檬果乾",
+          "name": "惜—檸檬果乾",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19340,7 +19483,7 @@
         },
         {
           "id": "family-1273976",
-          "name": "柑橘果乾",
+          "name": "惜—柑橘果乾",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19626,7 +19769,7 @@
         },
         {
           "id": "family-1371136",
-          "name": "蜂蜜焗腰果",
+          "name": "惜—蜂蜜焗腰果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19639,7 +19782,7 @@
         },
         {
           "id": "family-1371140",
-          "name": "黑芝麻焗腰果",
+          "name": "惜—黑芝麻焗腰果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19652,7 +19795,7 @@
         },
         {
           "id": "family-1371168",
-          "name": "鹽焗腰果",
+          "name": "惜—鹽焗腰果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19990,7 +20133,7 @@
         },
         {
           "id": "family-1457827",
-          "name": "花雕雞麵風味",
+          "name": "惜—花雕雞麵風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20263,7 +20406,7 @@
         },
         {
           "id": "family-1493730",
-          "name": "金牛角噴霧芒果可可風味",
+          "name": "惜—金牛角噴霧芒果可可風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
