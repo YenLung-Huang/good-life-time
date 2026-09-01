@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T09:57:06.799696+08:00",
+  "updated_at": "2026-09-01T15:30:13.122065+08:00",
   "stores": [
     {
       "id": "family",
@@ -1712,7 +1712,7 @@
         },
         {
           "id": "family-1548410",
-          "name": "二配叉燒蛋炒飯",
+          "name": "叉燒蛋炒飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
