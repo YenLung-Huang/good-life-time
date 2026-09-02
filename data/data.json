@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T08:23:50.314711+08:00",
+  "updated_at": "2026-09-02T12:53:33.702925+08:00",
   "stores": [
     {
       "id": "family",
@@ -528,8 +528,21 @@
           "note": "熱量287大卡，本包裝含1份"
         },
         {
+          "id": "family-1543806",
+          "name": "卵黃牛挽肉飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1543806.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量191大卡，本包裝含1份"
+        },
+        {
           "id": "family-1544311",
-          "name": "一配生鱈魚子鮭魚飯糰",
+          "name": "生鱈魚子鮭魚飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4767,7 +4780,7 @@
         },
         {
           "id": "family-1547282",
-          "name": "一配多穀伯爵天使蛋糕",
+          "name": "多穀伯爵天使蛋糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5755,7 +5768,7 @@
         },
         {
           "id": "family-1538077",
-          "name": "一配可可奶霜菠蘿",
+          "name": "可可奶霜菠蘿",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9863,7 +9876,7 @@
         },
         {
           "id": "family-1546890",
-          "name": "ＦＭＣ５袋入衛生冰塊",
+          "name": "FMC5袋入衛生冰塊",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
