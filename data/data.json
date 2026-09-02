@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:53:33.702925+08:00",
+  "updated_at": "2026-09-02T17:17:42.866582+08:00",
   "stores": [
     {
       "id": "family",
@@ -3688,7 +3688,7 @@
         },
         {
           "id": "family-1494831",
-          "name": "椒麻滷三寶（區）",
+          "name": "椒麻滷三寶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4790,6 +4790,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量227.5大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1549107",
+          "name": "酒香提拉米蘇泡芙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1549107.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量167大卡，本包裝含1份"
         },
         {
           "id": "family-1550073",
@@ -20692,7 +20705,7 @@
         },
         {
           "id": "family-1513837",
-          "name": "中元—厚切洋芋片勁辣唐辛子口味",
+          "name": "厚切洋芋片勁辣唐辛子口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20900,7 +20913,7 @@
         },
         {
           "id": "family-1538304",
-          "name": "乖乖玉米脆條—招牌冰淇淋風味",
+          "name": "乖乖玉米脆條-招牌冰淇淋風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20913,7 +20926,7 @@
         },
         {
           "id": "family-1541595",
-          "name": "乖乖玉米脆條—牛小排風味",
+          "name": "乖乖玉米脆條-牛小排風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20952,7 +20965,7 @@
         },
         {
           "id": "family-1546686",
-          "name": "泰國Ｔａｓｔｏ冬蔭功厚切薯片９",
+          "name": "泰國Tasto冬蔭功厚切薯片",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
