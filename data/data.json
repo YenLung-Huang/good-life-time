@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:49:23.023735+08:00",
+  "updated_at": "2026-09-03T22:08:47.170449+08:00",
   "stores": [
     {
       "id": "family",
@@ -1410,19 +1410,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量676大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1454142",
-          "name": "爆炒雞丁飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454142.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量563大卡，本包裝含1份"
         },
         {
           "id": "family-1462074",
@@ -18858,19 +18845,6 @@
           "note": "熱量90.6大卡，本包裝含1份"
         },
         {
-          "id": "family-0988984",
-          "name": "流心焦糖威化巧克力",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0988984.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量206大卡，本包裝含1份"
-        },
-        {
           "id": "family-0998781",
           "name": "原味雞蛋香鐵蛋2入",
           "original_price": 0,
@@ -22114,19 +22088,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.3720680.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量185大卡，本包裝含1份"
-        },
-        {
-          "id": "family-3720703",
-          "name": "黑嘉麗綜合水果糖果",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3720703.jpg",
           "stock": "",
           "category": "點心零食",
           "store_name": "全家便利商店",
