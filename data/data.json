@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T13:06:17.283391+08:00",
+  "updated_at": "2026-09-03T17:49:23.023735+08:00",
   "stores": [
     {
       "id": "family",
@@ -526,6 +526,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量287大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1538627",
+          "name": "大口益活烤雞蛋白青醬飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1538627.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量365大卡，本包裝含1份"
         },
         {
           "id": "family-1543806",
@@ -20897,6 +20910,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量45.8大卡，本包裝含15份"
+        },
+        {
+          "id": "family-1546240",
+          "name": "可比可濃縮咖啡糖（無糖）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1546240.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量45大卡，本包裝含2份"
         },
         {
           "id": "family-1546672",
