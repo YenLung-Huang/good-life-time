@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T17:56:24.772942+08:00",
+  "updated_at": "2026-09-04T22:03:09.913049+08:00",
   "stores": [
     {
       "id": "family",
@@ -9368,19 +9368,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1340284",
-          "name": "杏桃薩赫巧克力雪糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1340284.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量296.8大卡，本包裝含1份"
-        },
-        {
           "id": "family-1356564",
           "name": "士力架草莓風味花生可可雪糕",
           "original_price": 0,
@@ -9613,19 +9600,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量252.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1449236",
-          "name": "巧克力布朗尼冰淇淋迷你杯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1449236.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量202.9大卡，本包裝含1份"
         },
         {
           "id": "family-1461591",
@@ -14410,19 +14384,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量153大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1461719",
-          "name": "立頓薄荷奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1461719.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量207.5大卡，本包裝含1份"
         },
         {
           "id": "family-1461787",
@@ -20223,19 +20184,6 @@
           "note": "熱量134大卡，本包裝含2份"
         },
         {
-          "id": "family-1457827",
-          "name": "花雕雞麵風味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1457827.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量130大卡，本包裝含2份"
-        },
-        {
           "id": "family-1457859",
           "name": "韓式BBQ口味玉米片",
           "original_price": 0,
@@ -20546,6 +20494,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量143.1大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1493726",
+          "name": "星星脆哈蜜瓜牛奶口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493726.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量162大卡，本包裝含1份"
         },
         {
           "id": "family-1493730",
@@ -23861,19 +23822,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量261.3大卡，本包裝含1份"
-        },
-        {
-          "id": "family-4030662",
-          "name": "萬歲牌海苔杏仁小魚隨手包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4030662.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量134大卡，本包裝含1份"
         },
         {
           "id": "family-4030676",
