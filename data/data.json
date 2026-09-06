@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:40:19.396403+08:00",
+  "updated_at": "2026-09-06T21:08:32.052765+08:00",
   "stores": [
     {
       "id": "family",
@@ -2198,19 +2198,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.0513010.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-0561536",
-          "name": "玉美履歷葉菜",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0561536.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -8144,19 +8131,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量329.3大卡，本包裝含10份"
-        },
-        {
-          "id": "family-1316811",
-          "name": "原味大香腸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1316811.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量399大卡，本包裝含1份"
         },
         {
           "id": "family-1333671",
