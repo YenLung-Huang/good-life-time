@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T18:17:28.632724+08:00",
+  "updated_at": "2026-09-07T23:58:02.169463+08:00",
   "stores": [
     {
       "id": "family",
@@ -2166,6 +2166,19 @@
           "note": "熱量248大卡，本包裝含1份"
         },
         {
+          "id": "family-0357684",
+          "name": "綠竹筍真空包",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0357684.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量51大卡，本包裝含1份"
+        },
+        {
           "id": "family-0400867",
           "name": "大號香蕉",
           "original_price": 0,
@@ -2320,6 +2333,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量43.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0884619",
+          "name": "美國光面哈密瓜(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0884619.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0986564",
@@ -5583,32 +5609,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量468大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1494190",
-          "name": "玉米奶油爆餡餐包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1494190.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量131大卡，本包裝含3份"
-        },
-        {
-          "id": "family-1495655",
-          "name": "青檸丹麥捲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495655.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量304大卡，本包裝含1份"
         },
         {
           "id": "family-1502284",
@@ -19584,19 +19584,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量119大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1332702",
-          "name": "健達利尼兩片裝",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1332702.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量126.2大卡，本包裝含1份"
         },
         {
           "id": "family-1338112",
