@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T08:21:20.237786+08:00",
+  "updated_at": "2026-09-07T18:17:28.632724+08:00",
   "stores": [
     {
       "id": "family",
@@ -1475,6 +1475,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量334大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1488133",
+          "name": "地中海布格麥烤魚餐盒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1488133.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量393大卡，本包裝含1份"
         },
         {
           "id": "family-1490223",
@@ -6534,32 +6547,6 @@
           "note": "熱量310大卡，本包裝含1份"
         },
         {
-          "id": "family-0648219",
-          "name": "特大冰慢煮焦糖白奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0648219.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0648328",
-          "name": "特大冰慢煮焦糖紅奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0648328.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含1份"
-        },
-        {
           "id": "family-0736686",
           "name": "大熱白奶茶",
           "original_price": 0,
@@ -6584,32 +6571,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量142大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0737414",
-          "name": "大熱慢煮焦糖白奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0737414.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0737428",
-          "name": "大熱慢煮焦糖紅奶茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0737428.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含1份"
         },
         {
           "id": "family-0795355",
@@ -14709,6 +14670,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量183.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1541527",
+          "name": "ＵＣＣ艾洛瑪紅茶咖啡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1541527.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量5大卡，本包裝含2份"
         },
         {
           "id": "family-1543765",
@@ -25462,12 +25436,38 @@
           "note": "熱量12大卡，本包裝含14份"
         },
         {
+          "id": "family-1545703",
+          "name": "深焙１號茶包式咖啡—咒術迴戰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1545703.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-1547264",
           "name": "中焙３號茶包式咖啡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1547264.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-1549593",
+          "name": "咒術迴戰綜合茶包式咖啡６入？盒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1549593.jpg",
           "stock": "",
           "category": "加工食品",
           "store_name": "全家便利商店",
