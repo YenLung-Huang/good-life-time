@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T17:56:01.512686+08:00",
+  "updated_at": "2026-09-08T22:11:45.092808+08:00",
   "stores": [
     {
       "id": "family",
@@ -1984,19 +1984,6 @@
           "note": "熱量165大卡，本包裝含1份"
         },
         {
-          "id": "family-1502707",
-          "name": "元氣起司鱈魚堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1502707.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量370大卡，本包裝含1份"
-        },
-        {
           "id": "family-1516576",
           "name": "雙泰奶QQ三明治",
           "original_price": 0,
@@ -2073,6 +2060,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量253大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1550100",
+          "name": "紅豆黑糖麻糬三明治",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1550100.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量211大卡，本包裝含1份"
         },
         {
           "id": "family-0052567",
@@ -4805,6 +4805,19 @@
           "note": "熱量167大卡，本包裝含1份"
         },
         {
+          "id": "family-1549698",
+          "name": "一顆布丁捲蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1549698.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量154大卡，本包裝含1份"
+        },
+        {
           "id": "family-1550073",
           "name": "布朗尼鹹奶蓋",
           "original_price": 0,
@@ -5765,6 +5778,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量464大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1538431",
+          "name": "一配煉乳奶霜菠蘿",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1538431.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量458大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1547391",
+          "name": "一配可可能量纖活餐包",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1547391.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量314大卡，本包裝含1份"
         },
         {
           "id": "family-1830055",
@@ -13593,19 +13632,6 @@
           "note": "熱量0大卡，本包裝含3份"
         },
         {
-          "id": "family-1212528",
-          "name": "紅牛白桃風味能量飲料",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1212528.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量107大卡，本包裝含1份"
-        },
-        {
           "id": "family-1212932",
           "name": "大人的生活好眠乳酸飲",
           "original_price": 0,
@@ -14496,19 +14522,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498603.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量0大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1498649",
-          "name": "威金森荔枝檸檬風味碳酸水",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1498649.jpg",
           "stock": "",
           "category": "一般飲料",
           "store_name": "全家便利商店",
