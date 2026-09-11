@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:06:07.430389+08:00",
+  "updated_at": "2026-09-11T23:00:56.360730+08:00",
   "stores": [
     {
       "id": "family",
@@ -1618,19 +1618,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量626大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1530815",
-          "name": "蕃茄蘑菇義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530815.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量556大卡，本包裝含1份"
         },
         {
           "id": "family-1535229",
@@ -9875,6 +9862,19 @@
           "note": "熱量246.7大卡，本包裝含1份"
         },
         {
+          "id": "family-1552893",
+          "name": "抹茶雪酥",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1552893.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量240.9大卡，本包裝含1份"
+        },
+        {
           "id": "family-1552902",
           "name": "加賀棒焙茶歐蕾冰淇淋迷你杯",
           "original_price": 0,
@@ -14007,19 +14007,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量11.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1413875",
-          "name": "波蜜100%一日百香果蔬果汁",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1413875.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量192大卡，本包裝含1份"
         },
         {
           "id": "family-1414849",
@@ -24095,19 +24082,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量119大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0046473",
-          "name": "躺著喝蜜香歐蕾沖泡包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0046473.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量115.8大卡，本包裝含5份"
         },
         {
           "id": "family-0089633",
