@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T18:55:35.094943+08:00",
+  "updated_at": "2026-09-15T00:47:17.107362+08:00",
   "stores": [
     {
       "id": "family",
@@ -448,19 +448,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量163大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1519188",
-          "name": "醬油生鮭脆卷",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1519188.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量137大卡，本包裝含1份"
         },
         {
           "id": "family-1529549",
@@ -2101,6 +2088,19 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
+          "id": "family-0243003",
+          "name": "麻豆文旦袋(常溫原果)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0243003.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-0249372",
           "name": "有機水蓮",
           "original_price": 0,
@@ -2112,6 +2112,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-0258537",
+          "name": "火山鳳梨(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0258537.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量85大卡，本包裝含1份"
         },
         {
           "id": "family-0320990",
@@ -2699,19 +2712,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1362571",
-          "name": "履歷櫛瓜",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1362571.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-1362585",
           "name": "履歷青蔥",
           "original_price": 0,
@@ -2770,19 +2770,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1364705.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-1364723",
-          "name": "產銷履歷敏豆",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1364723.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -3048,6 +3035,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量259.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0258537",
+          "name": "火山鳳梨(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0258537.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量85大卡，本包裝含1份"
         },
         {
           "id": "family-0289752",
@@ -5468,6 +5468,19 @@
           "note": "熱量258大卡，本包裝含1份"
         },
         {
+          "id": "family-1406276",
+          "name": "一配花生巧克力軟法",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1406276.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量300大卡，本包裝含1份"
+        },
+        {
           "id": "family-1406549",
           "name": "藍莓乳酪貝果",
           "original_price": 0,
@@ -5648,19 +5661,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量463大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1515116",
-          "name": "泰奶黑糖QQ軟法",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515116.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量359大卡，本包裝含1份"
         },
         {
           "id": "family-1515120",
@@ -6714,19 +6714,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量271大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0874703",
-          "name": "Chill嗨酷繽沙",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0874703.jpg",
-          "stock": "",
-          "category": "現做飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量146.4大卡，本包裝含1份"
         },
         {
           "id": "family-0886407",
@@ -11602,6 +11589,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量69.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1554427",
+          "name": "士力架花生可可高蛋白牛奶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1554427.jpg",
+          "stock": "",
+          "category": "乳製品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量296.6大卡，本包裝含1份"
         },
         {
           "id": "family-2710016",
