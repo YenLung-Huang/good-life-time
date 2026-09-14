@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T08:43:45.833809+08:00",
+  "updated_at": "2026-09-14T13:29:04.441153+08:00",
   "stores": [
     {
       "id": "family",
@@ -10887,6 +10887,45 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量639大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1512336",
+          "name": "經典超大雞排",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512336.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量742.2大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1512340",
+          "name": "無骨鹽酥雞",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512340.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量391.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1512354",
+          "name": "椒鹽甜不辣",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512354.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量234大卡，本包裝含1份"
         },
         {
           "id": "family-2410549",
