@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:31:34.549798+08:00",
+  "updated_at": "2026-09-15T09:54:24.864675+08:00",
   "stores": [
     {
       "id": "family",
@@ -2115,7 +2115,7 @@
         },
         {
           "id": "family-0258537",
-          "name": "火山鳳梨(截切)",
+          "name": "鮮切鳳梨(截切)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3038,7 +3038,7 @@
         },
         {
           "id": "family-0258537",
-          "name": "火山鳳梨(截切)",
+          "name": "鮮切鳳梨(截切)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5469,7 +5469,7 @@
         },
         {
           "id": "family-1406276",
-          "name": "一配花生巧克力軟法",
+          "name": "花生巧克力軟法",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
