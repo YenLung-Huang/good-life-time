@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T20:41:25.783469+08:00",
+  "updated_at": "2026-09-16T01:17:29.843728+08:00",
   "stores": [
     {
       "id": "family",
@@ -539,6 +539,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量182大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1558326",
+          "name": "經典傳統飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1558326.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量422大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1558744",
+          "name": "生菜鮮蝦脆卷",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1558744.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量117大卡，本包裝含1份"
         },
         {
           "id": "family-0101269",
@@ -1711,6 +1737,32 @@
           "note": "熱量708大卡，本包裝含1份"
         },
         {
+          "id": "family-1554495",
+          "name": "港式鮮蝦雲吞撈麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1554495.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量397大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1557061",
+          "name": "壹號醬泡菜鹽蔥雞豚雙拼",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1557061.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量440大卡，本包裝含1份"
+        },
+        {
           "id": "family-1558926",
           "name": "二配起司棉被海陸白醬焗烤飯",
           "original_price": 0,
@@ -2047,6 +2099,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量211大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1557116",
+          "name": "墨西哥辣醬熱狗堡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1557116.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量409大卡，本包裝含1份"
         },
         {
           "id": "family-0052567",
@@ -4844,6 +4909,32 @@
           "note": "熱量197.4大卡，本包裝含1份"
         },
         {
+          "id": "family-1552752",
+          "name": "花生巧克力熔岩蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1552752.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量319.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1553003",
+          "name": "花生巧克力閃電泡芙",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1553003.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量226大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5804,6 +5895,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量314大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548488",
+          "name": "奶香綿雲小土司",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548488.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量317大卡，本包裝含1份"
         },
         {
           "id": "family-1830055",
