@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T18:28:19.051016+08:00",
+  "updated_at": "2026-09-17T23:13:39.829476+08:00",
   "stores": [
     {
       "id": "family",
@@ -1022,19 +1022,6 @@
           "note": "熱量282大卡，本包裝含1份"
         },
         {
-          "id": "family-1167775",
-          "name": "港式香滑嫩蛋牛肉燴飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1167775.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量521大卡，本包裝含1份"
-        },
-        {
           "id": "family-1215394",
           "name": "海陸雙拼肉肉餐盒",
           "original_price": 0,
@@ -1332,19 +1319,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量379大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1440973",
-          "name": "招牌雞絲胡麻涼麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1440973.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量535大卡，本包裝含1份"
         },
         {
           "id": "family-1452740",
@@ -5687,19 +5661,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量250.6大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1486668",
-          "name": "青檸乳酪鬆餅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1486668.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量302大卡，本包裝含1份"
         },
         {
           "id": "family-1492334",
@@ -14111,19 +14072,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量137.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1414926",
-          "name": "HK焦糖瑪奇朵風味拿鐵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1414926.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量207大卡，本包裝含1份"
         },
         {
           "id": "family-1414962",
