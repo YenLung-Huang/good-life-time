@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:45:56.082506+08:00",
+  "updated_at": "2026-09-17T13:45:00.838725+08:00",
   "stores": [
     {
       "id": "family",
@@ -9847,6 +9847,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含5份"
+        },
+        {
+          "id": "family-1552839",
+          "name": "士力架花生巧克力雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1552839.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量192.7大卡，本包裝含1份"
         },
         {
           "id": "family-1552843",
