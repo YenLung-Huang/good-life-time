@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:35:47.897338+08:00",
+  "updated_at": "2026-09-18T21:51:45.538731+08:00",
   "stores": [
     {
       "id": "family",
@@ -4688,19 +4688,6 @@
           "note": "熱量259大卡，本包裝含1份"
         },
         {
-          "id": "family-1515148",
-          "name": "蘋果伯爵蛋糕",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515148.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量151大卡，本包裝含1份"
-        },
-        {
           "id": "family-1528248",
           "name": "草莓甜心Q堤",
           "original_price": 0,
@@ -5765,19 +5752,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量398大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1527179",
-          "name": "金黃玉米麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527179.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-1530760",
@@ -21196,19 +21170,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量102大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3610976",
-          "name": "MM片裝牛奶巧克力",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3610976.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量247大卡，本包裝含1份"
         },
         {
           "id": "family-3611027",
