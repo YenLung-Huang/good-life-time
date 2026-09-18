@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T12:59:43.363899+08:00",
+  "updated_at": "2026-09-18T17:35:47.897338+08:00",
   "stores": [
     {
       "id": "family",
@@ -1111,6 +1111,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量557大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1373401",
+          "name": "好吃雞肉便當",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1373401.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量489大卡，本包裝含1份"
         },
         {
           "id": "family-1388103",
