@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T08:18:39.243872+08:00",
+  "updated_at": "2026-09-18T12:59:43.363899+08:00",
   "stores": [
     {
       "id": "family",
@@ -1725,7 +1725,7 @@
         },
         {
           "id": "family-1558926",
-          "name": "二配起司棉被海陸白醬焗烤飯",
+          "name": "起司棉被海陸白醬焗烤飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2466,7 +2466,7 @@
         },
         {
           "id": "family-1242751",
-          "name": "履歷櫛瓜Ｎ",
+          "name": "櫛瓜",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24150,7 +24150,7 @@
         },
         {
           "id": "family-0087772",
-          "name": "惜—農心辛炒麵",
+          "name": "農心辛炒麵",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25242,7 +25242,7 @@
         },
         {
           "id": "family-1337748",
-          "name": "惜—田園巧達濃湯",
+          "name": "田園巧達濃湯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25372,7 +25372,7 @@
         },
         {
           "id": "family-1431104",
-          "name": "惜—堅果燕麥粥活力野菜風味",
+          "name": "堅果燕麥粥活力野菜風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25411,7 +25411,7 @@
         },
         {
           "id": "family-1431904",
-          "name": "惜—堅穀力原味",
+          "name": "堅穀力原味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
