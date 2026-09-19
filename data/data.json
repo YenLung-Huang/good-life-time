@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:14:58.552821+08:00",
+  "updated_at": "2026-09-19T21:12:26.679909+08:00",
   "stores": [
     {
       "id": "family",
@@ -11344,6 +11344,19 @@
           "note": "熱量101大卡，本包裝含1份"
         },
         {
+          "id": "family-0738947",
+          "name": "牧場直送4.0無加糖濃醇優酪乳",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0738947.jpg",
+          "stock": "",
+          "category": "乳製品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量59.2大卡，本包裝含2份"
+        },
+        {
           "id": "family-0791315",
           "name": "義美無乳糖全脂鮮乳",
           "original_price": 0,
@@ -13721,19 +13734,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量15.2大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1213233",
-          "name": "FMC洋甘菊蜂蜜水",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1213233.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量82大卡，本包裝含1份"
         },
         {
           "id": "family-1226915",
