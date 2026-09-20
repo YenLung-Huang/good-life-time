@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:49:55.476402+08:00",
+  "updated_at": "2026-09-20T23:28:27.407603+08:00",
   "stores": [
     {
       "id": "family",
@@ -9121,6 +9121,19 @@
           "note": "熱量183.8大卡，本包裝含1份"
         },
         {
+          "id": "family-1056283",
+          "name": "31BR跳跳糖口味冰淇淋",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1056283.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量198大卡，本包裝含1份"
+        },
+        {
           "id": "family-1056883",
           "name": "31BR白桃鮮奶酪口味冰淇淋",
           "original_price": 0,
@@ -9132,6 +9145,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量154大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1056910",
+          "name": "31BR薄荷巧克力口味冰淇淋",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1056910.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量192大卡，本包裝含1份"
         },
         {
           "id": "family-1056924",
