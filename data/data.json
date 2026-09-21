@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:19:59.326218+08:00",
+  "updated_at": "2026-09-21T21:08:41.303591+08:00",
   "stores": [
     {
       "id": "family",
@@ -565,19 +565,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量117大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0101269",
-          "name": "越式牛肉寬粉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0101269.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量227大卡，本包裝含1份"
         },
         {
           "id": "family-0226225",
@@ -1282,19 +1269,6 @@
           "note": "熱量531大卡，本包裝含1份"
         },
         {
-          "id": "family-1429482",
-          "name": "鐵道滷排便當",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1429482.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量752大卡，本包裝含1份"
-        },
-        {
           "id": "family-1429496",
           "name": "日式炙烤親子丼",
           "original_price": 0,
@@ -1306,19 +1280,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量600大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1429991",
-          "name": "日式胡麻雞絲冷麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1429991.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量477大卡，本包裝含1份"
         },
         {
           "id": "family-1431354",
@@ -4350,19 +4311,6 @@
           "note": "熱量201.4大卡，本包裝含1份"
         },
         {
-          "id": "family-1208072",
-          "name": "杏仁豆腐",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1208072.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量125大卡，本包裝含1份"
-        },
-        {
           "id": "family-1253295",
           "name": "義美鮮奶酪",
           "original_price": 0,
@@ -4647,19 +4595,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量314.2大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1503903",
-          "name": "布丁雲朵雪燒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1503903.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量235大卡，本包裝含1份"
         },
         {
           "id": "family-1503949",
@@ -5700,19 +5635,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量463大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1515120",
-          "name": "藍莓乳酪丹麥",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1515120.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量275大卡，本包裝含1份"
         },
         {
           "id": "family-1517431",
