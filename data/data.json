@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T19:37:19.621240+08:00",
+  "updated_at": "2026-09-22T23:42:41.457232+08:00",
   "stores": [
     {
       "id": "family",
@@ -552,6 +552,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量422大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1558730",
+          "name": "里肌肉蛋紫米飯糰",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1558730.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量404大卡，本包裝含1份"
         },
         {
           "id": "family-1558744",
@@ -2517,19 +2530,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1350259",
-          "name": "有機空心菜(小農)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1350259.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-1350336",
           "name": "有機山菠菜(玉美)",
           "original_price": 0,
@@ -2946,17 +2946,17 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1525004",
-          "name": "雞肉藜麥沙拉",
+          "id": "family-1557316",
+          "name": "秋葵蔬菜包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1525004.jpg",
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1557316.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量153大卡，本包裝含1份"
+          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0025146",
@@ -4844,6 +4844,19 @@
           "note": "熱量226大卡，本包裝含1份"
         },
         {
+          "id": "family-1558421",
+          "name": "冰心可可脆絲蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1558421.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量318.6大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5219,6 +5232,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量342大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0137016",
+          "name": "花生巧克力髒髒可頌",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0137016.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量289大卡，本包裝含1份"
         },
         {
           "id": "family-0208023",
@@ -16661,6 +16687,19 @@
           "note": "熱量140大卡，本包裝含1份"
         },
         {
+          "id": "family-3310304",
+          "name": "香濃咖啡拿鐵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3310304.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量100大卡，本包裝含1份"
+        },
+        {
           "id": "family-3310372",
           "name": "咖啡廣場調合式冰咖啡",
           "original_price": 0,
@@ -17961,19 +18000,6 @@
           "note": "熱量8.9大卡，本包裝含17份"
         },
         {
-          "id": "family-0437088",
-          "name": "星太郎勁辣超寬條餅",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0437088.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量178大卡，本包裝含2份"
-        },
-        {
           "id": "family-0445479",
           "name": "樂天巧克力派",
           "original_price": 0,
@@ -18492,19 +18518,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量133.3大卡，本包裝含2份"
-        },
-        {
-          "id": "family-0818341",
-          "name": "香煎荷包蛋風味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0818341.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量317.8大卡，本包裝含1份"
         },
         {
           "id": "family-0819042",
@@ -19261,19 +19274,6 @@
           "note": "熱量22大卡，本包裝含20份"
         },
         {
-          "id": "family-1269416",
-          "name": "抹茶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1269416.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量140.3大卡，本包裝含1份"
-        },
-        {
           "id": "family-1269466",
           "name": "長榮嚴選果舖物語米果經濟艙",
           "original_price": 0,
@@ -19766,19 +19766,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量127大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1416873",
-          "name": "MiNi鹹酥雞口味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1416873.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量132大卡，本包裝含2份"
         },
         {
           "id": "family-1416928",
@@ -25174,19 +25161,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1260799",
-          "name": "手打麵胡麻擔擔風味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1260799.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量548.6大卡，本包裝含1份"
         },
         {
           "id": "family-1302242",
