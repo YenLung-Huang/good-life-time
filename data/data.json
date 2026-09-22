@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:01:59.902213+08:00",
+  "updated_at": "2026-09-22T19:37:19.621240+08:00",
   "stores": [
     {
       "id": "family",
@@ -20780,6 +20780,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量157大卡，本包裝含3份"
+        },
+        {
+          "id": "family-1555655",
+          "name": "砂鍋魚頭火鍋口味洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555655.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量129大卡，本包裝含3份"
+        },
+        {
+          "id": "family-1555669",
+          "name": "蟳味棒口味洋芋片",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555669.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量129大卡，本包裝含3份"
         },
         {
           "id": "family-1555673",
