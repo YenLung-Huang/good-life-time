@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:00:06.215014+08:00",
+  "updated_at": "2026-09-22T14:01:59.902213+08:00",
   "stores": [
     {
       "id": "family",
@@ -4764,6 +4764,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量227.5大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548492",
+          "name": "綿乳草莓杯子蛋糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548492.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量69大卡，本包裝含5份"
         },
         {
           "id": "family-1549107",
@@ -20042,7 +20055,7 @@
         },
         {
           "id": "family-1461678",
-          "name": "惜—卡迪那洋芋片水牛城辣雞翅",
+          "name": "卡迪那洋芋片水牛城辣雞翅",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20055,7 +20068,7 @@
         },
         {
           "id": "family-1461682",
-          "name": "惜—德州薯條美墨酸辣醬口味",
+          "name": "德州薯條美墨酸辣醬口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20341,7 +20354,7 @@
         },
         {
           "id": "family-1493726",
-          "name": "惜—星星脆哈蜜瓜牛奶口味",
+          "name": "星星脆哈蜜瓜牛奶口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
