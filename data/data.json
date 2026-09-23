@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T08:39:08.298873+08:00",
+  "updated_at": "2026-09-23T13:12:03.842687+08:00",
   "stores": [
     {
       "id": "family",
@@ -135,7 +135,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量185大卡，本包裝含1份"
+          "note": "熱量194大卡，本包裝含1份"
         },
         {
           "id": "family-1123941",
@@ -1670,6 +1670,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量758大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548656",
+          "name": "燻鴨佐白蘭地義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548656.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量462大卡，本包裝含1份"
         },
         {
           "id": "family-1549098",
