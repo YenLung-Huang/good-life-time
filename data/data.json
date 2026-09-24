@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:28:24.974544+08:00",
+  "updated_at": "2026-09-24T18:25:14.559872+08:00",
   "stores": [
     {
       "id": "family",
@@ -18154,6 +18154,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量2.7大卡，本包裝含27份"
+        },
+        {
+          "id": "family-0533905",
+          "name": "巧克力威化餅１６８ｇ",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0533905.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量266.4大卡，本包裝含3份"
+        },
+        {
+          "id": "family-0536480",
+          "name": "起司威化餅１６８ｇ",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0536480.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量269.1大卡，本包裝含3份"
         },
         {
           "id": "family-0564134",
