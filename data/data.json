@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:17:03.261024+08:00",
+  "updated_at": "2026-09-24T08:42:21.319147+08:00",
   "stores": [
     {
       "id": "family",
@@ -3064,7 +3064,7 @@
         },
         {
           "id": "family-0289752",
-          "name": "日式溫泉蛋（區）",
+          "name": "日式溫泉蛋",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3103,7 +3103,7 @@
         },
         {
           "id": "family-0346009",
-          "name": "糖燻豬耳絲（區）",
+          "name": "糖燻豬耳絲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14686,7 +14686,7 @@
         },
         {
           "id": "family-1541527",
-          "name": "ＵＣＣ艾洛瑪紅茶咖啡",
+          "name": "UCC艾洛瑪紅茶咖啡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14816,7 +14816,7 @@
         },
         {
           "id": "family-1566349",
-          "name": "葡萄王益菌王ＥＸ順暢水",
+          "name": "葡萄王益菌王EX順暢水",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14829,7 +14829,7 @@
         },
         {
           "id": "family-1566371",
-          "name": "ＦＭＣ臺灣藍鵲茶蜜香紅茶",
+          "name": "FMC臺灣藍鵲茶蜜香紅茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
