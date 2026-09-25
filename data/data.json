@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:49:51.393963+08:00",
+  "updated_at": "2026-09-25T23:49:30.799853+08:00",
   "stores": [
     {
       "id": "family",
@@ -2283,19 +2283,6 @@
           "note": "熱量59.5大卡，本包裝含1份"
         },
         {
-          "id": "family-0668813",
-          "name": "富士蘋果單入袋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0668813.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-0668827",
           "name": "富士蘋果(截切)",
           "original_price": 0,
@@ -2866,6 +2853,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量15.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1370126",
+          "name": "台灣綠竹筍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1370126.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量25大卡，本包裝含1份"
         },
         {
           "id": "family-1408664",
