@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:48:16.684819+08:00",
+  "updated_at": "2026-09-26T23:48:53.191772+08:00",
   "stores": [
     {
       "id": "family",
@@ -1451,19 +1451,6 @@
           "note": "熱量659大卡，本包裝含1份"
         },
         {
-          "id": "family-1491524",
-          "name": "義式蛋蛋青醬鮪魚冷義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1491524.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量438大卡，本包裝含1份"
-        },
-        {
           "id": "family-1491942",
           "name": "蕃茄莎莎海鮮冷義大利麵",
           "original_price": 0,
@@ -1982,19 +1969,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量165大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1516576",
-          "name": "雙泰奶QQ三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1516576.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量170大卡，本包裝含1份"
         },
         {
           "id": "family-1521600",
@@ -4686,19 +4660,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量343大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1537235",
-          "name": "幻紫颶風Ube捲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537235.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量315.8大卡，本包裝含1份"
         },
         {
           "id": "family-1537730",
@@ -12800,19 +12761,6 @@
           "note": "熱量50大卡，本包裝含2份"
         },
         {
-          "id": "family-0467998",
-          "name": "鹼性離子水330ml",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0467998.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-0472486",
           "name": "FMC鮮榨西瓜汁",
           "original_price": 0,
@@ -19638,19 +19586,6 @@
           "note": "熱量394大卡，本包裝含1份"
         },
         {
-          "id": "family-1331815",
-          "name": "美味星吉伊卡哇棒棒糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1331815.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量119大卡，本包裝含1份"
-        },
-        {
           "id": "family-1338112",
           "name": "乖乖莓好Q軟糖",
           "original_price": 0,
@@ -22158,19 +22093,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量171.5大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3722705",
-          "name": "OG美味星棒棒糖-草莓",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3722705.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量119大卡，本包裝含1份"
         },
         {
           "id": "family-3722719",
@@ -25096,71 +25018,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量13.6大卡，本包裝含100份"
-        },
-        {
-          "id": "family-1179879",
-          "name": "台糖甜玉米3入組",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1179879.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量57.7大卡，本包裝含2份"
-        },
-        {
-          "id": "family-1180531",
-          "name": "珍珠玉米粒340gx3入",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1180531.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量71大卡，本包裝含4份"
-        },
-        {
-          "id": "family-1180559",
-          "name": "五木細關東麵家庭號",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1180559.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量262.2大卡，本包裝含14份"
-        },
-        {
-          "id": "family-1180563",
-          "name": "青葉麵筋3入組",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1180563.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量71.5大卡，本包裝含3份"
-        },
-        {
-          "id": "family-1180577",
-          "name": "萬家香味噌辣醬",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1180577.jpg",
-          "stock": "",
-          "category": "加工食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量13.2大卡，本包裝含22.5份"
         },
         {
           "id": "family-1188270",
