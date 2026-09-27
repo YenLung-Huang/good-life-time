@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T13:34:32.979083+08:00",
+  "updated_at": "2026-09-27T23:30:56.474582+08:00",
   "stores": [
     {
       "id": "family",
@@ -3451,19 +3451,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量248大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1353720",
-          "name": "鹹酥雞",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1353720.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量270大卡，本包裝含1份"
         },
         {
           "id": "family-1358207",
@@ -19246,19 +19233,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量153大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1247183",
-          "name": "軟Q乾酪球",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1247183.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量15.7大卡，本包裝含14份"
         },
         {
           "id": "family-1266086",
