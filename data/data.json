@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:58:54.790239+08:00",
+  "updated_at": "2026-09-29T14:45:38.621006+08:00",
   "stores": [
     {
       "id": "family",
@@ -7507,6 +7507,71 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量121.6大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531366",
+          "name": "特大冰黑糖ＱＱ鮮露紅茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531366.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量394大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531370",
+          "name": "特大冰黑糖ＱＱ白烏龍茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531370.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量394大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531384",
+          "name": "特大冰黑糖ＱＱ白奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531384.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量424大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531607",
+          "name": "特大冰黑糖ＱＱ紅奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531607.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量422大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531643",
+          "name": "膠—特大冰黑糖ＱＱ鮮露紅",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531643.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量394大卡，本包裝含1份"
         },
         {
           "id": "family-1537017",
