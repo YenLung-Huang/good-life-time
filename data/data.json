@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T09:50:01.481182+08:00",
+  "updated_at": "2026-09-30T15:59:53.192150+08:00",
   "stores": [
     {
       "id": "family",
@@ -603,7 +603,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量158大卡，本包裝含1份"
+          "note": "熱量166大卡，本包裝含1份"
         },
         {
           "id": "family-0247516",
@@ -7561,6 +7561,19 @@
           "note": "熱量422大卡，本包裝含1份"
         },
         {
+          "id": "family-1531625",
+          "name": "膠—特大冰黑糖ＱＱ白烏龍",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531625.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量394大卡，本包裝含1份"
+        },
+        {
           "id": "family-1531643",
           "name": "特大冰黑糖QQ鮮露紅",
           "original_price": 0,
@@ -7572,6 +7585,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量394大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531689",
+          "name": "膠—特大冰黑糖ＱＱ鮮露奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531689.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量424大卡，本包裝含1份"
         },
         {
           "id": "family-1537017",
@@ -12359,7 +12385,7 @@
         },
         {
           "id": "family-2850058",
-          "name": "AB優酪乳原味(鈣含量：206毫克/份)",
+          "name": "AB優酪乳原味(鈣含量每份206毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21079,6 +21105,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1563705",
+          "name": "纖脆卷—秀威米爆花焦糖風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1563705.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量141.1大卡，本包裝含1份"
         },
         {
           "id": "family-1640010",
