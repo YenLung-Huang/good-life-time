@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T10:19:19.054911+08:00",
+  "updated_at": "2026-10-01T17:15:39.899214+08:00",
   "stores": [
     {
       "id": "family",
@@ -5014,7 +5014,7 @@
         },
         {
           "id": "family-2620283",
-          "name": "福樂頂級希臘式優格",
+          "name": "福樂頂級希臘式優格(鈣含量每份182毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5053,7 +5053,7 @@
         },
         {
           "id": "family-2620483",
-          "name": "林鳳營無加糖特濃重乳優格(多元補鈣)",
+          "name": "林鳳營無加糖特濃重乳優格(鈣含量每份228毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11488,7 +11488,7 @@
         },
         {
           "id": "family-0557094",
-          "name": "福樂一番鮮全脂鮮乳936ml(多元補鈣)",
+          "name": "福樂一番鮮全脂鮮乳936ml(鈣含量每份234毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11514,7 +11514,7 @@
         },
         {
           "id": "family-0618490",
-          "name": "光泉高鈣牛乳(多元補鈣)",
+          "name": "光泉高鈣牛乳(鈣含量每份432毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11566,7 +11566,7 @@
         },
         {
           "id": "family-0791315",
-          "name": "義美無乳糖全脂鮮乳220ml(多元補鈣)",
+          "name": "義美無乳糖全脂鮮乳220ml(鈣含量每份234毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11631,7 +11631,7 @@
         },
         {
           "id": "family-1116106",
-          "name": "味全高鈣高蛋白雙效營養牛乳(多元補鈣)",
+          "name": "味全高鈣高蛋白雙效營養牛乳(鈣含量每份713毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11891,7 +11891,7 @@
         },
         {
           "id": "family-2710189",
-          "name": "義美全脂鮮乳946ml(多元補鈣)",
+          "name": "義美全脂鮮乳946ml(鈣含量每份251毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11917,7 +11917,7 @@
         },
         {
           "id": "family-2716012",
-          "name": "瑞穗全脂鮮乳930ml(多元補鈣)",
+          "name": "瑞穗全脂鮮乳930ml(鈣含量每份110毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11930,7 +11930,7 @@
         },
         {
           "id": "family-2716030",
-          "name": "光泉全脂鮮乳936ml(多元補鈣)",
+          "name": "光泉全脂鮮乳936ml(鈣含量每份312毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11943,7 +11943,7 @@
         },
         {
           "id": "family-2720013",
-          "name": "乳香世家全脂鮮奶440ml(多元補鈣)",
+          "name": "乳香世家全脂鮮奶440ml(鈣含量每份440毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11969,7 +11969,7 @@
         },
         {
           "id": "family-2720045",
-          "name": "乳香世家全脂鮮乳220ml(多元補鈣)",
+          "name": "乳香世家全脂鮮乳220ml(鈣含量每份220毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11982,7 +11982,7 @@
         },
         {
           "id": "family-2720059",
-          "name": "義美全脂鮮乳236ml(多元補鈣)",
+          "name": "義美全脂鮮乳236ml(鈣含量每份250毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12008,7 +12008,7 @@
         },
         {
           "id": "family-2720095",
-          "name": "鮮乳坊嘉明鮮乳(多元補鈣)",
+          "name": "鮮乳坊嘉明鮮乳(鈣含量每份210毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12021,7 +12021,7 @@
         },
         {
           "id": "family-2720104",
-          "name": "義美全脂鮮乳290ml(多元補鈣)",
+          "name": "義美全脂鮮乳290ml(鈣含量每份307毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12034,7 +12034,7 @@
         },
         {
           "id": "family-2720118",
-          "name": "光泉全脂鮮乳290ml(多元補鈣)",
+          "name": "光泉全脂鮮乳290ml(鈣含量每份290毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12047,7 +12047,7 @@
         },
         {
           "id": "family-2720122",
-          "name": "瑞穗全脂鮮奶290ml(多元補鈣)",
+          "name": "瑞穗全脂鮮奶290ml(鈣含量每份110毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12060,7 +12060,7 @@
         },
         {
           "id": "family-2720168",
-          "name": "牧場直送鮮乳375ml(多元補鈣)",
+          "name": "牧場直送鮮乳375ml(鈣含量每份375毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12086,7 +12086,7 @@
         },
         {
           "id": "family-2740112",
-          "name": "光泉低脂鮮乳936ml(多元補鈣)",
+          "name": "光泉低脂鮮乳936ml(鈣含量每份312毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12112,7 +12112,7 @@
         },
         {
           "id": "family-2750105",
-          "name": "光泉低脂鮮乳290ml(多元補鈣)",
+          "name": "光泉低脂鮮乳290ml(鈣含量每份290毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12125,7 +12125,7 @@
         },
         {
           "id": "family-2750119",
-          "name": "瑞穗低脂鮮乳290ml(多元補鈣)",
+          "name": "瑞穗低脂鮮乳290ml(鈣含量每份110毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12463,7 +12463,7 @@
         },
         {
           "id": "family-2850094",
-          "name": "光泉香濃牛奶優酪乳(多元補鈣)",
+          "name": "光泉香濃牛奶優酪乳(鈣含量每份200毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12528,7 +12528,7 @@
         },
         {
           "id": "family-2850785",
-          "name": "AB優酪乳無加糖(多元補鈣)",
+          "name": "AB優酪乳無加糖(鈣含量每份216毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13035,7 +13035,7 @@
         },
         {
           "id": "family-0474274",
-          "name": "光泉高鈣鮮豆漿(多元補鈣)",
+          "name": "光泉高鈣鮮豆漿(鈣含量每份585毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13594,7 +13594,7 @@
         },
         {
           "id": "family-1055932",
-          "name": "義美無加糖高鈣豆奶(多元補鈣)",
+          "name": "義美無加糖高鈣豆奶(鈣含量每份416毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -17949,7 +17949,7 @@
         },
         {
           "id": "family-0065071",
-          "name": "萬歲牌無調味綜合果(多元補鈣)",
+          "name": "萬歲牌無調味綜合果(鈣含量每份30.2毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19066,6 +19066,19 @@
           "note": "熱量85.1大卡，本包裝含1份"
         },
         {
+          "id": "family-1035097",
+          "name": "紅切達起司棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1035097.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量113大卡，本包裝含1份"
+        },
+        {
           "id": "family-1037235",
           "name": "AW無糖微冰藍莓口香糖28g",
           "original_price": 0,
@@ -20029,7 +20042,7 @@
         },
         {
           "id": "family-1416928",
-          "name": "櫛瓜蔬菜堅果(多元補鈣)",
+          "name": "櫛瓜蔬菜堅果(鈣含量每份23.1毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21134,7 +21147,7 @@
         },
         {
           "id": "family-1561371",
-          "name": "特選甘栗55g",
+          "name": "特選甘栗55g(鈣含量每份6.1毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21147,7 +21160,7 @@
         },
         {
           "id": "family-1561662",
-          "name": "紅棗綜合堅果",
+          "name": "紅棗綜合堅果(鈣含量每份19.8毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21160,7 +21173,7 @@
         },
         {
           "id": "family-1561694",
-          "name": "高蛋白質綜合堅果",
+          "name": "高蛋白質綜合堅果(鈣含量每份43.2毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -23981,7 +23994,7 @@
         },
         {
           "id": "family-4030076",
-          "name": "杏仁小魚50g(多元補鈣)",
+          "name": "杏仁小魚50g(鈣含量每份139毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24917,7 +24930,7 @@
         },
         {
           "id": "family-0664528",
-          "name": "莓果堅果亞麻仁燕麥",
+          "name": "莓果堅果亞麻仁燕麥(鈣含量每份38.5毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25502,7 +25515,7 @@
         },
         {
           "id": "family-1431895",
-          "name": "堅穀力莓果口味",
+          "name": "堅穀力莓果口味(鈣含量每份24.2毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -28648,7 +28661,7 @@
         },
         {
           "id": "family-4950127",
-          "name": "森永維他命in果凍(多元補鈣)",
+          "name": "森永維他命in果凍(鈣含量每份54毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -28687,7 +28700,7 @@
         },
         {
           "id": "family-4950727",
-          "name": "森永礦物質in果凍(多元補鈣)",
+          "name": "森永礦物質in果凍(鈣含量每份270毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
