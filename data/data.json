@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T14:55:27.983329+08:00",
+  "updated_at": "2026-10-02T21:34:52.462682+08:00",
   "stores": [
     {
       "id": "family",
@@ -633,7 +633,7 @@
         },
         {
           "id": "family-0327233",
-          "name": "星-鐵板滑蛋炸豬排丼",
+          "name": "鐵板滑蛋炸豬排丼",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -1033,19 +1033,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1150803",
-          "name": "香菇雞粥",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1150803.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量282大卡，本包裝含1份"
         },
         {
           "id": "family-1215394",
@@ -1553,19 +1540,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量626大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1535229",
-          "name": "嫩烤魚排佐花椰菜義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1535229.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量438大卡，本包裝含1份"
         },
         {
           "id": "family-1535233",
@@ -2190,6 +2164,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-0327629",
+          "name": "厚蛋時蔬握沙拉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0327629.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量226大卡，本包裝含1份"
         },
         {
           "id": "family-0328552",
@@ -14462,19 +14449,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量0大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1461587",
-          "name": "可果美南高梅蕃茄綜合果蔬汁　",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1461587.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量117.2大卡，本包裝含1份"
         },
         {
           "id": "family-1461650",
