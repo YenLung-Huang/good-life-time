@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T08:59:29.441768+08:00",
+  "updated_at": "2026-10-02T14:55:27.983329+08:00",
   "stores": [
     {
       "id": "family",
@@ -607,7 +607,7 @@
         },
         {
           "id": "family-0226225",
-          "name": "香辣醬香腸蛋炒飯",
+          "name": "香辣醬蒜味香腸蛋炒飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4090,19 +4090,6 @@
           "note": "熱量108大卡，本包裝含1份"
         },
         {
-          "id": "family-0136692",
-          "name": "光泉百香蜜桃雙格優酪",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0136692.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量94.4大卡，本包裝含1份"
-        },
-        {
           "id": "family-0136733",
           "name": "光泉森林莓果雙格優酪",
           "original_price": 0,
@@ -4946,19 +4933,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量175大卡，本包裝含1份"
-        },
-        {
-          "id": "family-2620051",
-          "name": "光泉莓果穀物脆片鮮奶優格",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2620051.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量80.8大卡，本包裝含1份"
         },
         {
           "id": "family-2620079",
@@ -11358,7 +11332,7 @@
         },
         {
           "id": "family-0063988",
-          "name": "牧場直送4.0鮮乳1858ml(多元補鈣)",
+          "name": "牧場直送4.0鮮乳1858ml(鈣含量每份372毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -11813,7 +11787,7 @@
         },
         {
           "id": "family-2710052",
-          "name": "乳香世家全脂鮮乳936ml(多元補鈣)",
+          "name": "乳香世家全脂鮮乳936ml(鈣含量每份312毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21186,7 +21160,7 @@
         },
         {
           "id": "family-1640010",
-          "name": "高鈣低脂起司(多元補鈣)",
+          "name": "高鈣低脂起司(鈣含量每份250毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21199,7 +21173,7 @@
         },
         {
           "id": "family-1640115",
-          "name": "高鈣原味起司(多元補鈣)",
+          "name": "高鈣原味起司(鈣含量每份283毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
