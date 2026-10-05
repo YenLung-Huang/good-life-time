@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T12:09:26.424551+08:00",
+  "updated_at": "2026-10-05T19:28:14.800590+08:00",
   "stores": [
     {
       "id": "family",
@@ -1370,7 +1370,7 @@
           "category": "主餐麵食",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量707大卡，本包裝含1份"
+          "note": "熱量724大卡，本包裝含1份"
         },
         {
           "id": "family-1465004",
@@ -4962,7 +4962,7 @@
         },
         {
           "id": "family-2620283",
-          "name": "福樂頂級希臘式優格(鈣含量每份182毫克)",
+          "name": "福樂頂級希臘式優格",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -12385,7 +12385,7 @@
         },
         {
           "id": "family-2850094",
-          "name": "光泉香濃牛奶優酪乳(鈣含量每份200毫克)",
+          "name": "光泉原味優酪乳(鈣含量每份200毫克)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21056,7 +21056,7 @@
         },
         {
           "id": "family-1561371",
-          "name": "特選甘栗55g(鈣含量每份6.1毫克)",
+          "name": "特選甘栗55g",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21069,7 +21069,7 @@
         },
         {
           "id": "family-1561662",
-          "name": "紅棗綜合堅果(鈣含量每份19.8毫克)",
+          "name": "紅棗綜合堅果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21082,7 +21082,7 @@
         },
         {
           "id": "family-1561694",
-          "name": "高蛋白質綜合堅果(鈣含量每份43.2毫克)",
+          "name": "高蛋白質綜合堅果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21092,6 +21092,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1563696",
+          "name": "纖脆卷—哈庫納瑪辣塔塔風味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1563696.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量133.7大卡，本包裝含1份"
         },
         {
           "id": "family-1563705",
@@ -24839,7 +24852,7 @@
         },
         {
           "id": "family-0664528",
-          "name": "莓果堅果亞麻仁燕麥(鈣含量每份38.5毫克)",
+          "name": "莓果堅果亞麻仁燕麥",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25424,7 +25437,7 @@
         },
         {
           "id": "family-1431895",
-          "name": "堅穀力莓果口味(鈣含量每份24.2毫克)",
+          "name": "堅穀力莓果口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
