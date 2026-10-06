@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T08:58:01.909875+08:00",
+  "updated_at": "2026-10-06T15:23:46.238381+08:00",
   "stores": [
     {
       "id": "family",
@@ -3996,7 +3996,7 @@
           "category": "小菜、滷味、湯品",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量154大卡，本包裝含1份"
+          "note": "熱量133.8大卡，本包裝含1份"
         },
         {
           "id": "family-1631100",
@@ -7611,6 +7611,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量394大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1531661",
+          "name": "膠—特大冰黑糖ＱＱ烏龍奶茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1531661.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量425大卡，本包裝含1份"
         },
         {
           "id": "family-1531689",
@@ -11848,7 +11861,7 @@
           "category": "乳製品",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量164大卡，本包裝含4份"
+          "note": "熱量155大卡，本包裝含4份"
         },
         {
           "id": "family-2710666",
