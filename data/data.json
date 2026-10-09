@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T15:17:18.960887+08:00",
+  "updated_at": "2026-10-09T22:29:14.633250+08:00",
   "stores": [
     {
       "id": "family",
@@ -2021,19 +2021,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量211大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1557116",
-          "name": "墨西哥辣醬熱狗堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1557116.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量409大卡，本包裝含1份"
         },
         {
           "id": "family-1575227",
@@ -21471,6 +21458,32 @@
           "note": "熱量411大卡，本包裝含1份"
         },
         {
+          "id": "family-1593229",
+          "name": "ＢｏｎＯＢｏｎ草莓口味可可球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1593229.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量86大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1593233",
+          "name": "ＢｏｎＯＢｏｎ巧克力口味可可球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1593233.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量87大卡，本包裝含1份"
+        },
+        {
           "id": "family-1640010",
           "name": "高鈣低脂起司(鈣含量每份250毫克)",
           "original_price": 0,
@@ -28619,19 +28632,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量16.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-4810408",
-          "name": "老協珍暖薑口味熬雞精",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.4810408.jpg",
-          "stock": "",
-          "category": "營養食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量15.6大卡，本包裝含1份"
         },
         {
           "id": "family-4810476",
