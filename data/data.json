@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T17:25:20.407444+08:00",
+  "updated_at": "2026-10-10T23:30:38.730755+08:00",
   "stores": [
     {
       "id": "family",
@@ -1605,19 +1605,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量521大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1548410",
-          "name": "叉燒蛋炒飯",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548410.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量758大卡，本包裝含1份"
         },
         {
           "id": "family-1548656",
