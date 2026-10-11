@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T15:49:50.965096+08:00",
+  "updated_at": "2026-10-11T22:38:46.617791+08:00",
   "stores": [
     {
       "id": "family",
@@ -385,19 +385,6 @@
           "note": "熱量330大卡，本包裝含1份"
         },
         {
-          "id": "family-1465018",
-          "name": "明太子生鮭飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1465018.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量162大卡，本包裝含1份"
-        },
-        {
           "id": "family-1476752",
           "name": "香辣醬雞肉炒飯飯糰",
           "original_price": 0,
@@ -591,19 +578,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量171大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1567286",
-          "name": "陽光蔬彩雙手卷",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1567286.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量283大卡，本包裝含1份"
         },
         {
           "id": "family-1567436",
@@ -17803,19 +17777,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量122大卡，本包裝含3份"
-        },
-        {
-          "id": "family-0065108",
-          "name": "湖池屋北海道玉米濃湯洋芋片",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0065108.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含2份"
         },
         {
           "id": "family-0124007",
