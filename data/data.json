@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T06:54:46.254051+08:00",
+  "updated_at": "2026-10-12T17:11:19.521056+08:00",
   "stores": [
     {
       "id": "family",
@@ -21404,6 +21404,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量411大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1590144",
+          "name": "Ｇｈａｎａ可可棒（花生風味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1590144.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量215大卡，本包裝含1份"
         },
         {
           "id": "family-1593229",
