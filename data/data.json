@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T09:20:55.988524+08:00",
+  "updated_at": "2026-10-13T16:06:26.009389+08:00",
   "stores": [
     {
       "id": "family",
@@ -5703,7 +5703,7 @@
         },
         {
           "id": "family-1585983",
-          "name": "二配滿滿奶霜紅豆麵包",
+          "name": "滿滿奶霜紅豆麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5716,7 +5716,7 @@
         },
         {
           "id": "family-1586034",
-          "name": "二配滿滿奶霜芋頭麵包",
+          "name": "滿滿奶霜芋頭麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
