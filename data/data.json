@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T13:11:11.715925+08:00",
+  "updated_at": "2026-10-14T18:13:32.525917+08:00",
   "stores": [
     {
       "id": "family",
@@ -513,6 +513,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量182大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1554518",
+          "name": "燒肉烤米堡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1554518.jpg",
+          "stock": "",
+          "category": "壽司手卷飯糰",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量396大卡，本包裝含1份"
         },
         {
           "id": "family-1558326",
@@ -1566,6 +1579,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量462大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548660",
+          "name": "義式蒜香鮮蝦義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548660.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量528大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1548674",
+          "name": "卡波納拉義大利麵",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1548674.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量560大卡，本包裝含1份"
         },
         {
           "id": "family-1549098",
@@ -9756,6 +9795,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量168.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1546222",
+          "name": "冰結X杜老爺鹽荔枝風味脆冰棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1546222.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量61大卡，本包裝含1份"
         },
         {
           "id": "family-1546804",
@@ -33782,7 +33834,7 @@
           "original_price": 149,
           "friendly_price": 74,
           "discount_percent": 50,
-          "image_url": "https://www.7-11.com.tw/freshfoods/images/Noodles_272.png",
+          "image_url": "https://www.7-11.com.tw/freshfoods/images/Noodles_273.png",
           "stock": "",
           "category": "category_7",
           "store_name": "7-11",
@@ -37509,7 +37561,7 @@
         },
         {
           "id": "seven-17-640",
-          "name": "瑪格麗特義大利麵",
+          "name": "瑪格麗特筆管麵",
           "original_price": 99,
           "friendly_price": 49,
           "discount_percent": 50,
@@ -37626,19 +37678,6 @@
         },
         {
           "id": "seven-17-649",
-          "name": "瑪格麗特筆管麵",
-          "original_price": 99,
-          "friendly_price": 49,
-          "discount_percent": 50,
-          "image_url": "https://www.7-11.com.tw/freshfoods/images/ohlala_139.png",
-          "stock": "",
-          "category": "category_17",
-          "store_name": "7-11",
-          "address": "",
-          "note": "632"
-        },
-        {
-          "id": "seven-17-650",
           "name": "蝦仁白醬焗烤飯",
           "original_price": 99,
           "friendly_price": 49,
@@ -37651,7 +37690,7 @@
           "note": "567"
         },
         {
-          "id": "seven-17-651",
+          "id": "seven-17-650",
           "name": "海鮮青醬焗飯",
           "original_price": 89,
           "friendly_price": 44,
@@ -37664,7 +37703,7 @@
           "note": "490"
         },
         {
-          "id": "seven-17-652",
+          "id": "seven-17-651",
           "name": "青醬蛤蠣義大利麵",
           "original_price": 89,
           "friendly_price": 44,
@@ -37677,7 +37716,7 @@
           "note": "666"
         },
         {
-          "id": "seven-17-653",
+          "id": "seven-17-652",
           "name": "烤雞奶香焗飯",
           "original_price": 89,
           "friendly_price": 44,
@@ -37690,7 +37729,7 @@
           "note": "642"
         },
         {
-          "id": "seven-17-654",
+          "id": "seven-17-653",
           "name": "SAY CHEESE培根筆管麵",
           "original_price": 89,
           "friendly_price": 44,
@@ -37703,7 +37742,7 @@
           "note": "733"
         },
         {
-          "id": "seven-17-655",
+          "id": "seven-17-654",
           "name": "香蒜奶油雙拼義大利麵",
           "original_price": 79,
           "friendly_price": 39,
@@ -37716,7 +37755,7 @@
           "note": "646"
         },
         {
-          "id": "seven-17-656",
+          "id": "seven-17-655",
           "name": "雙拼起司紅醬焗飯",
           "original_price": 89,
           "friendly_price": 44,
@@ -37729,7 +37768,7 @@
           "note": "684"
         },
         {
-          "id": "seven-17-657",
+          "id": "seven-17-656",
           "name": "義式蕃茄肉醬義大利麵",
           "original_price": 79,
           "friendly_price": 39,
@@ -37742,7 +37781,7 @@
           "note": "609"
         },
         {
-          "id": "seven-18-658",
+          "id": "seven-18-657",
           "name": "祥和茄燒蔬食湯麵",
           "original_price": 119,
           "friendly_price": 59,
@@ -37755,7 +37794,7 @@
           "note": "470"
         },
         {
-          "id": "seven-18-659",
+          "id": "seven-18-658",
           "name": "雲川水月彩蔬參巴拌飯",
           "original_price": 99,
           "friendly_price": 49,
@@ -37768,7 +37807,7 @@
           "note": "501"
         },
         {
-          "id": "seven-18-660",
+          "id": "seven-18-659",
           "name": "陽明春天香辣豆腐拌麵",
           "original_price": 89,
           "friendly_price": 44,
@@ -37781,7 +37820,7 @@
           "note": "470"
         },
         {
-          "id": "seven-18-661",
+          "id": "seven-18-660",
           "name": "香鬆紫米風味飯糰",
           "original_price": 49,
           "friendly_price": 24,
@@ -37794,7 +37833,7 @@
           "note": "396"
         },
         {
-          "id": "seven-18-662",
+          "id": "seven-18-661",
           "name": "小小樹食松露蕈菇燉飯",
           "original_price": 89,
           "friendly_price": 44,
@@ -37807,7 +37846,7 @@
           "note": "598"
         },
         {
-          "id": "seven-18-663",
+          "id": "seven-18-662",
           "name": "陽明春天南洋咖哩燴飯",
           "original_price": 89,
           "friendly_price": 44,
@@ -37820,7 +37859,7 @@
           "note": "653"
         },
         {
-          "id": "seven-18-664",
+          "id": "seven-18-663",
           "name": "日式豆皮蕎麥風味冷麵",
           "original_price": 65,
           "friendly_price": 32,
@@ -37833,7 +37872,7 @@
           "note": "387"
         },
         {
-          "id": "seven-18-665",
+          "id": "seven-18-664",
           "name": "椒鹽蔬食香雞排",
           "original_price": 69,
           "friendly_price": 34,
@@ -37846,7 +37885,7 @@
           "note": "435.5"
         },
         {
-          "id": "seven-18-666",
+          "id": "seven-18-665",
           "name": "波隆那風植物肉醬義大利麵",
           "original_price": 79,
           "friendly_price": 39,
@@ -37859,7 +37898,7 @@
           "note": "481"
         },
         {
-          "id": "seven-18-667",
+          "id": "seven-18-666",
           "name": "烘蛋植肉堡",
           "original_price": 69,
           "friendly_price": 34,
@@ -37872,7 +37911,7 @@
           "note": "426"
         },
         {
-          "id": "seven-18-668",
+          "id": "seven-18-667",
           "name": "祥和塔香香鬆飯糰",
           "original_price": 28,
           "friendly_price": 14,
@@ -37885,7 +37924,7 @@
           "note": "230"
         },
         {
-          "id": "seven-18-669",
+          "id": "seven-18-668",
           "name": "小小樹食彩蔬青醬義大利麵",
           "original_price": 89,
           "friendly_price": 44,
@@ -37898,7 +37937,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-670",
+          "id": "seven-18-669",
           "name": "經典台式炊粉",
           "original_price": 69,
           "friendly_price": 34,
@@ -37911,7 +37950,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-671",
+          "id": "seven-18-670",
           "name": "高鐵-植感風蛋白餐",
           "original_price": 99,
           "friendly_price": 49,
@@ -37924,7 +37963,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-672",
+          "id": "seven-18-671",
           "name": "金沙烤豆腐義大利麵",
           "original_price": 89,
           "friendly_price": 44,
@@ -37937,7 +37976,7 @@
           "note": "600"
         },
         {
-          "id": "seven-18-673",
+          "id": "seven-18-672",
           "name": "黃金紫玉地瓜三明治",
           "original_price": 49,
           "friendly_price": 24,
@@ -37950,7 +37989,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-674",
+          "id": "seven-18-673",
           "name": "金黃起司香鬆蛋三明治",
           "original_price": 39,
           "friendly_price": 19,
@@ -37963,7 +38002,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-675",
+          "id": "seven-18-674",
           "name": "麻油菇菇油飯",
           "original_price": 59,
           "friendly_price": 29,
@@ -37976,7 +38015,7 @@
           "note": "469"
         },
         {
-          "id": "seven-18-676",
+          "id": "seven-18-675",
           "name": "輕滷時蔬",
           "original_price": 49,
           "friendly_price": 24,
@@ -37989,7 +38028,7 @@
           "note": "43"
         },
         {
-          "id": "seven-18-677",
+          "id": "seven-18-676",
           "name": "堅果蘑菇青醬義大利麵",
           "original_price": 79,
           "friendly_price": 39,
@@ -38002,7 +38041,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-678",
+          "id": "seven-18-677",
           "name": "火腿醬香炒飯",
           "original_price": 79,
           "friendly_price": 39,
@@ -38015,7 +38054,7 @@
           "note": "645"
         },
         {
-          "id": "seven-18-679",
+          "id": "seven-18-678",
           "name": "隨緣川味時蔬炒飯",
           "original_price": 79,
           "friendly_price": 39,
@@ -38028,7 +38067,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-680",
+          "id": "seven-18-679",
           "name": "隨緣白醬松露義大利麵",
           "original_price": 79,
           "friendly_price": 39,
@@ -38041,7 +38080,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-681",
+          "id": "seven-18-680",
           "name": "塔香鹹蔬雞球（全素）",
           "original_price": 49,
           "friendly_price": 24,
@@ -38054,7 +38093,7 @@
           "note": ""
         },
         {
-          "id": "seven-18-682",
+          "id": "seven-18-681",
           "name": "塔香杏鮑菇飯糰",
           "original_price": 39,
           "friendly_price": 19,
@@ -38067,7 +38106,7 @@
           "note": "215"
         },
         {
-          "id": "seven-18-683",
+          "id": "seven-18-682",
           "name": "陽明春天菇菇毛豆飯糰",
           "original_price": 39,
           "friendly_price": 19,
@@ -38080,7 +38119,7 @@
           "note": "202"
         },
         {
-          "id": "seven-18-684",
+          "id": "seven-18-683",
           "name": "陽明春天野菇炊飯飯糰",
           "original_price": 36,
           "friendly_price": 18,
@@ -38093,7 +38132,7 @@
           "note": "213"
         },
         {
-          "id": "seven-18-685",
+          "id": "seven-18-684",
           "name": "陽明春天古早味香菇竹筍粥",
           "original_price": 69,
           "friendly_price": 34,
@@ -38106,7 +38145,7 @@
           "note": "189"
         },
         {
-          "id": "seven-18-686",
+          "id": "seven-18-685",
           "name": "麻油菇菇拌飯",
           "original_price": 79,
           "friendly_price": 39,
@@ -38119,7 +38158,7 @@
           "note": "369"
         },
         {
-          "id": "seven-18-687",
+          "id": "seven-18-686",
           "name": "香辣堅果蛋炒飯",
           "original_price": 79,
           "friendly_price": 39,
@@ -38132,7 +38171,7 @@
           "note": "585"
         },
         {
-          "id": "seven-18-688",
+          "id": "seven-18-687",
           "name": "油香椒麻蒟蒻(全素)",
           "original_price": 69,
           "friendly_price": 34,
@@ -38145,7 +38184,7 @@
           "note": "170"
         },
         {
-          "id": "seven-18-689",
+          "id": "seven-18-688",
           "name": "弘揚植物肉青花椒熟水餃",
           "original_price": 45,
           "friendly_price": 22,
@@ -38158,7 +38197,7 @@
           "note": "206"
         },
         {
-          "id": "seven-18-690",
+          "id": "seven-18-689",
           "name": "弘陽-植物肉玉米熟水餃",
           "original_price": 45,
           "friendly_price": 22,
@@ -38171,7 +38210,7 @@
           "note": "210"
         },
         {
-          "id": "seven-18-691",
+          "id": "seven-18-690",
           "name": "桂冠素三杯炒飯",
           "original_price": 79,
           "friendly_price": 39,
@@ -38184,7 +38223,7 @@
           "note": "620"
         },
         {
-          "id": "seven-18-692",
+          "id": "seven-18-691",
           "name": "松珍素鮮嫩炸雞塊",
           "original_price": 49,
           "friendly_price": 24,
@@ -38197,7 +38236,7 @@
           "note": "200"
         },
         {
-          "id": "seven-18-693",
+          "id": "seven-18-692",
           "name": "松珍素花枝丸",
           "original_price": 49,
           "friendly_price": 24,
@@ -38210,7 +38249,7 @@
           "note": "133"
         },
         {
-          "id": "seven-19-694",
+          "id": "seven-19-693",
           "name": "胡椒餅風味",
           "original_price": 70,
           "friendly_price": 35,
@@ -38223,7 +38262,7 @@
           "note": "230"
         },
         {
-          "id": "seven-19-695",
+          "id": "seven-19-694",
           "name": "厚起司蛋",
           "original_price": 65,
           "friendly_price": 32,
@@ -38236,7 +38275,7 @@
           "note": "333"
         },
         {
-          "id": "seven-19-696",
+          "id": "seven-19-695",
           "name": "紐約客辣味熱狗",
           "original_price": 65,
           "friendly_price": 32,
@@ -38249,7 +38288,7 @@
           "note": "403"
         },
         {
-          "id": "seven-19-697",
+          "id": "seven-19-696",
           "name": "丹麥鮪魚起司",
           "original_price": 60,
           "friendly_price": 30,
@@ -38262,7 +38301,7 @@
           "note": "357"
         },
         {
-          "id": "seven-19-698",
+          "id": "seven-19-697",
           "name": "醬燒炙烤牛",
           "original_price": 70,
           "friendly_price": 35,
@@ -38275,7 +38314,7 @@
           "note": "235"
         },
         {
-          "id": "seven-19-699",
+          "id": "seven-19-698",
           "name": "紐奧良風味烤雞",
           "original_price": 65,
           "friendly_price": 32,
@@ -38288,7 +38327,7 @@
           "note": "323"
         },
         {
-          "id": "seven-19-700",
+          "id": "seven-19-699",
           "name": "爆漿起司",
           "original_price": 60,
           "friendly_price": 30,
@@ -38301,7 +38340,7 @@
           "note": "313"
         },
         {
-          "id": "seven-19-701",
+          "id": "seven-19-700",
           "name": "里肌肉蛋",
           "original_price": 65,
           "friendly_price": 32,
@@ -38314,7 +38353,7 @@
           "note": "287"
         },
         {
-          "id": "seven-19-702",
+          "id": "seven-19-701",
           "name": "丹麥紅豆麻糬",
           "original_price": 55,
           "friendly_price": 27,
@@ -38327,7 +38366,7 @@
           "note": "319"
         },
         {
-          "id": "seven-19-703",
+          "id": "seven-19-702",
           "name": "阜杭豆漿-蔥蛋厚燒餅",
           "original_price": 60,
           "friendly_price": 30,
@@ -38340,7 +38379,7 @@
           "note": "406"
         },
         {
-          "id": "seven-21-704",
+          "id": "seven-21-703",
           "name": "乖乖奶油椰子霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38353,7 +38392,7 @@
           "note": "155.7"
         },
         {
-          "id": "seven-21-705",
+          "id": "seven-21-704",
           "name": "甘王草莓卡士達霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38366,7 +38405,7 @@
           "note": "173.7"
         },
         {
-          "id": "seven-21-706",
+          "id": "seven-21-705",
           "name": "橙香雪貝霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38379,7 +38418,7 @@
           "note": "164.7"
         },
         {
-          "id": "seven-21-707",
+          "id": "seven-21-706",
           "name": "可爾必思水蜜桃霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38392,7 +38431,7 @@
           "note": "171.5"
         },
         {
-          "id": "seven-21-708",
+          "id": "seven-21-707",
           "name": "甜鹽蜜語牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38405,7 +38444,7 @@
           "note": "191.37"
         },
         {
-          "id": "seven-21-709",
+          "id": "seven-21-708",
           "name": "日東紅茶皇家奶茶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38418,7 +38457,7 @@
           "note": "175.7"
         },
         {
-          "id": "seven-21-710",
+          "id": "seven-21-709",
           "name": "香檳葡萄霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38431,7 +38470,7 @@
           "note": "173"
         },
         {
-          "id": "seven-21-711",
+          "id": "seven-21-710",
           "name": "黑芝麻牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38444,7 +38483,7 @@
           "note": "186"
         },
         {
-          "id": "seven-21-712",
+          "id": "seven-21-711",
           "name": "藍莓起司霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38457,7 +38496,7 @@
           "note": "192"
         },
         {
-          "id": "seven-21-713",
+          "id": "seven-21-712",
           "name": "開心果霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38470,7 +38509,7 @@
           "note": "191"
         },
         {
-          "id": "seven-21-714",
+          "id": "seven-21-713",
           "name": "玫瑰鹽濃焦糖霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38483,7 +38522,7 @@
           "note": "186"
         },
         {
-          "id": "seven-21-715",
+          "id": "seven-21-714",
           "name": "Binggrae香蕉牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38496,7 +38535,7 @@
           "note": "151"
         },
         {
-          "id": "seven-21-716",
+          "id": "seven-21-715",
           "name": "統一木瓜牛乳霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38509,7 +38548,7 @@
           "note": "166.1"
         },
         {
-          "id": "seven-21-717",
+          "id": "seven-21-716",
           "name": "水蜜桃牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38522,7 +38561,7 @@
           "note": "178.78"
         },
         {
-          "id": "seven-21-718",
+          "id": "seven-21-717",
           "name": "海鹽蜂蜜牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38535,7 +38574,7 @@
           "note": "191.37"
         },
         {
-          "id": "seven-21-719",
+          "id": "seven-21-718",
           "name": "可爾必思牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38548,7 +38587,7 @@
           "note": "159.5"
         },
         {
-          "id": "seven-21-720",
+          "id": "seven-21-719",
           "name": "芋香牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38561,7 +38600,7 @@
           "note": "154.7"
         },
         {
-          "id": "seven-21-721",
+          "id": "seven-21-720",
           "name": "不知火橘霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38574,7 +38613,7 @@
           "note": "164.7"
         },
         {
-          "id": "seven-21-722",
+          "id": "seven-21-721",
           "name": "義美牛奶霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38587,7 +38626,7 @@
           "note": "248.2"
         },
         {
-          "id": "seven-21-723",
+          "id": "seven-21-722",
           "name": "泰濃郁！奶茶風味霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38600,7 +38639,7 @@
           "note": "171.7"
         },
         {
-          "id": "seven-21-724",
+          "id": "seven-21-723",
           "name": "夏日芒芒芒果風味霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38613,7 +38652,7 @@
           "note": "199"
         },
         {
-          "id": "seven-21-725",
+          "id": "seven-21-724",
           "name": " 加點蜜桃風味霜淇淋",
           "original_price": 59,
           "friendly_price": 29,
@@ -38626,7 +38665,7 @@
           "note": "246.3"
         },
         {
-          "id": "seven-21-726",
+          "id": "seven-21-725",
           "name": "蜜桃風味霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38639,7 +38678,7 @@
           "note": "199.9"
         },
         {
-          "id": "seven-21-727",
+          "id": "seven-21-726",
           "name": "酷黑岩鹽牛奶糖風味霜淇淋(脆餅)",
           "original_price": 59,
           "friendly_price": 29,
@@ -38652,7 +38691,7 @@
           "note": "223.3"
         },
         {
-          "id": "seven-21-728",
+          "id": "seven-21-727",
           "name": "酷黑岩鹽牛奶糖風味霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38665,7 +38704,7 @@
           "note": "202"
         },
         {
-          "id": "seven-21-729",
+          "id": "seven-21-728",
           "name": "布丁霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38678,7 +38717,7 @@
           "note": "172.12"
         },
         {
-          "id": "seven-21-730",
+          "id": "seven-21-729",
           "name": "巧克力霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
@@ -38691,7 +38730,7 @@
           "note": "184.75"
         },
         {
-          "id": "seven-21-731",
+          "id": "seven-21-730",
           "name": "草莓開運霜饗霜淇淋",
           "original_price": 49,
           "friendly_price": 24,
