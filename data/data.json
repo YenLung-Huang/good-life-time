@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:13:32.525917+08:00",
+  "updated_at": "2026-10-14T23:11:16.018518+08:00",
   "stores": [
     {
       "id": "family",
@@ -1332,19 +1332,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量724大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1465004",
-          "name": "慢燉滷肉油蔥粄條",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1465004.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量613大卡，本包裝含1份"
         },
         {
           "id": "family-1477017",
@@ -4738,19 +4725,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量319.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1553003",
-          "name": "花生巧克力閃電泡芙",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1553003.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量226大卡，本包裝含1份"
         },
         {
           "id": "family-1558421",
@@ -9366,6 +9340,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量176大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1191289",
+          "name": "岩鹽焦糖雪糕",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1191289.jpg",
+          "stock": "",
+          "category": "冰品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量232大卡，本包裝含1份"
         },
         {
           "id": "family-1191320",
