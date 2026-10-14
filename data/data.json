@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:17:22.664724+08:00",
+  "updated_at": "2026-10-14T13:11:11.715925+08:00",
   "stores": [
     {
       "id": "family",
@@ -5729,7 +5729,7 @@
         },
         {
           "id": "family-1586048",
-          "name": "一配巧克力派司",
+          "name": "巧克力派司",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20988,6 +20988,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量50大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1561608",
+          "name": "蠟筆小新蘋果糖葫蘆風味餅乾",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1561608.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量99大卡，本包裝含1份"
         },
         {
           "id": "family-1561662",
