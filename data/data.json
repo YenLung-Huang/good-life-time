@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T18:18:35.722134+08:00",
+  "updated_at": "2026-10-15T23:12:04.078415+08:00",
   "stores": [
     {
       "id": "family",
@@ -20951,6 +20951,58 @@
           "note": "熱量157大卡，本包裝含3份"
         },
         {
+          "id": "family-1555091",
+          "name": "ＣＡＣＡＯ９５％黑巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555091.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量29.9大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1555100",
+          "name": "ＣＡＣＡＯ８６％黑巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555100.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量28.6大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1555128",
+          "name": "明治草莓夾餡可可製品（條裝）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555128.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量25大卡，本包裝含10份"
+        },
+        {
+          "id": "family-1555132",
+          "name": "Ｇａｌｂｏ黑脆巧酥可可球",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555132.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量220大卡，本包裝含1份"
+        },
+        {
           "id": "family-1555350",
           "name": "瞎咪異鼠老鼠造型軟糖",
           "original_price": 0,
@@ -21381,7 +21433,7 @@
         },
         {
           "id": "family-1589787",
-          "name": "可脆層牛奶巧克力棒（含餡）",
+          "name": "可可脆層牛奶巧克力棒（含餡）",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
