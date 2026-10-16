@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:48:08.121255+08:00",
+  "updated_at": "2026-10-16T22:31:54.573929+08:00",
   "stores": [
     {
       "id": "family",
@@ -2088,19 +2088,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-0243003",
-          "name": "麻豆文旦袋(常溫原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0243003.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
           "id": "family-0249372",
           "name": "有機水蓮",
           "original_price": 0,
@@ -3895,19 +3882,6 @@
           "note": "熱量104.4大卡，本包裝含1份"
         },
         {
-          "id": "family-1620052",
-          "name": "韓式泡菜",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1620052.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量26.3大卡，本包裝含5份"
-        },
-        {
           "id": "family-1620098",
           "name": "黃金泡菜",
           "original_price": 0,
@@ -4725,19 +4699,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量154大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1550073",
-          "name": "布朗尼鹹奶蓋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1550073.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量197.4大卡，本包裝含1份"
         },
         {
           "id": "family-1552752",
@@ -11675,32 +11636,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1330487.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量200.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1423490",
-          "name": "桂格純植蛋白奶原味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1423490.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量234.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1433483",
-          "name": "桂格純植蛋白奶杏仁果風味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1433483.jpg",
           "stock": "",
           "category": "乳製品",
           "store_name": "全家便利商店",
@@ -20611,19 +20546,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量105大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1513837",
-          "name": "厚切洋芋片勁辣唐辛子口味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1513837.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量140大卡，本包裝含7份"
         },
         {
           "id": "family-1515293",
