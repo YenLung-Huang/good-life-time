@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:33:29.597463+08:00",
+  "updated_at": "2026-10-16T13:01:16.156435+08:00",
   "stores": [
     {
       "id": "family",
@@ -7523,7 +7523,7 @@
         },
         {
           "id": "family-1531366",
-          "name": "特大冰黑糖ＱＱ鮮露紅茶",
+          "name": "特大冰黑糖QQ鮮露紅茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7536,7 +7536,7 @@
         },
         {
           "id": "family-1531370",
-          "name": "特大冰黑糖ＱＱ白烏龍茶",
+          "name": "特大冰黑糖QQ白烏龍茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7549,7 +7549,7 @@
         },
         {
           "id": "family-1531384",
-          "name": "特大冰黑糖ＱＱ白奶茶",
+          "name": "特大冰黑糖QQ白奶茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7562,7 +7562,7 @@
         },
         {
           "id": "family-1531607",
-          "name": "特大冰黑糖ＱＱ紅奶茶",
+          "name": "特大冰黑糖QQ紅奶茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7575,7 +7575,7 @@
         },
         {
           "id": "family-1531625",
-          "name": "膠—特大冰黑糖ＱＱ白烏龍",
+          "name": "特大冰黑糖QQ白烏龍",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7601,7 +7601,7 @@
         },
         {
           "id": "family-1531661",
-          "name": "膠—特大冰黑糖ＱＱ烏龍奶茶",
+          "name": "特大冰黑糖QQ烏龍奶茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -7614,7 +7614,7 @@
         },
         {
           "id": "family-1531689",
-          "name": "膠—特大冰黑糖ＱＱ鮮露奶茶",
+          "name": "特大冰黑糖QQ鮮露奶茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20952,7 +20952,7 @@
         },
         {
           "id": "family-1555091",
-          "name": "ＣＡＣＡＯ９５％黑巧克力",
+          "name": "CACAO95%黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20965,7 +20965,7 @@
         },
         {
           "id": "family-1555100",
-          "name": "ＣＡＣＡＯ８６％黑巧克力",
+          "name": "CACAO86%黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20978,7 +20978,7 @@
         },
         {
           "id": "family-1555128",
-          "name": "明治草莓夾餡可可製品（條裝）",
+          "name": "明治草莓夾餡可可製品",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20991,7 +20991,7 @@
         },
         {
           "id": "family-1555132",
-          "name": "Ｇａｌｂｏ黑脆巧酥可可球",
+          "name": "Galbo黑脆巧酥可可球",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21134,7 +21134,7 @@
         },
         {
           "id": "family-1563696",
-          "name": "纖脆卷—哈庫納瑪辣塔塔風味",
+          "name": "纖脆卷-哈庫納瑪辣塔塔風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21147,7 +21147,7 @@
         },
         {
           "id": "family-1563705",
-          "name": "纖脆卷—秀威米爆花焦糖風味",
+          "name": "纖脆卷-秀威米爆花焦糖風味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21290,7 +21290,7 @@
         },
         {
           "id": "family-1589646",
-          "name": "榛順８５％黑巧克力",
+          "name": "榛順85%黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21394,7 +21394,7 @@
         },
         {
           "id": "family-1589723",
-          "name": "７０％黑巧克力",
+          "name": "70%黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21433,7 +21433,7 @@
         },
         {
           "id": "family-1589787",
-          "name": "可可脆層牛奶巧克力棒（含餡）",
+          "name": "可可脆層牛奶巧克力棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21446,7 +21446,7 @@
         },
         {
           "id": "family-1589791",
-          "name": "可可脆層焦糖巧克力棒（含餡）　",
+          "name": "可可脆層焦糖巧克力棒　",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21511,7 +21511,7 @@
         },
         {
           "id": "family-1589850",
-          "name": "醇享系列＿７２％黑巧克力",
+          "name": "醇享系列72%黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21524,7 +21524,7 @@
         },
         {
           "id": "family-1589864",
-          "name": "醇享系列＿海鹽黑巧克力",
+          "name": "醇享系列-海鹽黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21589,7 +21589,7 @@
         },
         {
           "id": "family-1590049",
-          "name": "Ｍｅｌｔｙｋｉｓｓ　牛奶可可粒",
+          "name": "Meltykiss牛奶可可粒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21602,7 +21602,7 @@
         },
         {
           "id": "family-1590108",
-          "name": "Ｍｅｌｔｙｋｉｓｓ草莓夾餡可可",
+          "name": "Meltykiss草莓夾餡可可",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21615,7 +21615,7 @@
         },
         {
           "id": "family-1590112",
-          "name": "Ｍｅｌｔｙｋｉｓｓ焦糖夾餡可可",
+          "name": "Meltykiss焦糖夾餡可可",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21628,7 +21628,7 @@
         },
         {
           "id": "family-1590130",
-          "name": "Ｍｅｌｔｙｋｉｓｓ冬季限定組合",
+          "name": "Meltykiss冬季限定組合",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21641,7 +21641,7 @@
         },
         {
           "id": "family-1590144",
-          "name": "Ｇｈａｎａ可可棒（花生風味）",
+          "name": "Ghana可可棒(花生風味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21654,7 +21654,7 @@
         },
         {
           "id": "family-1590176",
-          "name": "Ｇｈａｎａ可可棒（杏仁風味）",
+          "name": "Ghana可可棒(杏仁風味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21667,7 +21667,7 @@
         },
         {
           "id": "family-1593229",
-          "name": "ＢｏｎＯＢｏｎ草莓口味可可球",
+          "name": "BonBon草莓口味可可球",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -21680,7 +21680,7 @@
         },
         {
           "id": "family-1593233",
-          "name": "ＢｏｎＯＢｏｎ巧克力口味可可球",
+          "name": "BonBon巧克力口味可可球",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25320,7 +25320,7 @@
         },
         {
           "id": "family-0623792",
-          "name": "惜—漁夫龍蝦風味濃湯",
+          "name": "漁夫龍蝦風味濃湯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -26347,7 +26347,7 @@
         },
         {
           "id": "family-1547400",
-          "name": "淺焙６號茶包式咖啡—咒術迴戰",
+          "name": "淺焙6號茶包式咖啡-咒術迴戰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -26464,7 +26464,7 @@
         },
         {
           "id": "family-1567072",
-          "name": "舒眠茶２ｇｘ５入？盒",
+          "name": "舒眠茶2gx5入",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
