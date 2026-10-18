@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:06:00.422874+08:00",
+  "updated_at": "2026-10-18T21:16:36.245078+08:00",
   "stores": [
     {
       "id": "family",
@@ -11472,19 +11472,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量135大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0875127",
-          "name": "光泉堅果風味植物蛋白飲",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0875127.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量262.3大卡，本包裝含1份"
         },
         {
           "id": "family-1009804",
