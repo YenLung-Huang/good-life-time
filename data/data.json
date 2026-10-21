@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:00:52.287954+08:00",
+  "updated_at": "2026-10-21T12:44:56.557662+08:00",
   "stores": [
     {
       "id": "family",
@@ -607,7 +607,7 @@
         },
         {
           "id": "family-1582949",
-          "name": "一配辣炒梅干肉燥飯糰（區）",
+          "name": "辣炒梅干肉燥飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -28515,6 +28515,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1582258",
+          "name": "金車無加糖牛奶蛋白飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1582258.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量131大卡，本包裝含1份"
         },
         {
           "id": "family-4810012",
