@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:44:56.557662+08:00",
+  "updated_at": "2026-10-21T17:41:05.957763+08:00",
   "stores": [
     {
       "id": "family",
@@ -1709,6 +1709,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量522大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1584155",
+          "name": "二配黑胡椒鐵板雞腿排飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1584155.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量658大卡，本包裝含1份"
         },
         {
           "id": "family-0554650",
