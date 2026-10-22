@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:41:03.182458+08:00",
+  "updated_at": "2026-10-22T13:23:39.693470+08:00",
   "stores": [
     {
       "id": "family",
@@ -1699,7 +1699,7 @@
         },
         {
           "id": "family-1584155",
-          "name": "二配黑胡椒鐵板雞腿排飯",
+          "name": "黑胡椒鐵板雞腿排飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -2319,7 +2319,7 @@
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量43.2大卡，本包裝含1份"
+          "note": "熱量48.6大卡，本包裝含1份"
         },
         {
           "id": "family-0974701",
@@ -7585,6 +7585,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量312大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1559627",
+          "name": "特大冰金桔揪喝檸",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1559627.jpg",
+          "stock": "",
+          "category": "現做飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量181大卡，本包裝含1份"
         },
         {
           "id": "family-0040322",
