@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T09:08:28.003446+08:00",
+  "updated_at": "2026-10-27T14:15:55.333339+08:00",
   "stores": [
     {
       "id": "family",
@@ -1647,7 +1647,7 @@
         },
         {
           "id": "family-1592223",
-          "name": "二配菠菜牛肉蛋拌飯",
+          "name": "菠菜牛肉蛋拌飯",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -13291,7 +13291,7 @@
           "category": "一般飲料",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量0大卡，本包裝含0份"
+          "note": "熱量0大卡，本包裝含1份"
         },
         {
           "id": "family-1010611",
