@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:25:59.510089+08:00",
+  "updated_at": "2026-10-28T22:18:01.997419+08:00",
   "stores": [
     {
       "id": "family",
@@ -370,19 +370,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量162大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1452477",
-          "name": "黑胡椒洋蔥豬飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1452477.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量173大卡，本包裝含1份"
         },
         {
           "id": "family-1462406",
@@ -2895,7 +2882,7 @@
         },
         {
           "id": "family-1576132",
-          "name": "美國甜心蘋果單入裝（冷藏原果）",
+          "name": "美國甜心蘋果單入裝(冷藏原果)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14387,7 +14374,7 @@
         },
         {
           "id": "family-1476607",
-          "name": "Ｏｉ　Ｏｃｈａ　柚子風味綠茶",
+          "name": "Oi Ocha柚子風味綠茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14540,19 +14527,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量188.8大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1528339",
-          "name": "立頓冰梅翡翠",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528339.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量140.8大卡，本包裝含1份"
         },
         {
           "id": "family-1528416",
@@ -14829,7 +14803,7 @@
         },
         {
           "id": "family-1592091",
-          "name": "ＦＭＣ百香銀耳露",
+          "name": "FMC百香銀耳露",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14842,7 +14816,7 @@
         },
         {
           "id": "family-1599661",
-          "name": "Ｏｉ　Ｏｃｈａ　濃香焙茶",
+          "name": "Oi Ocha濃香焙茶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
