@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:34:40.654126+08:00",
+  "updated_at": "2026-10-28T15:25:59.510089+08:00",
   "stores": [
     {
       "id": "family",
@@ -4650,7 +4650,7 @@
         },
         {
           "id": "family-1593174",
-          "name": "巧克力ＱＱ蛋糕捲",
+          "name": "巧克力QQ蛋糕捲",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5612,7 +5612,7 @@
         },
         {
           "id": "family-1592796",
-          "name": "二配黑芝麻紅豆麵包",
+          "name": "黑芝麻紅豆麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5625,7 +5625,7 @@
         },
         {
           "id": "family-1592805",
-          "name": "一配海鹽奶油羅宋",
+          "name": "海鹽奶油羅宋",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -9473,7 +9473,7 @@
         },
         {
           "id": "family-1495041",
-          "name": "百吉ｘ立頓奶茶雪糕",
+          "name": "百吉X立頓奶茶雪糕",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24644,7 +24644,7 @@
         },
         {
           "id": "family-0925025",
-          "name": "惜—鐵觀音焙香歐蕾",
+          "name": "鐵觀音焙香歐蕾",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -25304,6 +25304,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量3大卡，本包裝含5份"
+        },
+        {
+          "id": "family-1571823",
+          "name": "黑糖紅棗奶茶２０ｇｘ４入？盒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1571823.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量87.1大卡，本包裝含4份"
         },
         {
           "id": "family-1574899",
