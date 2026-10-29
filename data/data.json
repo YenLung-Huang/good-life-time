@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T17:21:39.047336+08:00",
+  "updated_at": "2026-10-30T00:19:28.119805+08:00",
   "stores": [
     {
       "id": "family",
@@ -1279,7 +1279,7 @@
           "category": "主餐麵食",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量676大卡，本包裝含1份"
+          "note": "熱量692大卡，本包裝含1份"
         },
         {
           "id": "family-1462074",
@@ -2879,19 +2879,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量20.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1576132",
-          "name": "美國甜心蘋果單入裝(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1576132.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0025146",
@@ -11994,19 +11981,6 @@
           "note": "熱量162.3大卡，本包裝含1份"
         },
         {
-          "id": "family-2820198",
-          "name": "瑞穗麥芽牛奶",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2820198.jpg",
-          "stock": "",
-          "category": "乳製品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量279大卡，本包裝含1份"
-        },
-        {
           "id": "family-2820239",
           "name": "光泉木瓜牛乳",
           "original_price": 0,
@@ -18739,6 +18713,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量162.1大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1017722",
+          "name": "風吃海帶(香辣味)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1017722.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量10大卡，本包裝含1份"
         },
         {
           "id": "family-1021905",
