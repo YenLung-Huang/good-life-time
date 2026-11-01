@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T15:51:23.548971+08:00",
+  "updated_at": "2026-11-01T22:44:37.442645+08:00",
   "stores": [
     {
       "id": "family",
@@ -2283,19 +2283,6 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
-          "id": "family-1057093",
-          "name": "蔥鹽雞肉麵沙拉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1057093.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量186大卡，本包裝含1份"
-        },
-        {
           "id": "family-1122545",
           "name": "黃黃綠綠奇異果(截切)",
           "original_price": 0,
@@ -2840,19 +2827,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量21.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1436304",
-          "name": "海藻野菜沙拉",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1436304.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量20.4大卡，本包裝含1份"
         },
         {
           "id": "family-0025146",
@@ -11371,7 +11345,7 @@
         },
         {
           "id": "family-1257126",
-          "name": "義美優質高蛋白牛乳無加糖",
+          "name": "義美優質高蛋白奶無加糖",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -16620,6 +16594,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量138大卡，本包裝含2份"
+        },
+        {
+          "id": "family-3311691",
+          "name": "藍山咖啡(6入)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3311691.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量101大卡，本包裝含1份"
         },
         {
           "id": "family-3311796",
