@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:29:01.693253+08:00",
+  "updated_at": "2026-11-03T03:43:00.709822+08:00",
   "stores": [
     {
       "id": "family",
@@ -162,19 +162,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量173大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1166929",
-          "name": "長野稻荷壽司(植覺生活)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1166929.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量263大卡，本包裝含1份"
         },
         {
           "id": "family-1169404",
@@ -1620,6 +1607,19 @@
           "note": "熱量471大卡，本包裝含1份"
         },
         {
+          "id": "family-1592273",
+          "name": "二配蔥鹽雞腿排飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1592273.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量424大卡，本包裝含1份"
+        },
+        {
           "id": "family-0554650",
           "name": "香雞蛋堡",
           "original_price": 0,
@@ -2322,6 +2322,19 @@
           "note": "本產品「營養標示」非強制標示項目"
         },
         {
+          "id": "family-1310615",
+          "name": "履歷木瓜(截切)",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1310615.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量69大卡，本包裝含1份"
+        },
+        {
           "id": "family-1320012",
           "name": "燕巢芭樂",
           "original_price": 0,
@@ -2827,6 +2840,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量21.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1567004",
+          "name": "雞肉波奇沙拉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1567004.jpg",
+          "stock": "",
+          "category": "生鮮蔬果沙拉",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量209大卡，本包裝含1份"
         },
         {
           "id": "family-0025146",
@@ -4376,19 +4402,6 @@
           "note": "熱量219大卡，本包裝含1份"
         },
         {
-          "id": "family-1528311",
-          "name": "日夏檸檬Q堤",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1528311.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量196大卡，本包裝含1份"
-        },
-        {
           "id": "family-1530829",
           "name": "香草卡士達生甜甜圈",
           "original_price": 0,
@@ -5349,19 +5362,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量463大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1522529",
-          "name": "鹹香核桃墨西哥",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1522529.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量398大卡，本包裝含1份"
         },
         {
           "id": "family-1530774",
