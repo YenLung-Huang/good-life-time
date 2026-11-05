@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:13:10.593101+08:00",
+  "updated_at": "2026-11-05T11:30:47.776619+08:00",
   "stores": [
     {
       "id": "family",
@@ -2856,7 +2856,7 @@
         },
         {
           "id": "family-1566967",
-          "name": "（區）彩蔬纖麥麵沙拉",
+          "name": "彩蔬纖麥麵沙拉",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5599,7 +5599,7 @@
         },
         {
           "id": "family-1592837",
-          "name": "一配莓果穀物燕麥餐包",
+          "name": "莓果穀物燕麥餐包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5612,7 +5612,7 @@
         },
         {
           "id": "family-1592873",
-          "name": "一配焙煎核桃乳酪貝果",
+          "name": "焙煎核桃乳酪貝果",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
