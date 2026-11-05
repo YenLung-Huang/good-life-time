@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:30:47.776619+08:00",
+  "updated_at": "2026-11-05T19:30:22.017690+08:00",
   "stores": [
     {
       "id": "family",
@@ -555,7 +555,7 @@
         },
         {
           "id": "family-1591904",
-          "name": "一配蒲燒鰻魚飯糰",
+          "name": "蒲燒鰻魚飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -581,7 +581,7 @@
         },
         {
           "id": "family-1592637",
-          "name": "一配日本稻荷壽司",
+          "name": "日本稻荷壽司",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
