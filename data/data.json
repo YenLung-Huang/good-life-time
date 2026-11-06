@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:42:02.400408+08:00",
+  "updated_at": "2026-11-06T22:37:46.185293+08:00",
   "stores": [
     {
       "id": "family",
@@ -422,19 +422,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量200大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1537930",
-          "name": "蔥花生鮪魚脆卷",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1537930.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量117大卡，本包裝含1份"
         },
         {
           "id": "family-1538627",
@@ -1685,19 +1672,6 @@
           "note": "熱量237大卡，本包裝含1份"
         },
         {
-          "id": "family-1160050",
-          "name": "美式雞腿堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1160050.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量379大卡，本包裝含1份"
-        },
-        {
           "id": "family-1166892",
           "name": "紐奧良風味烤雞鮮蔬三明治",
           "original_price": 0,
@@ -2060,19 +2034,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量85大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0320990",
-          "name": "有機地瓜葉(玉美)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0320990.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
         },
         {
           "id": "family-0357684",
@@ -3282,19 +3243,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量141.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1130859",
-          "name": "香脆泡菜",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1130859.jpg",
-          "stock": "",
-          "category": "小菜、滷味、湯品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量42.8大卡，本包裝含1.6份"
         },
         {
           "id": "family-1142044",
@@ -18481,19 +18429,6 @@
           "note": "熱量61大卡，本包裝含2份"
         },
         {
-          "id": "family-1005628",
-          "name": "迷你葡萄罐(糖果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1005628.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量28大卡，本包裝含1份"
-        },
-        {
           "id": "family-1017368",
           "name": "PEPERO草莓脆粒餅乾棒",
           "original_price": 0,
@@ -19586,19 +19521,6 @@
           "note": "熱量162大卡，本包裝含1份"
         },
         {
-          "id": "family-1495378",
-          "name": "超酸檸檬QQ糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1495378.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量92.3大卡，本包裝含2份"
-        },
-        {
           "id": "family-1513805",
           "name": "MiNi燒番麥",
           "original_price": 0,
@@ -19677,19 +19599,6 @@
           "note": "熱量49大卡，本包裝含2.8份"
         },
         {
-          "id": "family-1527965",
-          "name": "雀巢巧酥脆脆牛奶巧克力威化",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1527965.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量198大卡，本包裝含1份"
-        },
-        {
           "id": "family-1527979",
           "name": "知育果子DIY-戰鬥陀螺小達人",
           "original_price": 0,
@@ -19701,19 +19610,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量80大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1530615",
-          "name": "哈瑞寶酸甜彩色蟲蟲Ｑ軟糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530615.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量236大卡，本包裝含1份"
         },
         {
           "id": "family-1530801",
@@ -21833,19 +21729,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量111大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3722800",
-          "name": "OG美味星棒棒糖-蘋果糖",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3722800.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量119大卡，本包裝含1份"
         },
         {
           "id": "family-3723024",
@@ -24212,6 +24095,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量65大卡，本包裝含4份"
+        },
+        {
+          "id": "family-0755975",
+          "name": "經典歐式熱狗腸",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0755975.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量26大卡，本包裝含9份"
         },
         {
           "id": "family-0781736",
