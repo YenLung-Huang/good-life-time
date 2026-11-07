@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:21:12.119723+08:00",
+  "updated_at": "2026-11-07T21:23:37.546758+08:00",
   "stores": [
     {
       "id": "family",
@@ -1345,19 +1345,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量626大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1535233",
-          "name": "愛恨椒芝麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1535233.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量503大卡，本包裝含1份"
         },
         {
           "id": "family-1537312",
@@ -10588,19 +10575,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量234大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1512368",
-          "name": "香辣花枝丸",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1512368.jpg",
-          "stock": "",
-          "category": "冷凍食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量60.6大卡，本包裝含2份"
         },
         {
           "id": "family-1547537",
