@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:35:42.478395+08:00",
+  "updated_at": "2026-11-10T04:06:51.139860+08:00",
   "stores": [
     {
       "id": "family",
@@ -1763,19 +1763,6 @@
           "note": "熱量257大卡，本包裝含1份"
         },
         {
-          "id": "family-1500482",
-          "name": "金黃玉米蛋三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1500482.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量241大卡，本包裝含1份"
-        },
-        {
           "id": "family-1521600",
           "name": "超HOT雞腿堡",
           "original_price": 0,
@@ -2151,19 +2138,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量60.4大卡，本包裝含1份"
-        },
-        {
-          "id": "family-0860384",
-          "name": "甘露梨(截切)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0860384.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量48.6大卡，本包裝含1份"
         },
         {
           "id": "family-0974701",
@@ -4272,19 +4246,6 @@
           "note": "熱量217大卡，本包裝含1份"
         },
         {
-          "id": "family-1432091",
-          "name": "生巧克力派-桔梗屋監製信玄餅味",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1432091.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量258.9大卡，本包裝含1份"
-        },
-        {
           "id": "family-1439320",
           "name": "福樂頂級鮮奶優酪500g",
           "original_price": 0,
@@ -5362,19 +5323,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量304大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1530788",
-          "name": "伯爵橘丁切片軟歐",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530788.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量401大卡，本包裝含1份"
         },
         {
           "id": "family-1538077",
@@ -8079,6 +8027,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量323.5大卡，本包裝含6份"
+        },
+        {
+          "id": "family-1603860",
+          "name": "三角起司酥派",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1603860.jpg",
+          "stock": "",
+          "category": "燒烤食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量259.2大卡，本包裝含12份"
         },
         {
           "id": "family-0644760",
@@ -20468,6 +20429,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量87大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1600294",
+          "name": "辣傑克起司棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1600294.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量103大卡，本包裝含1份"
         },
         {
           "id": "family-1640010",
