@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T07:20:04.698376+08:00",
+  "updated_at": "2026-11-11T10:54:39.834470+08:00",
   "stores": [
     {
       "id": "family",
@@ -568,7 +568,7 @@
         },
         {
           "id": "family-1605280",
-          "name": "一配照燒青甘魚飯糰",
+          "name": "照燒青甘魚飯糰",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -4507,7 +4507,7 @@
         },
         {
           "id": "family-1581707",
-          "name": "ＣＯＮＦＥＸ蛋糕—咖啡牛奶口味",
+          "name": "CONFEX蛋糕-咖啡牛奶口味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5547,7 +5547,7 @@
         },
         {
           "id": "family-1604757",
-          "name": "一配熟成酸種藍莓軟歐",
+          "name": "熟成酸種藍莓軟歐",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5560,7 +5560,7 @@
         },
         {
           "id": "family-1604775",
-          "name": "一配熟成酸種洛神軟歐",
+          "name": "熟成酸種洛神軟歐",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19912,7 +19912,7 @@
         },
         {
           "id": "family-1560939",
-          "name": "惜—愛心耳機糖果包",
+          "name": "愛心耳機糖果包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19925,7 +19925,7 @@
         },
         {
           "id": "family-1560957",
-          "name": "惜—吐司造型糖果扭蛋機",
+          "name": "吐司造型糖果扭蛋機",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24904,7 +24904,7 @@
         },
         {
           "id": "family-1571823",
-          "name": "黑糖紅棗奶茶２０ｇｘ４入？盒",
+          "name": "黑糖紅棗奶茶(20gX4入)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24917,7 +24917,7 @@
         },
         {
           "id": "family-1574899",
-          "name": "草莓奶茶２０ｇｘ４入？盒",
+          "name": "草莓奶茶(20gX4入)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24956,7 +24956,7 @@
         },
         {
           "id": "family-1584587",
-          "name": "香菇肉？調理包２００ｇ？盒",
+          "name": "香菇肉焿調理包200g",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
