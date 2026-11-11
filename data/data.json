@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:20:57.873074+08:00",
+  "updated_at": "2026-11-12T01:58:45.163883+08:00",
   "stores": [
     {
       "id": "family",
@@ -18248,7 +18248,7 @@
         },
         {
           "id": "family-0817690",
-          "name": "百奇杏仁粒粒可可棒",
+          "name": "Ｐｏｃｋｙ百奇杏仁粒粒可可棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -18651,7 +18651,7 @@
         },
         {
           "id": "family-1074017",
-          "name": "百奇藍莓果粒優格棒",
+          "name": "Ｐｏｃｋｙ百奇藍莓果粒優格棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19599,6 +19599,19 @@
           "note": "熱量162大卡，本包裝含1份"
         },
         {
+          "id": "family-1493744",
+          "name": "Ｐｏｃｋｙ百奇椰子風味可可棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1493744.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量116.4大卡，本包裝含2份"
+        },
+        {
           "id": "family-1513805",
           "name": "MiNi燒番麥",
           "original_price": 0,
@@ -20029,7 +20042,7 @@
         },
         {
           "id": "family-1566080",
-          "name": "巧克力棒",
+          "name": "Ｐｏｃｋｙ百奇　巧克力棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
