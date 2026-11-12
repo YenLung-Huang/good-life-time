@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:28:30.842316+08:00",
+  "updated_at": "2026-11-12T15:36:32.310486+08:00",
   "stores": [
     {
       "id": "family",
@@ -11436,7 +11436,7 @@
         },
         {
           "id": "family-1591881",
-          "name": "ＦＭＣ紅豆薏仁漿",
+          "name": "FMC紅豆薏仁漿",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -14618,6 +14618,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量95.9大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1592100",
+          "name": "好時可可蛋白風味飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1592100.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量181大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1592287",
+          "name": "好時可可風味飲",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1592287.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量158大卡，本包裝含1份"
         },
         {
           "id": "family-1599661",
@@ -18651,7 +18677,7 @@
         },
         {
           "id": "family-1074017",
-          "name": "Ｐｏｃｋｙ百奇藍莓果粒優格棒",
+          "name": "Pocky百奇藍莓果粒優格棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19600,7 +19626,7 @@
         },
         {
           "id": "family-1493744",
-          "name": "Ｐｏｃｋｙ百奇椰子風味可可棒",
+          "name": "Pocky百奇椰子風味可可棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19821,7 +19847,7 @@
         },
         {
           "id": "family-1555287",
-          "name": "７７乳加星球巧克力—開心果牛奶",
+          "name": "77乳加星球巧克力-開心果牛奶",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20042,7 +20068,7 @@
         },
         {
           "id": "family-1566080",
-          "name": "Ｐｏｃｋｙ百奇　巧克力棒",
+          "name": "Pocky百奇巧克力棒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20094,7 +20120,7 @@
         },
         {
           "id": "family-1586993",
-          "name": "乖乖玉米脆條—香濃巧克力",
+          "name": "乖乖玉米脆條-香濃巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20107,7 +20133,7 @@
         },
         {
           "id": "family-1589573",
-          "name": "天使之髮．開心果雲芯巧克力",
+          "name": "天使之髮-開心果雲芯巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -24888,6 +24914,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量146大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1566953",
+          "name": "獨享快樂鬆",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1566953.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量59大卡，本包裝含1份"
         },
         {
           "id": "family-1567068",
