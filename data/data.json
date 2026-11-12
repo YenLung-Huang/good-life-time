@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:36:32.310486+08:00",
+  "updated_at": "2026-11-13T00:16:25.288722+08:00",
   "stores": [
     {
       "id": "family",
@@ -1137,19 +1137,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量406大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1400543",
-          "name": "香煎魚排佐檸檬奶油義大利麵",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1400543.jpg",
-          "stock": "",
-          "category": "主餐麵食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量459大卡，本包裝含1份"
         },
         {
           "id": "family-1408446",
@@ -7715,19 +7702,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量193大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1059704",
-          "name": "義式起司雞肉熱狗",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1059704.jpg",
-          "stock": "",
-          "category": "燒烤食品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量190大卡，本包裝含1份"
         },
         {
           "id": "family-1077629",
@@ -17985,6 +17959,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量201.8大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0600045",
+          "name": "麥維他夾心消化餅朱古力口味",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0600045.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量204大卡，本包裝含1份"
         },
         {
           "id": "family-0612094",
