@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:31:30.091360+08:00",
+  "updated_at": "2026-11-14T02:04:17.284676+08:00",
   "stores": [
     {
       "id": "family",
@@ -1815,19 +1815,6 @@
           "note": "熱量388大卡，本包裝含1份"
         },
         {
-          "id": "family-1523157",
-          "name": "蕈菇起司蛋貝果堡",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1523157.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量352大卡，本包裝含1份"
-        },
-        {
           "id": "family-1539500",
           "name": "益活雞力能量堡",
           "original_price": 0,
@@ -2120,19 +2107,6 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.0513010.jpg",
-          "stock": "",
-          "category": "生鮮蔬果沙拉",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "本產品「營養標示」非強制標示項目"
-        },
-        {
-          "id": "family-0568229",
-          "name": "加州綠無籽葡萄(冷藏原果)",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0568229.jpg",
           "stock": "",
           "category": "生鮮蔬果沙拉",
           "store_name": "全家便利商店",
@@ -5440,6 +5414,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量274大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1567640",
+          "name": "阿蘇牛乳海鹽軟歐",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1567640.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量307大卡，本包裝含1份"
         },
         {
           "id": "family-1585983",
