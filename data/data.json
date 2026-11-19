@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:11:28.310656+08:00",
+  "updated_at": "2026-11-19T21:09:28.323135+08:00",
   "stores": [
     {
       "id": "family",
@@ -135,7 +135,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量194大卡，本包裝含1份"
+          "note": "熱量185大卡，本包裝含1份"
         },
         {
           "id": "family-1123941",
@@ -1477,6 +1477,19 @@
           "note": "熱量617大卡，本包裝含1份"
         },
         {
+          "id": "family-1566094",
+          "name": "鐵道滷排便當",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1566094.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量668大卡，本包裝含1份"
+        },
+        {
           "id": "family-1567036",
           "name": "排骨湯麵",
           "original_price": 0,
@@ -1490,17 +1503,30 @@
           "note": "熱量520大卡，本包裝含1份"
         },
         {
-          "id": "family-1581620",
-          "name": "青辣椒檸檬炭香漢堡排飯",
+          "id": "family-1582830",
+          "name": "海陸雙拼肉肉餐盒",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1581620.jpg",
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1582830.jpg",
           "stock": "",
           "category": "主餐麵食",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量604大卡，本包裝含1份"
+          "note": "熱量471大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1584169",
+          "name": "香料烤魚青醬燉飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1584169.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量480大卡，本包裝含1份"
         },
         {
           "id": "family-1587276",
@@ -4504,19 +4530,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量267.1大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1593215",
-          "name": "巴斯克泡芙",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1593215.jpg",
-          "stock": "",
-          "category": "蛋糕甜品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量138大卡，本包裝含1份"
         },
         {
           "id": "family-1593247",
@@ -14399,6 +14412,19 @@
           "note": "熱量95.2大卡，本包裝含2份"
         },
         {
+          "id": "family-1586593",
+          "name": "原萃靜岡焙茶",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1586593.jpg",
+          "stock": "",
+          "category": "一般飲料",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量0大卡，本包裝含2份"
+        },
+        {
           "id": "family-1589505",
           "name": "義美高蛋白無加糖豆奶",
           "original_price": 0,
@@ -18884,6 +18910,19 @@
           "note": "熱量49大卡，本包裝含6份"
         },
         {
+          "id": "family-1266086",
+          "name": "軟質起司抹醬",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1266086.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量22大卡，本包裝含20份"
+        },
+        {
           "id": "family-1269466",
           "name": "長榮嚴選果舖物語米果經濟艙",
           "original_price": 0,
@@ -18934,19 +18973,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量229大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1273776",
-          "name": "蛋酒風味夾心巧克力棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1273776.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量199大卡，本包裝含1份"
         },
         {
           "id": "family-1273899",
@@ -19025,19 +19051,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量115.7大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1298825",
-          "name": "日本全家微辣烤魚香條",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1298825.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量91.9大卡，本包裝含1份"
         },
         {
           "id": "family-1299130",
@@ -20015,6 +20028,45 @@
           "note": "熱量125大卡，本包裝含2份"
         },
         {
+          "id": "family-1587026",
+          "name": "捲心酥　（草莓牛奶口味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1587026.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量84.8大卡，本包裝含5份"
+        },
+        {
+          "id": "family-1589541",
+          "name": "ｋｙｒａ杜拜進口含餡巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1589541.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量113大卡，本包裝含3份"
+        },
+        {
+          "id": "family-1589555",
+          "name": "杏仁可可球（榴槤風味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1589555.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量316.4大卡，本包裝含1份"
+        },
+        {
           "id": "family-1589573",
           "name": "天使之髮-開心果雲芯巧克力",
           "original_price": 0,
@@ -20481,6 +20533,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量198大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1593188",
+          "name": "ＭＩＬＫＡ草莓夾心牛奶巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1593188.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量113大卡，本包裝含5份"
         },
         {
           "id": "family-1593229",
