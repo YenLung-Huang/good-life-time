@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:09:28.323135+08:00",
+  "updated_at": "2026-11-20T05:31:44.763838+08:00",
   "stores": [
     {
       "id": "family",
@@ -20611,6 +20611,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量476大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1622018",
+          "name": "酷洛米造型可可",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1622018.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量103.8大卡，本包裝含2份"
+        },
+        {
+          "id": "family-1622022",
+          "name": "瑞特滋冬季限定片裝巧克力禮盒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1622022.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量91大卡，本包裝含2份"
         },
         {
           "id": "family-1640010",
