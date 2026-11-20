@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T05:31:44.763838+08:00",
+  "updated_at": "2026-11-20T10:37:06.530501+08:00",
   "stores": [
     {
       "id": "family",
@@ -14387,7 +14387,7 @@
         },
         {
           "id": "family-1566494",
-          "name": "ＵＣＣ瓜地馬拉藝妓黑咖啡",
+          "name": "UCC瓜地馬拉藝妓黑咖啡",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20029,7 +20029,7 @@
         },
         {
           "id": "family-1587026",
-          "name": "捲心酥　（草莓牛奶口味）",
+          "name": "捲心酥(草莓牛奶口味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20042,7 +20042,7 @@
         },
         {
           "id": "family-1589541",
-          "name": "ｋｙｒａ杜拜進口含餡巧克力",
+          "name": "kyra杜拜進口含餡巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20060,6 +20060,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.1589555.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量316.4大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1589569",
+          "name": "杏仁可可球（提拉米蘇風味）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1589569.jpg",
           "stock": "",
           "category": "點心零食",
           "store_name": "全家便利商店",
@@ -20536,7 +20549,7 @@
         },
         {
           "id": "family-1593188",
-          "name": "ＭＩＬＫＡ草莓夾心牛奶巧克力",
+          "name": "MILKA草莓夾心牛奶巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20588,7 +20601,7 @@
         },
         {
           "id": "family-1607791",
-          "name": "哇象海苔迷你捲　—　辣味",
+          "name": "哇象海苔迷你捲-辣味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
