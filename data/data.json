@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T10:37:06.530501+08:00",
+  "updated_at": "2026-11-20T18:30:49.619753+08:00",
   "stores": [
     {
       "id": "family",
@@ -1543,7 +1543,7 @@
         },
         {
           "id": "family-1587721",
-          "name": "蕃茄起司手工千層麵（區）",
+          "name": "蕃茄起司手工千層麵",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -3726,6 +3726,19 @@
           "note": "熱量325大卡，本包裝含1份"
         },
         {
+          "id": "family-1604652",
+          "name": "台式蒜味小寬粉",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1604652.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量228大卡，本包裝含1份"
+        },
+        {
           "id": "family-1620048",
           "name": "翡翠海帶絲",
           "original_price": 0,
@@ -5479,6 +5492,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量345大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1606054",
+          "name": "青森蘋果紅茶夾心土司",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1606054.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量201大卡，本包裝含1份"
         },
         {
           "id": "family-1830055",
