@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:42:39.163343+08:00",
+  "updated_at": "2026-11-21T23:38:13.651315+08:00",
   "stores": [
     {
       "id": "family",
@@ -1787,19 +1787,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量240大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1454647",
-          "name": "茄汁厚起司三明治",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1454647.jpg",
-          "stock": "",
-          "category": "三明治漢堡",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量257大卡，本包裝含1份"
         },
         {
           "id": "family-1521600",
@@ -22938,6 +22925,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量182大卡，本包裝含2份"
+        },
+        {
+          "id": "family-3962222",
+          "name": "能多益榛果可可威化棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3962222.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量114大卡，本包裝含1份"
         },
         {
           "id": "family-3970045",
