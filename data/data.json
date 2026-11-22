@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:30:11.464525+08:00",
+  "updated_at": "2026-11-23T00:38:00.411648+08:00",
   "stores": [
     {
       "id": "family",
@@ -5312,19 +5312,6 @@
           "note": "熱量317大卡，本包裝含1份"
         },
         {
-          "id": "family-1561753",
-          "name": "焙茶麻吉麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1561753.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量274大卡，本包裝含1份"
-        },
-        {
           "id": "family-1567640",
           "name": "阿蘇牛乳海鹽軟歐",
           "original_price": 0,
@@ -10577,6 +10564,19 @@
           "note": "熱量251大卡，本包裝含3份"
         },
         {
+          "id": "family-2410476",
+          "name": "鮮肉湯圓",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2410476.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量302大卡，本包裝含2份"
+        },
+        {
           "id": "family-2410549",
           "name": "輕鬆生活鮭魚炒飯",
           "original_price": 0,
@@ -10679,6 +10679,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量515大卡，本包裝含1份"
+        },
+        {
+          "id": "family-2411622",
+          "name": "花生湯圓",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2411622.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量366大卡，本包裝含2份"
+        },
+        {
+          "id": "family-2411640",
+          "name": "芝麻湯圓",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.2411640.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量389大卡，本包裝含2份"
         },
         {
           "id": "family-2411727",
@@ -19025,6 +19051,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量115.7大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1298825",
+          "name": "日本全家微辣烤魚香條",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1298825.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量91.9大卡，本包裝含1份"
         },
         {
           "id": "family-1299130",
