@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:03:09.027382+08:00",
+  "updated_at": "2026-11-23T10:44:31.262182+08:00",
   "stores": [
     {
       "id": "family",
@@ -1607,6 +1607,19 @@
           "note": "熱量647大卡，本包裝含1份"
         },
         {
+          "id": "family-1604925",
+          "name": "鮭魚蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1604925.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量709大卡，本包裝含1份"
+        },
+        {
           "id": "family-1605767",
           "name": "麻油菇菇拌麵",
           "original_price": 0,
@@ -2232,7 +2245,7 @@
         },
         {
           "id": "family-1310615",
-          "name": "履歷木瓜(截切)",
+          "name": "鮮切木瓜(截切)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
