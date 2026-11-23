@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T10:44:31.262182+08:00",
+  "updated_at": "2026-11-23T19:19:25.108247+08:00",
   "stores": [
     {
       "id": "family",
@@ -213,7 +213,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量195大卡，本包裝含1份"
+          "note": "熱量188大卡，本包裝含1份"
         },
         {
           "id": "family-1197299",
@@ -3698,6 +3698,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量325大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1591722",
+          "name": "濃厚起司漢堡排",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1591722.jpg",
+          "stock": "",
+          "category": "小菜、滷味、湯品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量209大卡，本包裝含1份"
         },
         {
           "id": "family-1604652",
@@ -10120,6 +10133,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量293.5大卡，本包裝含1份"
+        },
+        {
+          "id": "family-0846168",
+          "name": "鮭魚蛋炒飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0846168.jpg",
+          "stock": "",
+          "category": "冷凍食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量383大卡，本包裝含1份"
         },
         {
           "id": "family-0851765",
@@ -19755,6 +19781,19 @@
           "note": "熱量174大卡，本包裝含12份"
         },
         {
+          "id": "family-1555291",
+          "name": "比菲多冰糖機能軟糖（綜合水果）",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1555291.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量14大卡，本包裝含10份"
+        },
+        {
           "id": "family-1555332",
           "name": "鹽味檸檬QQ糖",
           "original_price": 0,
@@ -20377,6 +20416,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量198大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1591495",
+          "name": "Ｖｉｌｌａｒｓ榛果牛奶巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1591495.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量56.3大卡，本包裝含10份"
+        },
+        {
+          "id": "family-1591518",
+          "name": "Ｖｉｌｌａｒｓ糖漬橙皮黑巧克力",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1591518.jpg",
+          "stock": "",
+          "category": "點心零食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量50.5大卡，本包裝含10份"
         },
         {
           "id": "family-1593229",
