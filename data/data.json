@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:07:50.050032+08:00",
+  "updated_at": "2026-11-26T05:40:33.325698+08:00",
   "stores": [
     {
       "id": "family",
@@ -1982,6 +1982,32 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量379大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1625557",
+          "name": "好多起司三明治",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1625557.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量354大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1627731",
+          "name": "熔岩起司火腿堡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1627731.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量247大卡，本包裝含1份"
         },
         {
           "id": "family-0052567",
@@ -5336,19 +5362,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量463大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1530774",
-          "name": "生藍莓優格滿餡麵包",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1530774.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量304大卡，本包裝含1份"
         },
         {
           "id": "family-1538077",
@@ -8822,19 +8835,6 @@
           "note": "熱量198大卡，本包裝含1份"
         },
         {
-          "id": "family-1056910",
-          "name": "31BR薄荷巧克力口味冰淇淋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1056910.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量192大卡，本包裝含1份"
-        },
-        {
           "id": "family-1056924",
           "name": "義美黑餅乾鮮乳銅鑼燒冰淇淋",
           "original_price": 0,
@@ -9379,19 +9379,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量268大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1546854",
-          "name": "樂天懷舊糯玉米冰淇淋",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1546854.jpg",
-          "stock": "",
-          "category": "冰品",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量163大卡，本包裝含1份"
         },
         {
           "id": "family-1546890",
@@ -22327,19 +22314,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量210大卡，本包裝含2份"
-        },
-        {
-          "id": "family-3820088",
-          "name": "海鹽薯條",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.3820088.jpg",
-          "stock": "",
-          "category": "點心零食",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量116大卡，本包裝含2份"
         },
         {
           "id": "family-3820515",
