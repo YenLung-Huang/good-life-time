@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:47:16.687643+08:00",
+  "updated_at": "2026-11-25T20:07:50.050032+08:00",
   "stores": [
     {
       "id": "family",
@@ -1657,6 +1657,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量490大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1607705",
+          "name": "嘉義劉里長雞滷飯",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1607705.jpg",
+          "stock": "",
+          "category": "主餐麵食",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量519大卡，本包裝含1份"
         },
         {
           "id": "family-1621258",
@@ -24409,6 +24422,19 @@
           "note": "熱量142大卡，本包裝含1份"
         },
         {
+          "id": "family-0925425",
+          "name": "國芝牛樟芝B膠囊",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0925425.jpg",
+          "stock": "",
+          "category": "加工食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
           "id": "family-0940710",
           "name": "海苔豆腐味噌湯",
           "original_price": 0,
@@ -27093,6 +27119,19 @@
           "friendly_price": 0,
           "discount_percent": 0,
           "image_url": "https://foodsafety.family.com.tw/product_img/003004.0924801.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "本產品「營養標示」非強制標示項目"
+        },
+        {
+          "id": "family-0925425",
+          "name": "國芝牛樟芝B膠囊",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.0925425.jpg",
           "stock": "",
           "category": "營養食品",
           "store_name": "全家便利商店",
