@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:32:26.334251+08:00",
+  "updated_at": "2026-11-27T06:36:03.507037+08:00",
   "stores": [
     {
       "id": "family",
@@ -4649,6 +4649,19 @@
           "note": "熱量238大卡，本包裝含1份"
         },
         {
+          "id": "family-1623246",
+          "name": "牛乳吉棒棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1623246.jpg",
+          "stock": "",
+          "category": "蛋糕甜品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量294大卡，本包裝含1份"
+        },
+        {
           "id": "family-1761254",
           "name": "雙經典泡芙超值禮盒",
           "original_price": 0,
@@ -5544,19 +5557,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量456大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1623246",
-          "name": "牛乳吉棒棒",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1623246.jpg",
-          "stock": "",
-          "category": "麵包",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量294大卡，本包裝含1份"
         },
         {
           "id": "family-1830055",
