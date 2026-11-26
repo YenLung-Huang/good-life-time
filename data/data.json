@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T05:40:33.325698+08:00",
+  "updated_at": "2026-11-26T11:46:22.923095+08:00",
   "stores": [
     {
       "id": "family",
@@ -5534,7 +5534,7 @@
         },
         {
           "id": "family-1622290",
-          "name": "一配菠蘿奶酥麵包",
+          "name": "菠蘿奶酥麵包",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -5544,6 +5544,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量456大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1623246",
+          "name": "牛乳吉棒棒",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1623246.jpg",
+          "stock": "",
+          "category": "麵包",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量294大卡，本包裝含1份"
         },
         {
           "id": "family-1830055",
@@ -8381,7 +8394,7 @@
         },
         {
           "id": "family-1536011",
-          "name": "馬－起司魚板棒（豆腐造型）",
+          "name": "馬-起司魚板棒(豆腐造型)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19639,7 +19652,7 @@
         },
         {
           "id": "family-1475392",
-          "name": "　迷你脆皮蛋口味玉米片",
+          "name": "迷你脆皮蛋口味玉米片",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -19730,7 +19743,7 @@
         },
         {
           "id": "family-1513023",
-          "name": "　秘製雞汁口味洋芋片",
+          "name": "秘製雞汁口味洋芋片",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20237,7 +20250,7 @@
         },
         {
           "id": "family-1589555",
-          "name": "杏仁可可球（榴槤風味）",
+          "name": "杏仁可可球(榴槤風味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20250,7 +20263,7 @@
         },
         {
           "id": "family-1589569",
-          "name": "杏仁可可球（提拉米蘇風味）",
+          "name": "杏仁可可球(提拉米蘇風味)",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20575,7 +20588,7 @@
         },
         {
           "id": "family-1591495",
-          "name": "Ｖｉｌｌａｒｓ榛果牛奶巧克力",
+          "name": "Villars榛果牛奶巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20588,7 +20601,7 @@
         },
         {
           "id": "family-1591518",
-          "name": "Ｖｉｌｌａｒｓ糖漬橙皮黑巧克力",
+          "name": "Villars糖漬橙皮黑巧克力",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
@@ -20653,7 +20666,7 @@
         },
         {
           "id": "family-1607937",
-          "name": "哇象海苔迷你捲　—　原味",
+          "name": "哇象海苔迷你捲-原味",
           "original_price": 0,
           "friendly_price": 0,
           "discount_percent": 0,
