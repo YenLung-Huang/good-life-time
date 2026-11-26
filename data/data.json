@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T11:46:22.923095+08:00",
+  "updated_at": "2026-11-26T21:32:26.334251+08:00",
   "stores": [
     {
       "id": "family",
@@ -149,19 +149,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量176大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1169404",
-          "name": "糖燻野郎起司炙燒牛烤飯糰",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1169404.jpg",
-          "stock": "",
-          "category": "壽司手卷飯糰",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量222大卡，本包裝含1份"
         },
         {
           "id": "family-1179792",
@@ -382,7 +369,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量159大卡，本包裝含1份"
+          "note": "熱量165大卡，本包裝含1份"
         },
         {
           "id": "family-1537762",
@@ -1370,7 +1357,7 @@
           "category": "主餐麵食",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量560大卡，本包裝含1份"
+          "note": "熱量566大卡，本包裝含1份"
         },
         {
           "id": "family-1549098",
@@ -1722,6 +1709,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量202大卡，本包裝含1份"
+        },
+        {
+          "id": "family-1070213",
+          "name": "豬肉起司堡",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1070213.jpg",
+          "stock": "",
+          "category": "三明治漢堡",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量208大卡，本包裝含1份"
         },
         {
           "id": "family-1070336",
@@ -14410,19 +14410,6 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量187.3大卡，本包裝含1份"
-        },
-        {
-          "id": "family-1547573",
-          "name": "PABLO蜜香柚子金萱",
-          "original_price": 0,
-          "friendly_price": 0,
-          "discount_percent": 0,
-          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1547573.jpg",
-          "stock": "",
-          "category": "一般飲料",
-          "store_name": "全家便利商店",
-          "address": "",
-          "note": "熱量148.8大卡，本包裝含1份"
         },
         {
           "id": "family-1547773",
