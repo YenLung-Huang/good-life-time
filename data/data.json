@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T06:36:03.507037+08:00",
+  "updated_at": "2026-11-27T12:32:34.355488+08:00",
   "stores": [
     {
       "id": "family",
@@ -265,7 +265,7 @@
           "category": "壽司手卷飯糰",
           "store_name": "全家便利商店",
           "address": "",
-          "note": "熱量172大卡，本包裝含1份"
+          "note": "熱量179大卡，本包裝含1份"
         },
         {
           "id": "family-1416841",
@@ -27358,6 +27358,19 @@
           "store_name": "全家便利商店",
           "address": "",
           "note": "熱量12大卡，本包裝含14份"
+        },
+        {
+          "id": "family-1567381",
+          "name": "崇德發多醣體護衛汁",
+          "original_price": 0,
+          "friendly_price": 0,
+          "discount_percent": 0,
+          "image_url": "https://foodsafety.family.com.tw/product_img/003004.1567381.jpg",
+          "stock": "",
+          "category": "營養食品",
+          "store_name": "全家便利商店",
+          "address": "",
+          "note": "熱量33.2大卡，本包裝含2份"
         },
         {
           "id": "family-1581725",
